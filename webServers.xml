@@ -1,0 +1,55 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="56315d9d-6e56-4a01-84ad-0f00158227dc" name="mercari-web-dev" url="http://pretty-panda.mercari.jp">
+        <fileTransfer host="pretty-panda.mercari.jp" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/yuisakamoto/mercari-web" accessType="SFTP" passphrase="dfc7dfc3dfd3dfdfdf9bdf9adf9bdf98" username="yuisakamoto" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7c930ecc-d3d1-4b7e-a455-27362223a82f" name="mercari-mini-api" url="http://10.0.0.2">
+        <fileTransfer host="10.0.0.2" port="22" rootFolder="/var/www/vhosts/api.mercariapp.com/current/" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="138ba337-8d26-4e8a-b0d1-c1a5a6dc639b" name="mercari-frontend-dev" url="http://pretty-panda.mercari.jp">
+        <fileTransfer host="pretty-panda.mercari.jp" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/yuisakamoto/mercari-frontend" accessType="SFTP" passphrase="dfc7dfc3dfd3dfdfdf9bdf9adf9bdf98" username="yuisakamoto" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b179a3e7-9c8b-4964-838d-f69e599761cd" name="mercari-admin2-dev" url="http://pretty-panda.mercari.jp">
+        <fileTransfer host="pretty-panda.mercari.jp" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/yuisakamoto/mercari-admin-2" accessType="SFTP" passphrase="dfc7dfc3dfd3dfdfdf9bdf9adf9bdf98" username="yuisakamoto" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="87e1cabf-2180-4f11-a971-e435530392af" name="mercari-web-us-dev" url="http://pretty-panda.mercari.jp">
+        <fileTransfer host="pretty-panda.mercari.jp" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/yuisakamoto/mercari-web-us" accessType="SFTP" passphrase="dfc7dfc3dfd3dfdfdf9bdf9adf9bdf98" username="yuisakamoto" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6650a55d-1841-4be3-84c5-87945347b89c" name="mercari-web-2-dev" url="http://mercari-web-2-dev">
+        <fileTransfer host="mercari-web-2-dev" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/yui_tang/develop/mercari-web-2" accessType="SFTP" passphrase="dfc7dfc3dfd3dfdfdf9bdf9adf9bdf98" username="yui_tang" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="cf4ee51a-d091-4e97-b102-ffc5d0c0b85b" name="mercari-mini-web2" url="http://10.0.0.2">
+        <fileTransfer host="10.0.0.2" port="22" rootFolder="/var/www/vhosts/www.mercari.com/current/" accessType="SFTP" password="dfdcdfcbdfcddfd8dfcbdfc4dfde" username="vagrant">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

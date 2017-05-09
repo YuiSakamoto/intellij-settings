@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/yui_tang/develop/mercari-api/app/views/banner/get_side_menu_banner.php'" />
+    <option name="defaultScopeName" value="File '/Users/yui_tang/develop/mercari-api/app/views/banner/get_side_menu_banner.php'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '/Users/yui_tang/develop/mercari-api/app/views/banner/get_side_menu_banner.php'" />
+  </component>
+</application>
