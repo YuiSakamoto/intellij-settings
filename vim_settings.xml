@@ -15,6 +15,12 @@
         <mark key="^" line="144" column="42" />
         <mark key="." line="144" column="42" />
       </file>
+      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/site.js" timestamp="1496559267412">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/help_center/en_US/buyer_guarantee.html.twig" timestamp="1487033825066">
         <mark key="[" line="18" column="76" />
         <mark key="]" line="18" column="80" />
@@ -30,6 +36,7 @@
       <file name="/a.dummy" timestamp="1493248421311">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/manifest.json" timestamp="1496559167008" />
       <file name="$USER_HOME$/develop/mercari-mini/workspace/mercari-web-2/app/Entity/Brand.php" timestamp="1460452363929">
         <mark key="[" line="13" column="35" />
         <mark key="]" line="13" column="36" />
@@ -56,13 +63,16 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" timestamp="1496141300400">
-        <mark key="'" line="129" column="6" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/sidebar_mypage_nav.html.twig" timestamp="1496319545424">
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="23" column="45" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/help_center.js" timestamp="1493161731166">
         <mark key="'" line="654" column="22" />
@@ -105,9 +115,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" timestamp="1496141687609">
-        <mark key="'" line="254" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/message.html.twig" timestamp="1496319525326">
         <mark key="[" line="51" column="21" />
         <mark key="]" line="51" column="21" />
@@ -147,6 +154,12 @@
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/index.html" timestamp="1496558836161">
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="23" column="45" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="23" column="45" />
+      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/Service/HelpCenterService.php" timestamp="1493248419901">
         <mark key="[" line="582" column="40" />
         <mark key="]" line="582" column="40" />
@@ -170,6 +183,12 @@
         <mark key="." line="48" column="12" />
         <mark key="^" line="48" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/sw.js" timestamp="1496559297461">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1485841833929">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="28" column="36" />
@@ -181,6 +200,12 @@
         <mark key="]" line="25" column="11" />
         <mark key="." line="25" column="11" />
         <mark key="^" line="25" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/dragon.html" timestamp="1496558849024">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="24" column="45" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="24" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/item/detail.html.twig" timestamp="1496319433693">
         <mark key="'" line="187" column="14" />
@@ -298,8 +323,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -362,7 +387,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>/**</text>
       </register>
       <register name="/" type="4">
         <text>dataCacheName</text>
@@ -371,31 +396,31 @@
         <text encoding="base64">ICAgIHRoaXMud2Vidmlld0RvdWJsZSA9IG5hdmlnYXRvci51c2VyQWdlbnQuaW5kZXhPZignTWVyY2FyaV9kLycpID49IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZGlzcGxheSJkICJzdGFuZGFsb25lIiwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAiZGlzcGxheSI6ICJzdGFuZGFsb25lIiwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmFyIGNhY2hlTmFtZSA9ICd3ZWF0aGVyUFdBLXN0ZXAtNi0yJzsKdmFyIGRhdGFDYWNoZU5hbWUgPSAnd2VhdGhlckRhdGEtdjEnOwp2YXIgZmlsZXNUb0NhY2hlID0gWwogICcvJywKICAnL2luZGV4Lmh0bWwnLAogICcvc2NyaXB0cy9hcHAuanMnLAogICcvc3R5bGVzL2lubGluZS5jc3MnLAogICcvaW1hZ2VzL2NsZWFyLnBuZycsCiAgJy9pbWFnZXMvY2xvdWR5LnBuZycsCiAgJy9pbWFnZXMvZm9nLnBuZycsCiAgJy9pbWFnZXMvaWNfYWRkX3doaXRlXzI0cHguc3ZnJywKICAnL2ltYWdlcy9pY19yZWZyZXNoX3doaXRlXzI0cHguc3ZnJywKICAnL2ltYWdlcy9wYXJ0bHktY2xvdWR5LnBuZycsCiAgJy9pbWFnZXMvcmFpbi5wbmcnLAogICcvaW1hZ2VzL3NjYXR0ZXJlZC1zaG93ZXJzLnBuZycsCiAgJy9pbWFnZXMvc2xlZXQucG5nJywKICAnL2ltYWdlcy9zbm93LnBuZycsCiAgJy9pbWFnZXMvdGh1bmRlcnN0b3JtLnBuZycsCiAgJy9pbWFnZXMvd2luZC5wbmcnCl07CgpzZWxmLmFkZEV2ZW50TGlzdGVuZXIoJ2luc3RhbGwnLCBmdW5jdGlvbihlKSB7CiAgY29uc29sZS5sb2coJ1tTZXJ2aWNlV29ya2VyXSBJbnN0YWxsJyk7CiAgZS53YWl0VW50aWwoCiAgICBjYWNoZXMub3BlbihjYWNoZU5hbWUpLnRoZW4oZnVuY3Rpb24oY2FjaGUpIHsKICAgICAgY29uc29sZS5sb2coJ1tTZXJ2aWNlV29ya2VyXSBDYWNoaW5nIGFwcCBzaGVsbCcpOwogICAgICByZXR1cm4gY2FjaGUuYWRkQWxsKGZpbGVzVG9DYWNoZSk7CiAgICB9KQogICkKfSk7CgpzZWxmLmFkZEV2ZW50TGlzdGVuZXIoJ2FjdGl2YXRlJywgZnVuY3Rpb24oZSkgewogIGNvbnNvbGUubG9nKCdbU2VydmljZVdvcmtlcl0gQWN0aXZhdGUnKTsKICBlLndhaXRVbnRpbCgKICAgIGNhY2hlcy5rZXlzKCkudGhlbihmdW5jdGlvbihrZXlMaXN0KSB7CiAgICAgIHJldHVybiBQcm9taXNlLmFsbChrZXlMaXN0Lm1hcChmdW5jdGlvbihrZXkpIHsKICAgICAgICBpZiAoa2V5ICE9PSBjYWNoZU5hbWUgJiYga2V5ICE9PSBkYXRhQ2FjaGVOYW1lKSB7CiAgICAgICAgICBjb25zb2xlLmxvZygnW1NlcnZpY2VXb3JrZXJdIFJlbW92aW5nIG9sZCBjYWNoZScsIGtleSkKICAgICAgICAgIHJldHVybiBjYWNoZXMuZGVsZXRlKGtleSk7CiAgICAgICAgfQogICAgICB9KSk7CiAgICB9KQogICk7CiAgcmV0dXJuIHNlbGYuY2xpZW50cy5jbGFpbSgpOwp9KTsKCnNlbGYuYWRkRXZlbnRMaXN0ZW5lcignZmV0Y2gnLCBmdW5jdGlvbihlKSB7CiAgY29uc29sZS5sb2coJ1tTZXJ2aWNlV29ya2VyXSBGZXRjaCcsIGUucmVxdWVzdC51cmwpOwogIHZhciBkYXRhVXJsID0gJ2h0dHBzOi8vcXVlcnkueWFob29hcGlzLmNvbS92MS9wdWJsaWMveXFsJzsKICBpZiAoZS5yZXF1ZXN0LnVybC5pbmRleE9mKGRhdGFVcmwpID4gLTEpIHsKICAgIC8qCiAgICAgKiBXaGVuIHRoZSByZXF1ZXN0IFVSTCBjb250YWlucyBkYXRhVXJsLCB0aGUgYXBwIGlzIGFza2luZyBmb3IgZnJlc2gKICAgICAqIHdlYXRoZXIgZGF0YS4gSW4gdGhpcyBjYXNlLCB0aGUgc2VydmljZSB3b3JrZXIgYWx3YXlzIGdvZXMgdG8gdGhlCiAgICAgKiBuZXR3b3JrIGFuZCB0aGVuIGNhY2hlcyB0aGUgcmVzcG9uc2UuIFRoaXMgaXMgY2FsbGVkIHRoZSAiQ2FjaGUgdGhlbgogICAgICogbmV0d29yayIgc3RyYXRlZ3k6CiAgICAgKiBodHRwczovL2pha2VhcmNoaWJhbGQuY29tLzIwMTQvb2ZmbGluZS1jb29rYm9vay8jY2FjaGUtdGhlbi1uZXR3b3JrCiAgICAgKi8KICAgIGUucmVzcG9uZFdpdGgoCiAgICAgIGNhY2hlcy5vcGVuKGRhdGFDYWNoZU5hbWUpLnRoZW4oZnVuY3Rpb24oY2FjaGUpIHsKICAgICAgICByZXR1cm4gZmV0Y2goZS5yZXF1ZXN0KS50aGVuKGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgICBjYWNoZS5wdXQoZS5yZXF1ZXN0LnVybCwgcmVzcG9uc2UuY2xvbmUoKSk7CiAgICAgICAgfSk7CiAgICAgIH0pCiAgICApOwogIH0gZWxzZSB7CiAgICAvKgogICAgICogVGhlIGFwcCBpcyBhc2tpbmcgZm9yIGFwcCBzaGVsbCBmaWxlcy4gSW4gdGhpcyBzY2VuYXJpbyB0aGUgYXBwIHVzZXMgdGhlCiAgICAgKiAiQ2FjaGUsIGZhbGxpbmcgYmFjayB0byB0aGUgbmV0d29yayIgb2ZmbGluZSBzdHJhdGVneToKICAgICAqIGh0dHBzOi8vamFrZWFyY2hpYmFsZC5jb20vMjAxNC9vZmZsaW5lLWNvb2tib29rLyNjYWNoZS1mYWxsaW5nLWJhY2stdG8tbmV0d29yawogICAgICovCiAgICBlLnJlc3BvbmRXaXRoKAogICAgICBjYWNoZXMubWF0Y2goZS5yZXF1ZXN0KS50aGVuKGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlIHx8IGZldGNoKGUucmVxdWVzdCk7CiAgICAgIH0pCiAgICApOwogIH0KfSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy9jbG91ZHktc2NhdHRlcmVkLXNob3dlcnMucG5nJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBkYXRhVXJsID0gJ2h0dHBzOi8vcXVlcnkueWFob29hcGlzLmNvbS92MS9wdWJsaWMveXFsJzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB5dWlfdGFuZyBvbiAyMDE3LzA2LzA0Lgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAiZGlzcGxheSJkICJzdGFuZGFsb25lIiwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAiZGlzcGxheSI6ICJzdGFuZGFsb25lIiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIGNhY2hlTmFtZSA9ICd3ZWF0aGVyUFdBLXN0ZXAtNi0yJzsKdmFyIGRhdGFDYWNoZU5hbWUgPSAnd2VhdGhlckRhdGEtdjEnOwp2YXIgZmlsZXNUb0NhY2hlID0gWwogICcvJywKICAnL2luZGV4Lmh0bWwnLAogICcvc2NyaXB0cy9hcHAuanMnLAogICcvc3R5bGVzL2lubGluZS5jc3MnLAogICcvaW1hZ2VzL2NsZWFyLnBuZycsCiAgJy9pbWFnZXMvY2xvdWR5LnBuZycsCiAgJy9pbWFnZXMvZm9nLnBuZycsCiAgJy9pbWFnZXMvaWNfYWRkX3doaXRlXzI0cHguc3ZnJywKICAnL2ltYWdlcy9pY19yZWZyZXNoX3doaXRlXzI0cHguc3ZnJywKICAnL2ltYWdlcy9wYXJ0bHktY2xvdWR5LnBuZycsCiAgJy9pbWFnZXMvcmFpbi5wbmcnLAogICcvaW1hZ2VzL3NjYXR0ZXJlZC1zaG93ZXJzLnBuZycsCiAgJy9pbWFnZXMvc2xlZXQucG5nJywKICAnL2ltYWdlcy9zbm93LnBuZycsCiAgJy9pbWFnZXMvdGh1bmRlcnN0b3JtLnBuZycsCiAgJy9pbWFnZXMvd2luZC5wbmcnCl07CgpzZWxmLmFkZEV2ZW50TGlzdGVuZXIoJ2luc3RhbGwnLCBmdW5jdGlvbihlKSB7CiAgY29uc29sZS5sb2coJ1tTZXJ2aWNlV29ya2VyXSBJbnN0YWxsJyk7CiAgZS53YWl0VW50aWwoCiAgICBjYWNoZXMub3BlbihjYWNoZU5hbWUpLnRoZW4oZnVuY3Rpb24oY2FjaGUpIHsKICAgICAgY29uc29sZS5sb2coJ1tTZXJ2aWNlV29ya2VyXSBDYWNoaW5nIGFwcCBzaGVsbCcpOwogICAgICByZXR1cm4gY2FjaGUuYWRkQWxsKGZpbGVzVG9DYWNoZSk7CiAgICB9KQogICkKfSk7CgpzZWxmLmFkZEV2ZW50TGlzdGVuZXIoJ2FjdGl2YXRlJywgZnVuY3Rpb24oZSkgewogIGNvbnNvbGUubG9nKCdbU2VydmljZVdvcmtlcl0gQWN0aXZhdGUnKTsKICBlLndhaXRVbnRpbCgKICAgIGNhY2hlcy5rZXlzKCkudGhlbihmdW5jdGlvbihrZXlMaXN0KSB7CiAgICAgIHJldHVybiBQcm9taXNlLmFsbChrZXlMaXN0Lm1hcChmdW5jdGlvbihrZXkpIHsKICAgICAgICBpZiAoa2V5ICE9PSBjYWNoZU5hbWUgJiYga2V5ICE9PSBkYXRhQ2FjaGVOYW1lKSB7CiAgICAgICAgICBjb25zb2xlLmxvZygnW1NlcnZpY2VXb3JrZXJdIFJlbW92aW5nIG9sZCBjYWNoZScsIGtleSkKICAgICAgICAgIHJldHVybiBjYWNoZXMuZGVsZXRlKGtleSk7CiAgICAgICAgfQogICAgICB9KSk7CiAgICB9KQogICk7CiAgcmV0dXJuIHNlbGYuY2xpZW50cy5jbGFpbSgpOwp9KTsKCnNlbGYuYWRkRXZlbnRMaXN0ZW5lcignZmV0Y2gnLCBmdW5jdGlvbihlKSB7CiAgY29uc29sZS5sb2coJ1tTZXJ2aWNlV29ya2VyXSBGZXRjaCcsIGUucmVxdWVzdC51cmwpOwogIHZhciBkYXRhVXJsID0gJ2h0dHBzOi8vcXVlcnkueWFob29hcGlzLmNvbS92MS9wdWJsaWMveXFsJzsKICBpZiAoZS5yZXF1ZXN0LnVybC5pbmRleE9mKGRhdGFVcmwpID4gLTEpIHsKICAgIC8qCiAgICAgKiBXaGVuIHRoZSByZXF1ZXN0IFVSTCBjb250YWlucyBkYXRhVXJsLCB0aGUgYXBwIGlzIGFza2luZyBmb3IgZnJlc2gKICAgICAqIHdlYXRoZXIgZGF0YS4gSW4gdGhpcyBjYXNlLCB0aGUgc2VydmljZSB3b3JrZXIgYWx3YXlzIGdvZXMgdG8gdGhlCiAgICAgKiBuZXR3b3JrIGFuZCB0aGVuIGNhY2hlcyB0aGUgcmVzcG9uc2UuIFRoaXMgaXMgY2FsbGVkIHRoZSAiQ2FjaGUgdGhlbgogICAgICogbmV0d29yayIgc3RyYXRlZ3k6CiAgICAgKiBodHRwczovL2pha2VhcmNoaWJhbGQuY29tLzIwMTQvb2ZmbGluZS1jb29rYm9vay8jY2FjaGUtdGhlbi1uZXR3b3JrCiAgICAgKi8KICAgIGUucmVzcG9uZFdpdGgoCiAgICAgIGNhY2hlcy5vcGVuKGRhdGFDYWNoZU5hbWUpLnRoZW4oZnVuY3Rpb24oY2FjaGUpIHsKICAgICAgICByZXR1cm4gZmV0Y2goZS5yZXF1ZXN0KS50aGVuKGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgICBjYWNoZS5wdXQoZS5yZXF1ZXN0LnVybCwgcmVzcG9uc2UuY2xvbmUoKSk7CiAgICAgICAgfSk7CiAgICAgIH0pCiAgICApOwogIH0gZWxzZSB7CiAgICAvKgogICAgICogVGhlIGFwcCBpcyBhc2tpbmcgZm9yIGFwcCBzaGVsbCBmaWxlcy4gSW4gdGhpcyBzY2VuYXJpbyB0aGUgYXBwIHVzZXMgdGhlCiAgICAgKiAiQ2FjaGUsIGZhbGxpbmcgYmFjayB0byB0aGUgbmV0d29yayIgb2ZmbGluZSBzdHJhdGVneToKICAgICAqIGh0dHBzOi8vamFrZWFyY2hpYmFsZC5jb20vMjAxNC9vZmZsaW5lLWNvb2tib29rLyNjYWNoZS1mYWxsaW5nLWJhY2stdG8tbmV0d29yawogICAgICovCiAgICBlLnJlc3BvbmRXaXRoKAogICAgICBjYWNoZXMubWF0Y2goZS5yZXF1ZXN0KS50aGVuKGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgcmV0dXJuIHJlc3BvbnNlIHx8IGZldGNoKGUucmVxdWVzdCk7CiAgICAgIH0pCiAgICApOwogIH0KfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAnL2ltYWdlcy9jbG91ZHktc2NhdHRlcmVkLXNob3dlcnMucG5nJywK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB5dWlfdGFuZyBvbiAyMDE3LzA2LzAzLgo=</text>
+        <text encoding="base64">ICAgIHZhciBkYXRhVXJsID0gJ2h0dHBzOi8vcXVlcnkueWFob29hcGlzLmNvbS92MS9wdWJsaWMveXFsJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
