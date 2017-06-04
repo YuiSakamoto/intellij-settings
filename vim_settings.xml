@@ -42,12 +42,12 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" timestamp="1496485955811">
-        <mark key="'" line="219" column="4" />
-        <mark key="[" line="350" column="67" />
-        <mark key="]" line="350" column="67" />
-        <mark key="." line="350" column="67" />
-        <mark key="^" line="350" column="67" />
+      <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" timestamp="1496489014012">
+        <mark key="'" line="162" column="5" />
+        <mark key="[" line="186" column="43" />
+        <mark key="]" line="186" column="43" />
+        <mark key="." line="186" column="43" />
+        <mark key="^" line="186" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/index.html" timestamp="1496484445204">
         <mark key="'" line="25" column="0" />
@@ -123,11 +123,12 @@
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" timestamp="1496486853125">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="^" line="18" column="19" />
+      <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" timestamp="1496488583267">
+        <mark key="'" line="76" column="2" />
+        <mark key="[" line="65" column="10" />
+        <mark key="]" line="70" column="6" />
+        <mark key="." line="70" column="6" />
+        <mark key="^" line="70" column="6" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/launch.js" timestamp="1487832500437">
         <mark key="[" line="21" column="171" />
@@ -186,12 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="404" column="14" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <jump line="405" column="27" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <jump line="431" column="27" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <jump line="469" column="14" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <jump line="473" column="15" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
-      <jump line="533" column="14" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
       <jump line="551" column="14" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
       <jump line="552" column="14" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
       <jump line="752" column="4" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/vendor/nesbot/carbon/src/Carbon/Carbon.php" />
@@ -286,10 +281,16 @@
       <jump line="58" column="48" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
       <jump line="47" column="22" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
       <jump line="219" column="4" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
+      <jump line="1" column="36" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" />
+      <jump line="63" column="2" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" />
+      <jump line="310" column="6" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
+      <jump line="331" column="10" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
+      <jump line="56" column="8" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
+      <jump line="162" column="5" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bCBvZiAg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -352,49 +353,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bCBvZiAg</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>localStorage.selected</text>
+        <text>getForecast</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMud2Vidmlld0RvdWJsZSA9IG5hdmlnYXRvci51c2VyQWdlbnQuaW5kZXhPZignTWVyY2FyaV9kLycpID49IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB5dWlfdGFuZyBvbiAyMDE3LzA2LzAzLgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBkYXRhVXJsID0gJ2h0dHBzOi8vcXVlcnkueWFob29hcGlzLmNvbS92MS9wdWJsaWMveXFsJzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcC5zZWxlY3RlZENpdGllcy4pOwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB5dWlfdGFuZyBvbiAyMDE3LzA2LzAzLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Owo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvY2FsU3RvcmFnZS5zZWxlY3RlZENpdGllcyA9IHNlbGVjdGVkQ2l0aWVzOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWxlY3RlZENpdGllcyA9IEpTT04uc3RyaW5naWZ5KGFwcC5zZWxlY3RlZENpdGllcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFwcC5zZWxlY3RlZENpdGllcy4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhcHAuc2F2ZVNlbGVjdGVkQ2l0aWVzKCkgPSBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>localStorage.selected</last-search>
+      <last-search>getForecast</last-search>
       <last-offset />
-      <last-pattern>localStorage.selected</last-pattern>
+      <last-pattern>getForecast</last-pattern>
       <last-replace>Error</last-replace>
       <last-substitute>Top</last-substitute>
       <last-dir>1</last-dir>
@@ -402,7 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buying_histo</entry>
         <entry>statuses</entry>
         <entry>admin_comment</entry>
         <entry>comment</entry>
@@ -422,6 +422,7 @@
         <entry>saveSelectedCities</entry>
         <entry>butAddCity</entry>
         <entry>localStorage.selected</entry>
+        <entry>getForecast</entry>
       </history-search>
       <history-cmd>
         <entry>%s/function\(\)/function ()/g</entry>
