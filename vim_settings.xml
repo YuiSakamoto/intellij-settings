@@ -136,6 +136,12 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
+      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/index.html" timestamp="1496654447652">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/sidebar_mypage_nav.html.twig" timestamp="1496319545424">
         <mark key="[" line="199" column="0" />
         <mark key="]" line="199" column="0" />
@@ -463,7 +469,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiA4cHggMTZweDsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -499,7 +505,6 @@
         <entry>25%</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/TransactionMessage/Search/g</entry>
         <entry>%s/transaction_message/search/g</entry>
         <entry>%s/searchs/search/g</entry>
         <entry>%s/TransactionMessage/UserAddress/g</entry>
@@ -519,6 +524,7 @@
         <entry>%s/amp-img/img/g</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
