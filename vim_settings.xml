@@ -78,12 +78,13 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/index.html" timestamp="1496654447652">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/index.html" timestamp="1496749651099">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+        <mark key="^" line="1" column="7" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/amp.html.twig" timestamp="1496750016627" />
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="23" column="45" />
@@ -184,7 +185,7 @@
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/index.html" timestamp="1496558836161">
+      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/index.html" timestamp="1496749484600">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="23" column="45" />
         <mark key="^" line="23" column="45" />
@@ -271,7 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="843" column="35" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="67" column="40" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="538" column="0" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="2347" column="31" filename="$USER_HOME$/develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
@@ -371,10 +371,11 @@
       <jump line="35" column="0" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/assets/css/style.css" />
       <jump line="27" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/adyen_credit_card.js" />
       <jump line="113" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/adyen_credit_card.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -437,7 +438,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>25%</text>
@@ -449,28 +450,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzdHlsZSBhbXAtY3VzdG9tPjwvc3R5bGU+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiA4cHggMTZweDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucmVsYXRlZCBoMiB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzdHlsZSBhbXAtY3VzdG9tPjwvc3R5bGU+Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiA4cHggMTZweDsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAucmVsYXRlZCBoMiB7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -526,8 +527,8 @@
         <entry>q</entry>
         <entry>%s/\/articles\//\/assets\//g</entry>
         <entry>%s/amp-img/img/g</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
