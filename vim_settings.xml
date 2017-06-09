@@ -71,12 +71,7 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/your-first-pwapp-master/step-08/service-worker.js" timestamp="1496992309150">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="35" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="35" />
-      </file>
+      <file name="$USER_HOME$/Develop/your-first-pwapp-master/step-08/service-worker.js" timestamp="1496994576555" />
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1485841833929">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="28" column="36" />
@@ -383,7 +378,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -446,7 +441,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>analy</text>
@@ -455,31 +450,31 @@
         <text encoding="base64">ICAgIHRoaXMud2Vidmlld0RvdWJsZSA9IG5hdmlnYXRvci51c2VyQWdlbnQuaW5kZXhPZignTWVyY2FyaV9kLycpID49IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnW1NlcnZpY2VXb3JrZXJdIEluc3RhbGwnKTsK</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyIGZpbGVzVG9DYWNoZSA9IFsK</text>
+        <text encoding="base64">ICAgICAqIGh0dHBzOi8vamFrZWFyY2hpYmFsZC5jb20vMjAxNC9vZmZsaW5lLWNvb2tib29rLyNjYWNoZS1mYWxsaW5nLWJhY2stdG8tbmV0d29yawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy90aHVuZGVyc3Rvcm0ucG5nJywK</text>
+        <text encoding="base64">ICAgICAqICJDYWNoZSwgZmFsbGluZyBiYWNrIHRvIHRoZSBuZXR3b3JrIiBvZmZsaW5lIHN0cmF0ZWd5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy9zbm93LnBuZycsCg==</text>
+        <text encoding="base64">ICAgICAqIFRoZSBhcHAgaXMgYXNraW5nIGZvciBhcHAgc2hlbGwgZmlsZXMuIEluIHRoaXMgc2NlbmFyaW8gdGhlIGFwcCB1c2VzIHRoZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy9zbGVldC5wbmcnLAo=</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy9zY2F0dGVyZWQtc2hvd2Vycy5wbmcnLAo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy9yYWluLnBuZycsCg==</text>
+        <text encoding="base64">ICAgICAqIGh0dHBzOi8vamFrZWFyY2hpYmFsZC5jb20vMjAxNC9vZmZsaW5lLWNvb2tib29rLyNjYWNoZS10aGVuLW5ldHdvcmsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy9wYXJ0bHktY2xvdWR5LnBuZycsCg==</text>
+        <text encoding="base64">ICAgICAqIG5ldHdvcmsiIHN0cmF0ZWd5Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAnL2ltYWdlcy9pY19yZWZyZXNoX3doaXRlXzI0cHguc3ZnJywK</text>
+        <text encoding="base64">ICAgICAqIG5ldHdvcmsgYW5kIHRoZW4gY2FjaGVzIHRoZSByZXNwb25zZS4gVGhpcyBpcyBjYWxsZWQgdGhlICJDYWNoZSB0aGVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
