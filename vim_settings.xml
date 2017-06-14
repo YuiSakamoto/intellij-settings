@@ -39,11 +39,8 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" timestamp="1497432490176">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" timestamp="1497433528744">
         <mark key="'" line="62" column="38" />
-        <mark key="[" line="83" column="27" />
-        <mark key="]" line="83" column="32" />
-        <mark key="." line="83" column="32" />
         <mark key="^" line="83" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/sw_controller.js" timestamp="1496572076997">
@@ -77,6 +74,12 @@
         <mark key="]" line="6" column="3" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/SignUpController.php" timestamp="1497433504724">
+        <mark key="[" line="270" column="12" />
+        <mark key="]" line="270" column="11" />
+        <mark key="." line="270" column="11" />
+        <mark key="^" line="270" column="11" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1485841833929">
         <mark key="[" line="28" column="36" />
@@ -288,7 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="17" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
       <jump line="58" column="19" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
       <jump line="59" column="28" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
       <jump line="60" column="27" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
@@ -388,10 +390,11 @@
       <jump line="173" column="34" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="203" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="230" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
+      <jump line="270" column="7" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/SignUpController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFsnR0VUJywgJy9zaWdudXAvcmVnaXN0LycsICdTaWduVXA6OnN0ZXAxJ10sCg==</text>
+        <text encoding="base64">ICAgIFsnUE9TVCcsICcvc2lnbnVwL2FkZHJlc3MvJywgJ1NpZ25VcDo6c3RlcDInXSwK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -457,46 +460,46 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text>redirect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFsnR0VUJywgJy9zaWdudXAvcmVnaXN0LycsICdTaWduVXA6OnN0ZXAxJ10sCg==</text>
+        <text encoding="base64">ICAgIFsnUE9TVCcsICcvc2lnbnVwL2FkZHJlc3MvJywgJ1NpZ25VcDo6c3RlcDInXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIGh0dHBzOi8vamFrZWFyY2hpYmFsZC5jb20vMjAxNC9vZmZsaW5lLWNvb2tib29rLyNjYWNoZS1mYWxsaW5nLWJhY2stdG8tbmV0d29yawo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJlZGlyZWN0KCRwYXJhbXNbJ2FmdGVyX3NhdmVfY2FsbGJhY2snXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICJDYWNoZSwgZmFsbGluZyBiYWNrIHRvIHRoZSBuZXR3b3JrIiBvZmZsaW5lIHN0cmF0ZWd5Ogo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIFRoZSBhcHAgaXMgYXNraW5nIGZvciBhcHAgc2hlbGwgZmlsZXMuIEluIHRoaXMgc2NlbmFyaW8gdGhlIGFwcCB1c2VzIHRoZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIGh0dHBzOi8vamFrZWFyY2hpYmFsZC5jb20vMjAxNC9vZmZsaW5lLWNvb2tib29rLyNjYWNoZS1mYWxsaW5nLWJhY2stdG8tbmV0d29yawo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqICJDYWNoZSwgZmFsbGluZyBiYWNrIHRvIHRoZSBuZXR3b3JrIiBvZmZsaW5lIHN0cmF0ZWd5Ogo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIFRoZSBhcHAgaXMgYXNraW5nIGZvciBhcHAgc2hlbGwgZmlsZXMuIEluIHRoaXMgc2NlbmFyaW8gdGhlIGFwcCB1c2VzIHRoZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIGh0dHBzOi8vamFrZWFyY2hpYmFsZC5jb20vMjAxNC9vZmZsaW5lLWNvb2tib29rLyNjYWNoZS10aGVuLW5ldHdvcmsK</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIG5ldHdvcmsiIHN0cmF0ZWd5Ogo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIG5ldHdvcmsgYW5kIHRoZW4gY2FjaGVzIHRoZSByZXNwb25zZS4gVGhpcyBpcyBjYWxsZWQgdGhlICJDYWNoZSB0aGVuCg==</text>
+        <text encoding="base64">ICAgICAqIGh0dHBzOi8vamFrZWFyY2hpYmFsZC5jb20vMjAxNC9vZmZsaW5lLWNvb2tib29rLyNjYWNoZS10aGVuLW5ldHdvcmsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search>redirect</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern>redirect</last-pattern>
       <last-replace>img</last-replace>
       <last-substitute>amp-img</last-substitute>
       <last-dir>1</last-dir>
@@ -504,7 +507,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Top</entry>
         <entry>android</entry>
         <entry>draft</entry>
         <entry>buy</entry>
@@ -524,6 +526,7 @@
         <entry>login</entry>
         <entry>web</entry>
         <entry>config</entry>
+        <entry>redirect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transaction_message/search/g</entry>
