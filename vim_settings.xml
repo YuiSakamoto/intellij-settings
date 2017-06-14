@@ -39,8 +39,12 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" timestamp="1497321299008">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" timestamp="1497432490176">
         <mark key="'" line="62" column="38" />
+        <mark key="[" line="83" column="27" />
+        <mark key="]" line="83" column="32" />
+        <mark key="." line="83" column="32" />
+        <mark key="^" line="83" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/sw_controller.js" timestamp="1496572076997">
         <mark key="[" line="6" column="0" />
@@ -386,8 +390,8 @@
       <jump line="230" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFsnR0VUJywgJy9zaWdudXAvcmVnaXN0LycsICdTaWduVXA6OnN0ZXAxJ10sCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -456,7 +460,7 @@
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMud2Vidmlld0RvdWJsZSA9IG5hdmlnYXRvci51c2VyQWdlbnQuaW5kZXhPZignTWVyY2FyaV9kLycpID49IDA7Cg==</text>
+        <text encoding="base64">ICAgIFsnR0VUJywgJy9zaWdudXAvcmVnaXN0LycsICdTaWduVXA6OnN0ZXAxJ10sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqLwo=</text>
