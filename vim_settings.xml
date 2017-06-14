@@ -55,6 +55,7 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/ja_JP/pages/signup.php" timestamp="1497441358649" />
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_mercari_mini_us.php" timestamp="1486107450787">
         <mark key="[" line="145" column="40" />
         <mark key="]" line="145" column="41" />
@@ -149,7 +150,7 @@
         <mark key="." line="57" column="38" />
         <mark key="^" line="57" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497440525575">
+      <file name="/Dummy.txt" timestamp="1497441193825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Util/DeviceUtil.php" timestamp="1497440650450">
@@ -232,12 +233,12 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/step1_on_app.html.twig" timestamp="1497438307946">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/step1_on_app.html.twig" timestamp="1497441366082">
         <mark key="'" line="134" column="39" />
-        <mark key="[" line="134" column="36" />
-        <mark key="]" line="134" column="36" />
-        <mark key="^" line="134" column="36" />
-        <mark key="." line="134" column="36" />
+        <mark key="[" line="148" column="68" />
+        <mark key="]" line="148" column="83" />
+        <mark key="^" line="148" column="83" />
+        <mark key="." line="148" column="83" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/node_modules/serve-static/index.js" timestamp="1496648598413">
         <mark key="[" line="37" column="38" />
@@ -355,8 +356,8 @@
       <jump line="134" column="39" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/step1_on_app.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGV2aWNlX3V0aWwtPmlzQW55TWVyY2FyaUFwcEFjY2VzcygpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -419,7 +420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
