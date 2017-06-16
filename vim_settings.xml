@@ -251,6 +251,12 @@
         <mark key="^" line="37" column="1" />
         <mark key="." line="37" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/pages/en_US/about.html.twig" timestamp="1497599607926">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="10" />
+        <mark key="." line="43" column="10" />
+        <mark key="^" line="43" column="10" />
+      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/tests/e2e/PagesTest.php" timestamp="1490869108497">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="10" />
@@ -362,7 +368,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -425,7 +431,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
@@ -515,8 +521,8 @@
         <entry>%s/\/articles\//\/assets\//g</entry>
         <entry>%s/amp-img/img/g</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
