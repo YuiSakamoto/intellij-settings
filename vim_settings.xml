@@ -74,6 +74,7 @@
         <mark key="." line="145" column="41" />
         <mark key="^" line="145" column="41" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/en_US.php" timestamp="1497698115698" />
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/launch.js" timestamp="1487832500437">
         <mark key="[" line="21" column="171" />
         <mark key="]" line="21" column="204" />
@@ -219,6 +220,12 @@
         <mark key="]" line="86" column="36" />
         <mark key="^" line="83" column="31" />
         <mark key="." line="86" column="36" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/en_GB.php" timestamp="1497698138281">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/manifest.json" timestamp="1496557613435">
         <mark key="[" line="26" column="24" />
@@ -437,8 +444,8 @@
       <jump line="25" column="43" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/pages/top.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>See a brand or item you like? Safely pay with your credit card, debit card or PayPal.',</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -513,28 +520,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxhIGhyZWY9Int7IHN0b3JlX3VybCgnc2lnbnVwLmRvbmUnKSB9fSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJ7eyBhc3NldCgnaW1nL3NpZ251cC8nIH4gcmVnaW9uIH4gJy9iYW5uZXItc3AuanBnJykgfX0iIGFsdD0iIiBjbGFzcz0ic2lnbnVwLWRvbmUtYmFubmVyLXNwIj48L2E+Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxhIGhyZWY9Int7IHN0b3JlX3VybCgnc2lnbnVwLmRvbmUnKSB9fSIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJ7eyBhc3NldCgnaW1nL3NpZ251cC8nIH4gcmVnaW9uIH4gJy9iYW5uZXItc3AuanBnJykgfX0iIGFsdD0iIiBjbGFzcz0ic2lnbnVwLWRvbmUtYmFubmVyLXNwIj48L2E+Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGV2aWNlX3V0aWwtPmlzQW55TWVyY2FyaUFwcEFjY2VzcygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGV2aWNlX3V0aWwtPmlzQW55TWVyY2FyaUFwcEFjY2VzcygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPmJvZHkoJ2xvZ2luX2Zyb21fYXBwJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgoaW50KSR0aGlzLT5ib2R5KCdsb2dpbl9mcm9tX2FwcCcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHRoaXMtPmJvZHkoJ2xvZ2luX2Zyb21fYXBwJykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+Ym9keSgnbG9naW5fZnJvbV9hcHAnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgoaW50KSR0aGlzLT5ib2R5KCdsb2dpbl9mcm9tX2FwcCcpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+Ym9keSgnbG9naW5fZnJvbV9hcHAnKSk7CiAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+Ym9keSgnbG9naW5fZnJvbV9hcHAnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
