@@ -28,12 +28,12 @@
         <mark key="." line="186" column="43" />
         <mark key="^" line="186" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_GB.php" timestamp="1497756428140">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_GB.php" timestamp="1497757872456">
         <mark key="'" line="58" column="5" />
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="58" column="5" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
         <mark key="^" line="58" column="5" />
-        <mark key="." line="58" column="5" />
+        <mark key="." line="32" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
         <mark key="[" line="21" column="39" />
@@ -54,11 +54,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_US.php" timestamp="1497756418455">
-        <mark key="[" line="71" column="22" />
-        <mark key="]" line="71" column="76" />
-        <mark key="^" line="71" column="76" />
-        <mark key="." line="71" column="76" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_US.php" timestamp="1497757435195">
+        <mark key="[" line="77" column="7" />
+        <mark key="]" line="77" column="8" />
+        <mark key="^" line="77" column="8" />
+        <mark key="." line="77" column="8" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini/workspace/mercari-web-2/app/resource/messages/en_US/base/bread_crumbs.php" timestamp="1460463777456">
         <mark key="[" line="9" column="0" />
@@ -446,8 +446,8 @@
       <jump line="58" column="5" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_GB.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -510,7 +510,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>See a brand or item you like? Safely pay with your credit card, debit card or PayPal.',</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>See a</text>
