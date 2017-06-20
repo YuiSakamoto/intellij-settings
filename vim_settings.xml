@@ -9,6 +9,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" timestamp="1497945238893">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/help_center/en_US/buyer_guarantee.html.twig" timestamp="1487033825066">
         <mark key="[" line="18" column="76" />
         <mark key="]" line="18" column="80" />
@@ -17,6 +23,9 @@
       </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/about_us.html" timestamp="1497942281493">
         <mark key="[" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" timestamp="1497945439658">
+        <mark key="'" line="48" column="11" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/Service/UserService.php" timestamp="1487879407057">
         <mark key="[" line="34" column="24" />
@@ -205,6 +214,9 @@
         <mark key="." line="19" column="124" />
         <mark key="^" line="19" column="124" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/jonh-is-joining-mercari/index.html" timestamp="1497945143962">
+        <mark key="'" line="180" column="12" />
+      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/webview.js" timestamp="1492820810834">
         <mark key="[" line="27" column="45" />
         <mark key="]" line="27" column="66" />
@@ -217,7 +229,7 @@
         <mark key="." line="57" column="38" />
         <mark key="^" line="57" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497860415862">
+      <file name="/Dummy.txt" timestamp="1497945441352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/amp-index.html" timestamp="1496650838545">
@@ -353,55 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="10" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
-      <jump line="245" column="10" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
-      <jump line="246" column="10" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
-      <jump line="254" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
-      <jump line="187" column="14" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/item/detail.html.twig" />
-      <jump line="25" column="0" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/index.html" />
-      <jump line="16" column="13" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="203" column="0" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="314" column="6" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="46" column="27" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="204" column="24" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="58" column="48" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="47" column="22" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="219" column="4" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="63" column="2" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" />
-      <jump line="310" column="6" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="331" column="10" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="56" column="8" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="162" column="5" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" />
-      <jump line="59" column="18" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" />
-      <jump line="1" column="4" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" />
-      <jump line="37" column="41" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/Develop/your-first-pwapp-master/work/service-worker.js" />
-      <jump line="20" column="18" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/.gitignore" />
-      <jump line="6" column="5" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/index.html" />
-      <jump line="103" column="8" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/amp-index.html" />
-      <jump line="143" column="0" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/amp-index.html" />
-      <jump line="92" column="7" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/index.html" />
-      <jump line="123" column="16" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/index.html" />
-      <jump line="77" column="0" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/assets/css/style.css" />
-      <jump line="35" column="0" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/assets/css/style.css" />
-      <jump line="27" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/adyen_credit_card.js" />
-      <jump line="113" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/adyen_credit_card.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Develop/YuiSakamoto.github.io/index.html" />
-      <jump line="26" column="5" filename="$USER_HOME$/Develop/web-starter-kit/app/basic.html" />
-      <jump line="22" column="0" filename="$USER_HOME$/Develop/web-starter-kit/app/scripts/main.js" />
-      <jump line="62" column="38" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
-      <jump line="451" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/models/search_index_service.php" />
-      <jump line="157" column="12" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="211" column="34" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="214" column="42" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="219" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="220" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="221" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="231" column="38" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="232" column="16" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="233" column="17" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="234" column="17" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="235" column="17" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="236" column="17" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="237" column="30" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
@@ -453,10 +416,59 @@
       <jump line="134" column="39" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/step1_on_app.html.twig" />
       <jump line="25" column="43" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/pages/top.php" />
       <jump line="58" column="5" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_GB.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/jonh-is-joining-mercari/index.html" />
+      <jump line="16" column="7" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="525" column="15" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="194" column="7" filename="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/jonh-is-joining-mercari/index.html" />
+      <jump line="473" column="0" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="23" column="0" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="19" column="36" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="540" column="0" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="195" column="30" filename="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/jonh-is-joining-mercari/index.html" />
+      <jump line="42" column="150" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="9" column="17" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="13" column="28" filename="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/jonh-is-joining-mercari/index.html" />
+      <jump line="442" column="26" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="443" column="21" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="444" column="21" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="458" column="46" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="459" column="42" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="461" column="14" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="464" column="20" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="472" column="4" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="474" column="20" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="475" column="58" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="14" column="61" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="28" column="36" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="490" column="15" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="516" column="4" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="167" column="30" filename="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/jonh-is-joining-mercari/index.html" />
+      <jump line="468" column="15" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="15" column="0" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="365" column="127" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="503" column="18" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="180" column="12" filename="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/jonh-is-joining-mercari/index.html" />
+      <jump line="357" column="15" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
+      <jump line="443" column="19" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="526" column="7" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="17" column="106" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="18" column="163" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="19" column="152" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="21" column="43" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="23" column="69" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="26" column="58" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="27" column="50" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="28" column="41" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="14" column="63" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="50" column="12" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="113" column="20" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="115" column="8" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
+      <jump line="48" column="11" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmVuZG9yLwo=</text>
+        <text encoding="base64">ICAgLS0+Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -522,66 +534,53 @@
         <text>h</text>
       </register>
       <register name="/" type="4">
-        <text>See a</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoISRkZXZpY2VfdXRpbC0+aXNBbnlNZXJjYXJpQXBwQWNjZXNzKCkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmVuZG9yLwo=</text>
+        <text encoding="base64">ICAgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3RhcnRpbmdfdGVtcGxhdGUuaHRtbAo=</text>
+        <text encoding="base64">ICA8bGluayBocmVmPSIvY29ycG9yYXRlLWFzc2V0cy9jc3MvZm9vdGVyLmNzcyIgcmVsPSJzdHlsZXNoZWV0Ij4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzaXplaWZyYW1lLmh0bWwK</text>
+        <text encoding="base64">dmVuZG9yLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZS5qc29uCg==</text>
+        <text encoding="base64">c3RhcnRpbmdfdGVtcGxhdGUuaHRtbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bmV3cy5odG1sCg==</text>
+        <text encoding="base64">cmVzaXplaWZyYW1lLmh0bWwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGVzcy8K</text>
+        <text encoding="base64">cGFja2FnZS5qc29uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">anMvCg==</text>
+        <text encoding="base64">bmV3cy5odG1sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1nLwo=</text>
+        <text encoding="base64">bGVzcy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Z3VscGZpbGUuanMK</text>
+        <text encoding="base64">anMvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>See a</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>See a</last-pattern>
-      <last-replace>img</last-replace>
-      <last-substitute>amp-img</last-substitute>
+      <last-pattern>button</last-pattern>
+      <last-replace>'\/corporate-assets\/img</last-replace>
+      <last-substitute>'img</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
-        <entry>is_logged_in</entry>
-        <entry>app.js</entry>
-        <entry>saveSelectedCities</entry>
-        <entry>butAddCity</entry>
-        <entry>localStorage.selected</entry>
-        <entry>getForecast</entry>
-        <entry>dataCacheName</entry>
-        <entry>\/articles\/</entry>
-        <entry>amp-img</entry>
-        <entry>25%</entry>
-        <entry>analy</entry>
-        <entry>login</entry>
         <entry>web</entry>
         <entry>config</entry>
         <entry>redirect</entry>
@@ -589,15 +588,21 @@
         <entry>url_service</entry>
         <entry>form</entry>
         <entry>See a</entry>
+        <entry>vendor</entry>
+        <entry>corporate-assets</entry>
+        <entry>&quot;css</entry>
+        <entry>&quot;img</entry>
+        <entry>creative</entry>
+        <entry>&quot;js</entry>
+        <entry>about_us_header</entry>
+        <entry>bottom_header</entry>
+        <entry>'img</entry>
+        <entry>footer</entry>
+        <entry>button-background</entry>
+        <entry>css</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/transaction_message/search/g</entry>
-        <entry>%s/searchs/search/g</entry>
-        <entry>%s/TransactionMessage/UserAddress/g</entry>
-        <entry>%s/transaction_message/user_address/g</entry>
-        <entry>%s/addresss/addresses/g</entry>
-        <entry>%s/UserAddress/TodoNotification/g</entry>
-        <entry>%s/user_address/todo_notification/g</entry>
         <entry>%s/notificationes/notification/g</entry>
         <entry>%s/TransactionMessage/TodoNotification/g</entry>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
@@ -609,6 +614,13 @@
         <entry>%s/\/articles\//\/assets\//g</entry>
         <entry>%s/amp-img/img/g</entry>
         <entry>wq</entry>
+        <entry>%s/vendor/corporate-assets\/vendor/g</entry>
+        <entry>%s/corporate-assets/\/corporate-assets/g</entry>
+        <entry>%s/&quot;css/&quot;corporate-assets\/css/g</entry>
+        <entry>%s/&quot;css/&quot;\/corporate-assets\/css/g</entry>
+        <entry>%s/&quot;img/&quot;\/corporate-assets\/img/g</entry>
+        <entry>%s/&quot;js/&quot;\/corporate-assets\/js/g</entry>
+        <entry>%s/'img/'\/corporate-assets\/img/g</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
