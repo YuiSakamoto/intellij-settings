@@ -62,6 +62,7 @@
         <mark key="^" line="849" column="53" />
         <mark key="." line="849" column="53" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/javascripts/pages/item_transactions.global.js" timestamp="1498029121393" />
       <file name="$USER_HOME$/Develop/mercari_corporate_us/.gitignore" timestamp="1498026050106">
         <mark key="[" line="4" column="24" />
         <mark key="]" line="4" column="23" />
@@ -258,13 +259,16 @@
         <mark key="." line="57" column="38" />
         <mark key="^" line="57" column="38" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/html/item-transactions-double.html" timestamp="1498028532391">
+        <mark key="'" line="24" column="24" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498025505930">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="23" column="13" />
         <mark key="." line="23" column="13" />
         <mark key="^" line="23" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497949599920">
+      <file name="/Dummy.txt" timestamp="1498029660641">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/amp-index.html" timestamp="1496650838545">
@@ -398,10 +402,9 @@
         <mark key="^" line="48" column="14" />
         <mark key="." line="48" column="14" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/webroot/assets/locales/en-US/item-transactions-double.json" timestamp="1498029185213" />
     </filemarks>
     <jumps>
-      <jump line="1036" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="1041" column="54" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="1060" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="1062" column="50" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="1066" column="54" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
@@ -500,6 +503,8 @@
       <jump line="295" column="167" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
       <jump line="52" column="10" filename="$USER_HOME$/Develop/mercari_corporate_us/gulpfile.js" />
       <jump line="9" column="3" filename="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" />
+      <jump line="1808" column="9" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/javascripts/pages/item_transactions.global.js" />
+      <jump line="24" column="24" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/html/item-transactions-double.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -569,7 +574,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWNyZXRfYWNjZXNzX2tleVw+</text>
+        <text>contact</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjYWNoZV9jb250cm9sOiBtYXgtYWdlPTAK</text>
@@ -606,17 +611,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWNyZXRfYWNjZXNzX2tleVw+</last-search>
+      <last-search>contact</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWNyZXRfYWNjZXNzX2tleVw+</last-pattern>
+      <last-pattern>contact</last-pattern>
       <last-replace>'\/corporate-assets\/img</last-replace>
       <last-substitute>'img</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vendor</entry>
         <entry>corporate-assets</entry>
         <entry>&quot;css</entry>
         <entry>&quot;img</entry>
@@ -636,6 +640,7 @@
         <entry>page-bottom</entry>
         <entry>john</entry>
         <entry encoding="base64">XDxzZWNyZXRfYWNjZXNzX2tleVw+</entry>
+        <entry>contact</entry>
       </history-search>
       <history-cmd>
         <entry>%s/notificationes/notification/g</entry>
