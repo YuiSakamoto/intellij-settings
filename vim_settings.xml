@@ -10,10 +10,8 @@
         <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" timestamp="1498017341731">
-        <mark key="'" line="295" column="167" />
         <mark key="[" line="28" column="44" />
         <mark key="]" line="28" column="44" />
-        <mark key="^" line="290" column="65" />
         <mark key="." line="28" column="44" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/help_center/en_US/buyer_guarantee.html.twig" timestamp="1487033825066">
@@ -101,11 +99,11 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/README.md" timestamp="1498026695067">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="171" />
-        <mark key="^" line="0" column="171" />
-        <mark key="." line="0" column="171" />
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/README.md" timestamp="1498027812252">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="5" />
+        <mark key="^" line="24" column="5" />
+        <mark key="." line="24" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/done_on_app.html.twig" timestamp="1497581117232">
         <mark key="[" line="36" column="0" />
@@ -504,8 +502,8 @@
       <jump line="9" column="3" filename="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aHR0cHM6Ly90cmF2aXMtY2kuY29tL2tvdXpvaC9tZXJjYXJpX2NvcnBvcmF0ZV93ZWJfdXMuc3ZnP3Rva2VuPXdveXBOUHRFNGtOc2dkdzRGZzQ2JmJyYW5jaD1tYXN0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text>()</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -568,7 +566,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>kouzoh/mercari_corporate_web_us</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWNyZXRfYWNjZXNzX2tleVw+</text>
