@@ -9,16 +9,19 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" timestamp="1498017341731">
-        <mark key="[" line="28" column="44" />
-        <mark key="]" line="28" column="44" />
-        <mark key="." line="28" column="44" />
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" timestamp="1498031191370">
+        <mark key="[" line="59" column="51" />
+        <mark key="]" line="59" column="51" />
+        <mark key="." line="59" column="51" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/help_center/en_US/buyer_guarantee.html.twig" timestamp="1487033825066">
         <mark key="[" line="18" column="76" />
         <mark key="]" line="18" column="80" />
         <mark key="." line="18" column="80" />
         <mark key="^" line="18" column="80" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/careers/index.html" timestamp="1498031916088">
+        <mark key="'" line="57" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/package.json" timestamp="1498026021051">
         <mark key="[" line="27" column="3" />
@@ -29,11 +32,11 @@
       <file name="$USER_HOME$/Develop/mercari_corporate_us/about_us.html" timestamp="1497942281493">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" timestamp="1497951941787">
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" timestamp="1498031201564">
         <mark key="'" line="406" column="195" />
-        <mark key="[" line="115" column="48" />
-        <mark key="]" line="115" column="48" />
-        <mark key="." line="115" column="48" />
+        <mark key="[" line="57" column="52" />
+        <mark key="]" line="57" column="52" />
+        <mark key="." line="57" column="52" />
         <mark key="^" line="115" column="48" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/Service/UserService.php" timestamp="1487879407057">
@@ -63,11 +66,11 @@
         <mark key="." line="849" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/javascripts/pages/item_transactions.global.js" timestamp="1498029121393" />
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/.gitignore" timestamp="1498026050106">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/.gitignore" timestamp="1498031799524">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
         <mark key="[" line="21" column="39" />
@@ -100,12 +103,6 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/README.md" timestamp="1498027812252">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="5" />
-        <mark key="^" line="24" column="5" />
-        <mark key="." line="24" column="5" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/done_on_app.html.twig" timestamp="1497581117232">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -130,12 +127,12 @@
         <mark key="^" line="4" column="34" />
         <mark key="." line="6" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/gulpfile.js" timestamp="1498017388584">
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/gulpfile.js" timestamp="1498031729054">
         <mark key="'" line="52" column="10" />
-        <mark key="[" line="82" column="23" />
-        <mark key="]" line="82" column="32" />
-        <mark key="." line="82" column="32" />
-        <mark key="^" line="82" column="32" />
+        <mark key="[" line="101" column="16" />
+        <mark key="]" line="101" column="23" />
+        <mark key="." line="101" column="23" />
+        <mark key="^" line="101" column="23" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1485841833929">
         <mark key="[" line="28" column="36" />
@@ -149,12 +146,12 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/john-is-joining-mercari/index.html" timestamp="1497951189625">
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/john-is-joining-mercari/index.html" timestamp="1498031208604">
         <mark key="'" line="32" column="19" />
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="43" column="39" />
+        <mark key="[" line="53" column="50" />
+        <mark key="]" line="53" column="50" />
         <mark key="^" line="43" column="39" />
-        <mark key="." line="43" column="39" />
+        <mark key="." line="53" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/package.json" timestamp="1496641762677">
         <mark key="[" line="17" column="37" />
@@ -212,6 +209,9 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/about/index.html" timestamp="1498031908711">
+        <mark key="'" line="50" column="41" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/help_center.js" timestamp="1493161731166">
         <mark key="'" line="654" column="22" />
@@ -405,8 +405,6 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/webroot/assets/locales/en-US/item-transactions-double.json" timestamp="1498029185213" />
     </filemarks>
     <jumps>
-      <jump line="1060" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="1062" column="50" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="1066" column="54" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="1074" column="65" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="1110" column="85" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
@@ -505,10 +503,12 @@
       <jump line="9" column="3" filename="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" />
       <jump line="1808" column="9" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/javascripts/pages/item_transactions.global.js" />
       <jump line="24" column="24" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/html/item-transactions-double.html" />
+      <jump line="50" column="41" filename="$USER_HOME$/Develop/mercari_corporate_us/webroot/about/index.html" />
+      <jump line="57" column="52" filename="$USER_HOME$/Develop/mercari_corporate_us/webroot/careers/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZWdpb246IHVzLXdlc3QtMgo=</text>
+        <text encoding="base64">d2Vicm9vdC9jb3Jwb3JhdGUtYXNzZXRzL2pzLwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -571,57 +571,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>contact</text>
+        <text>\/webroot</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZWdpb246IHVzLXdlc3QtMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aHR0cHM6Ly90cmF2aXMtY2kuY29tL2tvdXpvaC9tZXJjYXJpX2NvcnBvcmF0ZV93ZWJfdXMuc3ZnP3Rva2VuPXdveXBOUHRFNGtOc2dkdzRGZzQ2JmJyYW5jaD1tYXN0ZXIK</text>
+        <text encoding="base64">d2Vicm9vdC9jb3Jwb3JhdGUtYXNzZXRzL2pzLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29ycG9yYXRlLWFzc2V0cy92ZW5kb3IvKgo=</text>
+        <text encoding="base64">aHR0cHM6Ly90cmF2aXMtY2kuY29tL2tvdXpvaC9tZXJjYXJpX2NvcnBvcmF0ZV93ZWJfdXMuc3ZnP3Rva2VuPXdveXBOUHRFNGtOc2dkdzRGZzQ2JmJyYW5jaD1tYXN0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlY3VyZTogREFJN3pYVFRtNXRZS2Rya24wbEd2WUlJQituWU1ISU9HaFhHSzF1RVZVY3BURnMwMGNwb0hwNkZDa244c09DRWNSVm14TlR4NzV4c1RhdjZCeU51bEtOem16SWRvQkloNXM0dCtuV2NNUVdNek9GbnUxckhUbHFuVldFNW1RLzllV1FsSWh4TWtCeExEZmFIQ2ZlV0h4ZmxUQVRhY2pJY2ZXVHFNWmJUYktsa3Ura1psblptUzllMUxmN3lyYnhqOFNWeHFRMmEwR1VCTER6Wk5aTEVyTVBDNXNzaFJvdFNmSFdpNXB0bkJlQTRXTHA0WDJHQ2Y3b1d5RWFoK0h2NmtkbE95SlRHb05NOTFReVZGUlRFUU9WRm5FZCtRNzZKK2c4aFNFQmFSMWNtTHY0NmxnZ25XL1RZV1lOemRxNDAvdFlhUzQ5eDNHdTdVVTRiem9lQm1ZcHNBUjRFZVI0bHVEOVpTZ2UwaHdhUnNaVXFxQjk1ZkkzQlNtOUdMNmM0LzJNajR5c3FENVlqeTJvTk10OUppZGYrdW9aaVVlY2RydWxhaDNJYXY1cEdUZHg5NGZpQ3c0ZWVrbFd2bGYwenBCUGpRVHlnOStJY1VHa3FXK1VxNDBLNUsxcmQrdkR3Y3l1d3g1WEQxc0pKdW9yb0ZLL0VPWktySkt5TVpiT1R3b21XNnVqMkRPTExQN1BiZjRJenVjQ1pDVHQybm1SandydW5xZEhUWWZIbE9WSm4zdklTT0FHNHlmMUdVQ1BoY3VEc0ZCQ0c3WFYzZ0JhVSszTDh2WkU2S1NlSUluY1VzbUdZc1lWWS9XbzVtWnNTazJTb0l1SVppWjc2MDFOenhFY1p0dnExb29wR1ZJWGcvY0E4MVgxUzhzQVhtdWtISVdEeTYyeWRIdDA9Cg==</text>
+        <text encoding="base64">Y29ycG9yYXRlLWFzc2V0cy92ZW5kb3IvKgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzbGFjazoK</text>
+        <text encoding="base64">ICAgIHNlY3VyZTogREFJN3pYVFRtNXRZS2Rya24wbEd2WUlJQituWU1ISU9HaFhHSzF1RVZVY3BURnMwMGNwb0hwNkZDa244c09DRWNSVm14TlR4NzV4c1RhdjZCeU51bEtOem16SWRvQkloNXM0dCtuV2NNUVdNek9GbnUxckhUbHFuVldFNW1RLzllV1FsSWh4TWtCeExEZmFIQ2ZlV0h4ZmxUQVRhY2pJY2ZXVHFNWmJUYktsa3Ura1psblptUzllMUxmN3lyYnhqOFNWeHFRMmEwR1VCTER6Wk5aTEVyTVBDNXNzaFJvdFNmSFdpNXB0bkJlQTRXTHA0WDJHQ2Y3b1d5RWFoK0h2NmtkbE95SlRHb05NOTFReVZGUlRFUU9WRm5FZCtRNzZKK2c4aFNFQmFSMWNtTHY0NmxnZ25XL1RZV1lOemRxNDAvdFlhUzQ5eDNHdTdVVTRiem9lQm1ZcHNBUjRFZVI0bHVEOVpTZ2UwaHdhUnNaVXFxQjk1ZkkzQlNtOUdMNmM0LzJNajR5c3FENVlqeTJvTk10OUppZGYrdW9aaVVlY2RydWxhaDNJYXY1cEdUZHg5NGZpQ3c0ZWVrbFd2bGYwenBCUGpRVHlnOStJY1VHa3FXK1VxNDBLNUsxcmQrdkR3Y3l1d3g1WEQxc0pKdW9yb0ZLL0VPWktySkt5TVpiT1R3b21XNnVqMkRPTExQN1BiZjRJenVjQ1pDVHQybm1SandydW5xZEhUWWZIbE9WSm4zdklTT0FHNHlmMUdVQ1BoY3VEc0ZCQ0c3WFYzZ0JhVSszTDh2WkU2S1NlSUluY1VzbUdZc1lWWS9XbzVtWnNTazJTb0l1SVppWjc2MDFOenhFY1p0dnExb29wR1ZJWGcvY0E4MVgxUzhzQVhtdWtISVdEeTYyeWRIdDA9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bm90aWZpY2F0aW9uczoK</text>
+        <text encoding="base64">ICBzbGFjazoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRhZ3M6IHRydWUK</text>
+        <text encoding="base64">bm90aWZpY2F0aW9uczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBvbjoK</text>
+        <text encoding="base64">ICAgIHRhZ3M6IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYWNoZV9jb250cm9sOiBtYXgtYWdlPTYwCg==</text>
+        <text encoding="base64">ICBvbjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhY2w6IHB1YmxpY19yZWFkCg==</text>
+        <text encoding="base64">ICBjYWNoZV9jb250cm9sOiBtYXgtYWdlPTYwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>contact</last-search>
+      <last-search>\/webroot</last-search>
       <last-offset />
-      <last-pattern>contact</last-pattern>
-      <last-replace>'\/corporate-assets\/img</last-replace>
-      <last-substitute>'img</last-substitute>
+      <last-pattern>\/webroot</last-pattern>
+      <last-replace />
+      <last-substitute>\/webroot</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>corporate-assets</entry>
         <entry>&quot;css</entry>
         <entry>&quot;img</entry>
         <entry>creative</entry>
@@ -641,9 +640,9 @@
         <entry>john</entry>
         <entry encoding="base64">XDxzZWNyZXRfYWNjZXNzX2tleVw+</entry>
         <entry>contact</entry>
+        <entry>\/webroot</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/notificationes/notification/g</entry>
         <entry>%s/TransactionMessage/TodoNotification/g</entry>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUES /g</entry>
@@ -662,6 +661,7 @@
         <entry>%s/&quot;js/&quot;\/corporate-assets\/js/g</entry>
         <entry>%s/'img/'\/corporate-assets\/img/g</entry>
         <entry>W</entry>
+        <entry>%s/\/webroot//g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
