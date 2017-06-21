@@ -262,11 +262,11 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/html/item-transactions-double.html" timestamp="1498028532391">
         <mark key="'" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498025505930">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="13" />
-        <mark key="." line="23" column="13" />
-        <mark key="^" line="23" column="13" />
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498030475110">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1498029660641">
         <mark key="[" line="0" column="0" />
@@ -507,8 +507,8 @@
       <jump line="24" column="24" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/html/item-transactions-double.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZWdpb246IHVzLXdlc3QtMgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -577,7 +577,7 @@
         <text>contact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjYWNoZV9jb250cm9sOiBtYXgtYWdlPTAK</text>
+        <text encoding="base64">ICByZWdpb246IHVzLXdlc3QtMgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aHR0cHM6Ly90cmF2aXMtY2kuY29tL2tvdXpvaC9tZXJjYXJpX2NvcnBvcmF0ZV93ZWJfdXMuc3ZnP3Rva2VuPXdveXBOUHRFNGtOc2dkdzRGZzQ2JmJyYW5jaD1tYXN0ZXIK</text>
