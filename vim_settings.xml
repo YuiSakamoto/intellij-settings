@@ -253,11 +253,11 @@
         <mark key="." line="57" column="38" />
         <mark key="^" line="57" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498020857149">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="34" column="695" />
-        <mark key="^" line="34" column="695" />
-        <mark key="." line="34" column="695" />
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498022351424">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="24" column="10" />
+        <mark key="." line="24" column="10" />
+        <mark key="^" line="25" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1497949599920">
         <mark key="[" line="0" column="0" />
@@ -498,7 +498,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>corporate-jp.mercari.com</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -561,7 +561,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>corporate-jp.mercari.com</text>
       </register>
       <register name="/" type="4">
         <text>john</text>
@@ -570,10 +570,10 @@
         <text encoding="base64">Y29ycG9yYXRlLWFzc2V0cy92ZW5kb3IvKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29ycG9yYXRlLWFzc2V0cy9jc3MvY3JlYXRpdmUubWluLmNzcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29ycG9yYXRlLWFzc2V0cy9jc3MvY3JlYXRpdmUubWluLmNzcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -585,16 +585,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSBFTkQgTkFWSUdBVElPTiAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9kaXY+IC0tPgo=</text>
+        <text encoding="base64">PCEtLSBFTkQgTkFWSUdBVElPTiAtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L25hdj4K</text>
+        <text encoding="base64">PC9kaXY+IC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICA8L25hdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
