@@ -72,18 +72,13 @@
         <mark key="^" line="849" column="53" />
         <mark key="." line="849" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/.gitignore" timestamp="1498031799524">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="23" column="45" />
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" timestamp="1498146358588">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" timestamp="1498152634763">
         <mark key="'" line="110" column="4" />
         <mark key="[" line="83" column="58" />
         <mark key="]" line="83" column="62" />
@@ -132,6 +127,9 @@
         <mark key="]" line="81" column="0" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/transaction/order_status.html.twig" timestamp="1498152765144">
+        <mark key="'" line="120" column="68" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/launch.js" timestamp="1487832500437">
         <mark key="[" line="21" column="171" />
@@ -282,6 +280,9 @@
         <mark key="]" line="27" column="47" />
         <mark key="." line="27" column="47" />
         <mark key="^" line="27" column="47" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_order_status.html.twig" timestamp="1498153448475">
+        <mark key="'" line="225" column="9" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/webview.js" timestamp="1492820810834">
         <mark key="[" line="27" column="45" />
@@ -452,14 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="444" column="21" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
-      <jump line="458" column="46" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
-      <jump line="459" column="42" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
-      <jump line="461" column="14" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
-      <jump line="464" column="20" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
-      <jump line="472" column="4" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
-      <jump line="474" column="20" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
-      <jump line="475" column="58" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
       <jump line="14" column="61" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
       <jump line="28" column="36" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
       <jump line="490" column="15" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
@@ -552,6 +545,14 @@
       <jump line="29" column="21" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
       <jump line="30" column="21" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
       <jump line="110" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
+      <jump line="57" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/transaction/order_status.html.twig" />
+      <jump line="189" column="56" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/transaction/order_status.html.twig" />
+      <jump line="190" column="133" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/transaction/order_status.html.twig" />
+      <jump line="191" column="58" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/transaction/order_status.html.twig" />
+      <jump line="214" column="21" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/transaction/order_status.html.twig" />
+      <jump line="91" column="68" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/transaction/order_status.html.twig" />
+      <jump line="120" column="68" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/transaction/order_status.html.twig" />
+      <jump line="225" column="9" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_order_status.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -621,7 +622,7 @@
         <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>配送元</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldCgnbWVyY2FyaXdlYi5yZWdpb24nKSAhPT0gJ3VzJykgewogICAgICAgICAgICB0aHJvdyBuZXcgSHR0cE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
@@ -658,9 +659,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>配送元</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>配送元</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -668,12 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
-        <entry>button</entry>
-        <entry>a href</entry>
-        <entry>view openings</entry>
-        <entry>Where</entry>
-        <entry>iframe</entry>
         <entry>page-bottom</entry>
         <entry>john</entry>
         <entry encoding="base64">XDxzZWNyZXRfYWNjZXNzX2tleVw+</entry>
@@ -688,6 +683,12 @@
         <entry>card</entry>
         <entry>yamato</entry>
         <entry>order</entry>
+        <entry>address</entry>
+        <entry>DeliverAddress</entry>
+        <entry>ddress</entry>
+        <entry>rakuraku</entry>
+        <entry>start</entry>
+        <entry>配送元</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
