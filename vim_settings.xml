@@ -21,7 +21,8 @@
         <mark key="." line="18" column="80" />
         <mark key="^" line="18" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/careers/index.html" timestamp="1498042139858">
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/careers/index.html" timestamp="1498086691844">
+        <mark key="[" line="8" column="48" />
         <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/package.json" timestamp="1498026021051">
@@ -46,8 +47,8 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/info/2017/06/21/john-is-joining-mercari/index.html" timestamp="1498044762494">
-        <mark key="[" line="52" column="0" />
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/info/2017/06/21/john-is-joining-mercari/index.html" timestamp="1498086592309">
+        <mark key="[" line="6" column="36" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
@@ -230,6 +231,12 @@
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="1" column="7" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/about/index.html" timestamp="1498086824962">
+        <mark key="[" line="9" column="323" />
+        <mark key="]" line="9" column="323" />
+        <mark key="^" line="9" column="322" />
+        <mark key="." line="9" column="323" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/help_center.js" timestamp="1493161731166">
         <mark key="'" line="654" column="22" />
@@ -542,8 +549,8 @@
       <jump line="8" column="6" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PageController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -606,7 +613,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>about</text>
