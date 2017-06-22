@@ -232,11 +232,11 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/about/index.html" timestamp="1498086824962">
-        <mark key="[" line="9" column="323" />
-        <mark key="]" line="9" column="323" />
-        <mark key="^" line="9" column="322" />
-        <mark key="." line="9" column="323" />
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/about/index.html" timestamp="1498099852389">
+        <mark key="[" line="344" column="11" />
+        <mark key="]" line="345" column="31" />
+        <mark key="^" line="345" column="31" />
+        <mark key="." line="345" column="31" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/help_center.js" timestamp="1493161731166">
         <mark key="'" line="654" column="22" />
@@ -296,7 +296,7 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-frontend/assets/html/item-transactions-double.html" timestamp="1498028532391">
         <mark key="'" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498035121453">
+      <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498100528494">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="20" />
         <mark key="." line="22" column="0" />
@@ -550,7 +550,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -613,7 +613,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="/" type="4">
         <text>about</text>
