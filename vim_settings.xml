@@ -78,13 +78,6 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" timestamp="1498470118744">
-        <mark key="'" line="47" column="23" />
-        <mark key="[" line="83" column="58" />
-        <mark key="]" line="83" column="62" />
-        <mark key="^" line="83" column="62" />
-        <mark key="." line="83" column="62" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/sw_controller.js" timestamp="1496572076997">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -347,7 +340,6 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/configs/paths.js" timestamp="1498535050675" />
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/Service/HelpCenterService.php" timestamp="1493248419901">
         <mark key="[" line="582" column="40" />
         <mark key="]" line="582" column="40" />
