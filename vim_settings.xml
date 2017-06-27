@@ -165,6 +165,9 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="25" column="11" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/actions/chat/messageList.js" timestamp="1498571062167">
+        <mark key="'" line="17" column="3" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/john-is-joining-mercari/index.html" timestamp="1498031208604">
         <mark key="'" line="32" column="19" />
         <mark key="[" line="53" column="50" />
@@ -306,7 +309,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498570266785">
+      <file name="/Dummy.txt" timestamp="1498571063709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/amp-index.html" timestamp="1496650838545">
@@ -451,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="22" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
       <jump line="97" column="52" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
       <jump line="130" column="54" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
       <jump line="406" column="195" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
@@ -551,6 +553,7 @@
       <jump line="257" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="258" column="7" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="922" column="49" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
+      <jump line="17" column="3" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/actions/chat/messageList.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -620,7 +623,7 @@
         <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="/" type="4">
-        <text>facebook</text>
+        <text>statusMessage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldCgnbWVyY2FyaXdlYi5yZWdpb24nKSAhPT0gJ3VzJykgewogICAgICAgICAgICB0aHJvdyBuZXcgSHR0cE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
@@ -657,9 +660,9 @@
       </register>
     </registers>
     <search>
-      <last-search>facebook</last-search>
+      <last-search>statusMessage</last-search>
       <last-offset />
-      <last-pattern>facebook</last-pattern>
+      <last-pattern>statusMessage</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -667,7 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/webroot</entry>
         <entry>6\/22</entry>
         <entry>2017</entry>
         <entry>job</entry>
@@ -687,6 +689,7 @@
         <entry>orderStatus</entry>
         <entry>error</entry>
         <entry>facebook</entry>
+        <entry>statusMessage</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
