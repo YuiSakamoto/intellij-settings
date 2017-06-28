@@ -84,8 +84,8 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1498544864120">
-        <mark key="'" line="922" column="49" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1498651472037">
+        <mark key="'" line="223" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_US.php" timestamp="1497757435195">
         <mark key="[" line="77" column="7" />
@@ -127,7 +127,6 @@
         <mark key="." line="21" column="204" />
         <mark key="^" line="21" column="204" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/chat/chat-component.html.twig" timestamp="1498573615021" />
       <file name="$USER_HOME$/Develop/web-starter-kit/app/sw.js" timestamp="1496992416450">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="3" />
@@ -238,7 +237,6 @@
         <mark key="^" line="345" column="31" />
         <mark key="." line="345" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/pages/help_center.php" timestamp="1498572350677" />
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/help_center.js" timestamp="1493161731166">
         <mark key="'" line="654" column="22" />
         <mark key="[" line="250" column="43" />
@@ -253,7 +251,6 @@
         <mark key="^" line="68" column="5" />
         <mark key="." line="68" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/help_center/us/form_type/shipping_label_2.html.twig" timestamp="1498573032314" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PageController.php" timestamp="1498046319442">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="107" column="0" />
@@ -452,7 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="52" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
       <jump line="130" column="54" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
       <jump line="406" column="195" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
       <jump line="35" column="13" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
@@ -552,6 +548,7 @@
       <jump line="258" column="7" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="922" column="49" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="17" column="3" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/actions/chat/messageList.js" />
+      <jump line="223" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -621,7 +618,7 @@
         <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="/" type="4">
-        <text>statusMessage</text>
+        <text>wait_shipping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldCgnbWVyY2FyaXdlYi5yZWdpb24nKSAhPT0gJ3VzJykgewogICAgICAgICAgICB0aHJvdyBuZXcgSHR0cE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
@@ -658,9 +655,9 @@
       </register>
     </registers>
     <search>
-      <last-search>statusMessage</last-search>
+      <last-search>wait_shipping</last-search>
       <last-offset />
-      <last-pattern>statusMessage</last-pattern>
+      <last-pattern>wait_shipping</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>6\/22</entry>
         <entry>2017</entry>
         <entry>job</entry>
         <entry>career</entry>
@@ -688,6 +684,7 @@
         <entry>error</entry>
         <entry>facebook</entry>
         <entry>statusMessage</entry>
+        <entry>wait_shipping</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
