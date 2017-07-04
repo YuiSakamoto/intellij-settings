@@ -78,6 +78,9 @@
         <mark key="^" line="23" column="45" />
         <mark key="." line="23" column="45" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" timestamp="1499153493667">
+        <mark key="'" line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/sw_controller.js" timestamp="1496572076997">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -99,6 +102,7 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/LaunchController.php" timestamp="1499153487081" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/done_on_app.html.twig" timestamp="1497581117232">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -449,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="54" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
       <jump line="406" column="195" filename="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" />
       <jump line="35" column="13" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
       <jump line="102" column="11" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
@@ -549,6 +552,7 @@
       <jump line="922" column="49" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="17" column="3" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/actions/chat/messageList.js" />
       <jump line="223" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
+      <jump line="13" column="16" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +622,7 @@
         <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="/" type="4">
-        <text>rakuraku</text>
+        <text>Launch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldCgnbWVyY2FyaXdlYi5yZWdpb24nKSAhPT0gJ3VzJykgewogICAgICAgICAgICB0aHJvdyBuZXcgSHR0cE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
@@ -655,9 +659,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rakuraku</last-search>
+      <last-search>Launch</last-search>
       <last-offset />
-      <last-pattern>rakuraku</last-pattern>
+      <last-pattern>Launch</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2017</entry>
         <entry>job</entry>
         <entry>career</entry>
         <entry>about</entry>
@@ -685,6 +688,7 @@
         <entry>statusMessage</entry>
         <entry>wait_shipping</entry>
         <entry>rakuraku</entry>
+        <entry>Launch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
