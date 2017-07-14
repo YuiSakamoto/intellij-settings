@@ -34,13 +34,6 @@
       <file name="$USER_HOME$/Develop/mercari_corporate_us/about_us.html" timestamp="1497942281493">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/careers/index.html" timestamp="1498039204196">
-        <mark key="'" line="14" column="33" />
-        <mark key="[" line="57" column="52" />
-        <mark key="]" line="57" column="52" />
-        <mark key="." line="57" column="52" />
-        <mark key="^" line="115" column="48" />
-      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/Service/UserService.php" timestamp="1487879407057">
         <mark key="[" line="34" column="24" />
         <mark key="]" line="34" column="24" />
@@ -52,20 +45,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/scripts/app.js" timestamp="1496489014012">
-        <mark key="'" line="162" column="5" />
-        <mark key="[" line="186" column="43" />
-        <mark key="]" line="186" column="43" />
-        <mark key="." line="186" column="43" />
-        <mark key="^" line="186" column="43" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_GB.php" timestamp="1497757872456">
-        <mark key="'" line="58" column="5" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="18" />
-        <mark key="^" line="58" column="5" />
-        <mark key="." line="32" column="18" />
-      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" timestamp="1500012839500" />
       <file name="$USER_HOME$/Develop/mercari_corporate_us/corporate-assets/css/creative.css" timestamp="1497949621592">
         <mark key="[" line="849" column="53" />
         <mark key="]" line="849" column="53" />
@@ -108,8 +88,8 @@
         <mark key="." line="145" column="41" />
         <mark key="^" line="145" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/en_US.php" timestamp="1498101856899">
-        <mark key="'" line="53" column="49" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/en_US.php" timestamp="1500012668317">
+        <mark key="'" line="38" column="22" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="^" line="18" column="28" />
@@ -157,19 +137,13 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/actions/chat/messageList.js" timestamp="1498571062167">
         <mark key="'" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/john-is-joining-mercari/index.html" timestamp="1498031208604">
-        <mark key="'" line="32" column="19" />
-        <mark key="[" line="53" column="50" />
-        <mark key="]" line="53" column="50" />
-        <mark key="^" line="43" column="39" />
-        <mark key="." line="53" column="50" />
-      </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/package.json" timestamp="1496641762677">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="17" column="37" />
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Service/ZendeskService.php" timestamp="1500013181423" />
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_production.php" timestamp="1486599217067">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="43" />
@@ -182,13 +156,6 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/index.html" timestamp="1496650809646">
-        <mark key="'" line="41" column="16" />
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="39" />
-        <mark key="." line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/pages/en_US/cloudflare_sec_incident.html.twig" timestamp="1489397568018">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -200,20 +167,6 @@
         <mark key="]" line="13" column="36" />
         <mark key="^" line="13" column="36" />
         <mark key="." line="13" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/web-starter-kit/app/scripts/main.js" timestamp="1496986426330">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="74" column="5" />
-        <mark key="]" line="74" column="5" />
-        <mark key="." line="74" column="5" />
-        <mark key="^" line="74" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/index.html" timestamp="1496557307569">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="32" column="68" />
-        <mark key="]" line="34" column="56" />
-        <mark key="." line="34" column="56" />
-        <mark key="^" line="34" column="56" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/index.html" timestamp="1496756835414">
         <mark key="[" line="8" column="11" />
@@ -231,20 +184,6 @@
         <mark key="^" line="345" column="31" />
         <mark key="." line="345" column="31" />
       </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/help_center.js" timestamp="1493161731166">
-        <mark key="'" line="654" column="22" />
-        <mark key="[" line="250" column="43" />
-        <mark key="]" line="250" column="64" />
-        <mark key="^" line="250" column="64" />
-        <mark key="." line="250" column="64" />
-      </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/assets/css/style.css" timestamp="1496651042303">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="67" column="15" />
-        <mark key="]" line="68" column="5" />
-        <mark key="^" line="68" column="5" />
-        <mark key="." line="68" column="5" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PageController.php" timestamp="1498046319442">
         <mark key="'" line="8" column="6" />
         <mark key="[" line="107" column="0" />
@@ -256,20 +195,6 @@
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/pages/top.php" timestamp="1497607700698">
-        <mark key="'" line="25" column="43" />
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="124" />
-        <mark key="." line="19" column="124" />
-        <mark key="^" line="19" column="124" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/info/2017/06/22/jonh-is-joining-mercari/index.html" timestamp="1497950480153">
-        <mark key="'" line="179" column="12" />
-        <mark key="[" line="27" column="44" />
-        <mark key="]" line="27" column="47" />
-        <mark key="." line="27" column="47" />
-        <mark key="^" line="27" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_order_status.html.twig" timestamp="1498654466519">
         <mark key="'" line="225" column="9" />
@@ -298,15 +223,8 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499438668574">
+      <file name="/Dummy.txt" timestamp="1500013175979">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/amp/amp-index.html" timestamp="1496650838545">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-        <mark key="." line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Util/DeviceUtil.php" timestamp="1497440650450">
         <mark key="[" line="86" column="36" />
@@ -374,20 +292,6 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/web-starter-kit/app/basic.html" timestamp="1496986077263">
-        <mark key="'" line="26" column="5" />
-        <mark key="[" line="53" column="29" />
-        <mark key="]" line="54" column="7" />
-        <mark key="^" line="54" column="7" />
-        <mark key="." line="54" column="7" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/single.html.twig" timestamp="1497437122455">
-        <mark key="'" line="29" column="6" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="45" column="6" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/dragon.html" timestamp="1496558849024">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="24" column="45" />
@@ -409,13 +313,6 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/step1_on_app.html.twig" timestamp="1497441366082">
-        <mark key="'" line="134" column="39" />
-        <mark key="[" line="148" column="68" />
-        <mark key="]" line="148" column="83" />
-        <mark key="^" line="148" column="83" />
-        <mark key="." line="148" column="83" />
-      </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/node_modules/serve-static/index.js" timestamp="1496648598413">
         <mark key="[" line="37" column="38" />
         <mark key="]" line="37" column="1" />
@@ -434,16 +331,8 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/.gitignore" timestamp="1496641126027">
-        <mark key="'" line="20" column="18" />
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="48" column="14" />
-        <mark key="^" line="48" column="14" />
-        <mark key="." line="48" column="14" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="13" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
       <jump line="102" column="11" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
       <jump line="43" column="71" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
       <jump line="285" column="38" filename="$USER_HOME$/Develop/mercari_corporate_us/about/index.html" />
@@ -543,6 +432,7 @@
       <jump line="223" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="13" column="16" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
       <jump line="134" column="21" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
+      <jump line="38" column="22" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/en_US.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -612,7 +502,7 @@
         <text>If you have questions about your orders, please contact us through the app.</text>
       </register>
       <register name="/" type="4">
-        <text>sales</text>
+        <text>send_sati</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldCgnbWVyY2FyaXdlYi5yZWdpb24nKSAhPT0gJ3VzJykgewogICAgICAgICAgICB0aHJvdyBuZXcgSHR0cE5vdEZvdW5kRXhjZXB0aW9uKCk7CiAgICAgICAgfQo=</text>
@@ -649,9 +539,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sales</last-search>
+      <last-search>send_sati</last-search>
       <last-offset />
-      <last-pattern>sales</last-pattern>
+      <last-pattern>send_sati</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -659,8 +549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>about</entry>
-        <entry>gl</entry>
         <entry>card</entry>
         <entry>yamato</entry>
         <entry>order</entry>
@@ -679,6 +567,8 @@
         <entry>Launch</entry>
         <entry>Sales</entry>
         <entry>sales</entry>
+        <entry>satis</entry>
+        <entry>send_sati</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
