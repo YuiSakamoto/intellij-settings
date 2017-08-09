@@ -187,12 +187,12 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" timestamp="1502183564923">
-        <mark key="'" line="264" column="63" />
-        <mark key="[" line="1143" column="0" />
-        <mark key="]" line="1143" column="1" />
-        <mark key="^" line="1143" column="1" />
-        <mark key="." line="1143" column="1" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" timestamp="1502313008543">
+        <mark key="'" line="1143" column="129" />
+        <mark key="[" line="1086" column="31" />
+        <mark key="]" line="1086" column="28" />
+        <mark key="^" line="1086" column="28" />
+        <mark key="." line="1086" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/about/index.html" timestamp="1498099852389">
         <mark key="[" line="344" column="11" />
@@ -245,7 +245,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502183581777">
+      <file name="/Dummy.txt" timestamp="1502313009794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Util/DeviceUtil.php" timestamp="1497440650450">
@@ -358,7 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="26" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="157" column="34" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="200" column="30" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="1231" column="44" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
@@ -455,9 +454,10 @@
       <jump line="511" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/aura/session/src/Session.php" />
       <jump line="195" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="1137" column="12" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="1142" column="110" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="1143" column="118" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
-      <jump line="264" column="63" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
+      <jump line="1086" column="28" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
+      <jump line="264" column="74" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
+      <jump line="1142" column="121" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
+      <jump line="1143" column="129" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -527,7 +527,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>mercariweb.login.is_logged_in</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdpbWFnZV9hbHQnICAgICAgICAgPT4gJHJvd1snaW1hZ2VfYWx0J11bJ2RlZmF1bHQnXVskZW52XSwK</text>
@@ -564,9 +564,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mercariweb.login.is_logged_in</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>mercariweb.login.is_logged_in</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -574,8 +574,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sales</entry>
-        <entry>satis</entry>
         <entry>send_sati</entry>
         <entry>delete</entry>
         <entry>bank</entry>
@@ -594,6 +592,8 @@
         <entry>generate</entry>
         <entry>is_log</entry>
         <entry>mercariweb.login.is_logged_in</entry>
+        <entry>log_in</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
