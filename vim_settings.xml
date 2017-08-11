@@ -39,6 +39,7 @@
         <mark key="^" line="849" column="53" />
         <mark key="." line="849" column="53" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1502487146854" />
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="23" column="45" />
@@ -124,12 +125,6 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/banner/en_US.php" timestamp="1502485794747">
-        <mark key="[" line="34" column="42" />
-        <mark key="]" line="34" column="46" />
-        <mark key="." line="34" column="46" />
-        <mark key="^" line="34" column="46" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/sass/base/_font.scss" timestamp="1502477394190">
         <mark key="'" line="57" column="1" />
       </file>
@@ -152,9 +147,9 @@
         <mark key="^" line="62" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/sass/base/_variabels.scss" timestamp="1502477557816">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/.node_version" timestamp="1496641380419">
         <mark key="[" line="0" column="0" />
@@ -217,13 +212,6 @@
         <mark key="." line="79" column="137" />
         <mark key="^" line="79" column="137" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/step0.html.twig" timestamp="1502486064076">
-        <mark key="'" line="40" column="34" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="137" />
-      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/webview.js" timestamp="1492820810834">
         <mark key="[" line="27" column="45" />
         <mark key="]" line="27" column="66" />
@@ -232,11 +220,6 @@
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PurchaseController.php" timestamp="1501862384457">
         <mark key="[" line="7" column="50" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Entity/BannerRepository.php" timestamp="1502485873128">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_production_gb.php" timestamp="1486492512321">
         <mark key="[" line="58" column="35" />
@@ -259,7 +242,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502477298685">
+      <file name="/Dummy.txt" timestamp="1502487419285">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Util/DeviceUtil.php" timestamp="1497440650450">
@@ -327,6 +310,7 @@
         <mark key="." line="144" column="41" />
         <mark key="^" line="144" column="41" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1502487417239" />
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/pages/en_US/about.html.twig" timestamp="1489398900494">
         <mark key="[" line="48" column="10" />
         <mark key="]" line="48" column="12" />
