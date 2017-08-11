@@ -545,7 +545,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>banner</text>
+        <text>path</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdpbWFnZV9hbHQnICAgICAgICAgPT4gJHJvd1snaW1hZ2VfYWx0J11bJ2RlZmF1bHQnXVskZW52XSwK</text>
@@ -582,9 +582,9 @@
       </register>
     </registers>
     <search>
-      <last-search>banner</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>banner</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -592,7 +592,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sign</entry>
         <entry>order</entry>
         <entry>orderStatus</entry>
         <entry>wait_done</entry>
@@ -612,6 +611,7 @@
         <entry encoding="base64">XDxfX2NvbnN0cnVjdFw+</entry>
         <entry>bannr</entry>
         <entry>banner</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUE/g</entry>
