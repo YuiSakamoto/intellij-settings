@@ -24,13 +24,6 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Event/ExecuteActionEvent.php" timestamp="1502470824786">
-        <mark key="'" line="183" column="95" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="0" />
-        <mark key="^" line="184" column="49" />
-        <mark key="." line="184" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/about_us.html" timestamp="1497942281493">
         <mark key="[" line="27" column="0" />
       </file>
@@ -131,18 +124,8 @@
         <mark key="." line="25" column="11" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/banner/en_US.php" timestamp="1502471127757">
-        <mark key="[" line="33" column="60" />
-        <mark key="]" line="34" column="79" />
-        <mark key="^" line="34" column="79" />
-        <mark key="." line="34" column="79" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/sass/base/_font.scss" timestamp="1502477394190">
         <mark key="'" line="57" column="1" />
-        <mark key="[" line="60" column="17" />
-        <mark key="]" line="60" column="26" />
-        <mark key="^" line="60" column="26" />
-        <mark key="." line="60" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/package.json" timestamp="1496641762677">
         <mark key="[" line="17" column="37" />
@@ -163,9 +146,9 @@
         <mark key="^" line="62" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/sass/base/_variabels.scss" timestamp="1502477557816">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/.node_version" timestamp="1496641380419">
         <mark key="[" line="0" column="0" />
@@ -227,12 +210,6 @@
         <mark key="]" line="79" column="137" />
         <mark key="." line="79" column="137" />
         <mark key="^" line="79" column="137" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/step0.html.twig" timestamp="1502477629985">
-        <mark key="[" line="43" column="48" />
-        <mark key="]" line="43" column="48" />
-        <mark key="^" line="43" column="39" />
-        <mark key="." line="43" column="48" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/webview.js" timestamp="1492820810834">
         <mark key="[" line="27" column="45" />
