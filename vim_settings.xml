@@ -70,6 +70,12 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PaymentMethodController.php" timestamp="1500369439363">
         <mark key="'" line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-double-api/home/banner.go" timestamp="1502413784198">
+        <mark key="[" line="80" column="39" />
+        <mark key="]" line="89" column="24" />
+        <mark key="." line="89" column="24" />
+        <mark key="^" line="80" column="39" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_US.php" timestamp="1500210572781">
         <mark key="[" line="129" column="7" />
         <mark key="]" line="131" column="71" />
@@ -478,8 +484,8 @@
       <jump line="74" column="40" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Entity/BannerRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXhwZWN0ZWQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -542,7 +548,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
