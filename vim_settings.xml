@@ -45,12 +45,7 @@
         <mark key="^" line="849" column="53" />
         <mark key="." line="849" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1502501581900">
-        <mark key="[" line="21" column="46" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1502501581900" />
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="23" column="45" />
@@ -66,6 +61,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/Parser.php" timestamp="1502502799445" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PaymentMethodController.php" timestamp="1500369439363">
         <mark key="'" line="23" column="6" />
       </file>
@@ -158,9 +154,6 @@
         <mark key="[" line="34" column="43" />
         <mark key="]" line="34" column="43" />
         <mark key="." line="34" column="43" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/sass/base/_font.scss" timestamp="1502477394190">
-        <mark key="'" line="57" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/actions/chat/messageList.js" timestamp="1498571062167">
         <mark key="'" line="17" column="3" />
@@ -256,12 +249,7 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/tests/MercariWeb/Entity/BannerRepositoryTest.php" timestamp="1502455642257">
-        <mark key="[" line="79" column="137" />
-        <mark key="]" line="79" column="137" />
-        <mark key="." line="79" column="137" />
-        <mark key="^" line="79" column="137" />
-      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/Extension/Core.php" timestamp="1502503398361" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_order_status.html.twig" timestamp="1501845297243">
         <mark key="'" line="74" column="17" />
       </file>
@@ -298,20 +286,19 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/Template.php" timestamp="1502501518198">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/Template.php" timestamp="1502502160237">
         <mark key="'" line="122" column="8" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/box/sass/base/_variables.scss" timestamp="1502477518300">
-        <mark key="[" line="38" column="26" />
-        <mark key="]" line="38" column="35" />
-        <mark key="^" line="38" column="35" />
-        <mark key="." line="38" column="35" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1501843131803">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/SimpleFilter.php" timestamp="1502503513498">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498100528494">
         <mark key="[" line="22" column="0" />
@@ -319,13 +306,19 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502496784500">
+      <file name="/Dummy.txt" timestamp="1502503439115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/Extension/Escaper.php" timestamp="1502491582055">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/TokenParser/AutoEscape.php" timestamp="1502503071276">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/Extension/Escaper.php" timestamp="1502503108116">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Util/DeviceUtil.php" timestamp="1497440650450">
         <mark key="[" line="86" column="36" />
@@ -349,6 +342,12 @@
         <mark key="]" line="26" column="24" />
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="24" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/symfony/yaml/Escaper.php" timestamp="1502503718578">
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="24" />
+        <mark key="^" line="52" column="24" />
+        <mark key="." line="52" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/index.html" timestamp="1496929782162">
         <mark key="[" line="21" column="39" />
@@ -380,12 +379,6 @@
         <mark key="]" line="65" column="55" />
         <mark key="." line="65" column="55" />
         <mark key="^" line="65" column="55" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/tests/MercariWeb/Fixtures/Banner/ja_JP.php" timestamp="1502455324160">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="40" />
-        <mark key="^" line="67" column="38" />
-        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_qa_us.php" timestamp="1486107493196">
         <mark key="[" line="144" column="40" />
@@ -559,7 +552,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWUpCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -625,46 +618,46 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>escape</text>
+        <text>Exten</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSwgJGNhbGxhYmxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnaG9nZScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGVtcGxhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG9rZW4pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+YmxvY2tzKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG9rZW4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc291cmNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+YmxvY2tzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGVtcGxhdGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>escape</last-search>
+      <last-search>Exten</last-search>
       <last-offset />
-      <last-pattern>escape</last-pattern>
+      <last-pattern>Exten</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -672,8 +665,6 @@
     </search>
     <history>
       <history-search>
-        <entry>re</entry>
-        <entry>generate</entry>
         <entry>is_log</entry>
         <entry>mercariweb.login.is_logged_in</entry>
         <entry>log_in</entry>
@@ -692,6 +683,8 @@
         <entry>twig</entry>
         <entry>render</entry>
         <entry>escape</entry>
+        <entry>Escape</entry>
+        <entry>Exten</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUES /g</entry>
