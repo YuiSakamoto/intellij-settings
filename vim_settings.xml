@@ -45,7 +45,12 @@
         <mark key="^" line="849" column="53" />
         <mark key="." line="849" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1502501581900" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1502596827830">
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="28" column="50" />
+        <mark key="." line="28" column="50" />
+        <mark key="^" line="28" column="50" />
+      </file>
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="23" column="45" />
@@ -61,7 +66,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/Parser.php" timestamp="1502502799445" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PaymentMethodController.php" timestamp="1500369439363">
         <mark key="'" line="23" column="6" />
       </file>
@@ -249,7 +253,6 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/Extension/Core.php" timestamp="1502503398361" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_order_status.html.twig" timestamp="1501845297243">
         <mark key="'" line="74" column="17" />
       </file>
@@ -373,7 +376,6 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/composer.json" timestamp="1502490779379" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/common_footer.html.twig" timestamp="1498045754558">
         <mark key="[" line="65" column="55" />
         <mark key="]" line="65" column="55" />
@@ -386,12 +388,12 @@
         <mark key="." line="144" column="41" />
         <mark key="^" line="144" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1502501301078">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1502597052859">
         <mark key="'" line="0" column="12" />
-        <mark key="[" line="18" column="68" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="18" column="3" />
+        <mark key="[" line="10" column="91" />
+        <mark key="]" line="10" column="92" />
+        <mark key="." line="10" column="92" />
+        <mark key="^" line="10" column="92" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/pages/en_US/about.html.twig" timestamp="1489398900494">
         <mark key="[" line="48" column="10" />
@@ -552,7 +554,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWUpCg==</text>
+        <text encoding="base64">eyUgYmxvY2sgaGVhZF9vZ3RhZ3NfdHdpdHRlcl90aXRsZSAiI3twYWdlX3RpdGxlfSIgJX0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -615,40 +617,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>%</text>
       </register>
       <register name="/" type="4">
         <text>Exten</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSk7Cg==</text>
+        <text encoding="base64">eyUgYmxvY2sgaGVhZF9vZ3RhZ3NfdHdpdHRlcl90aXRsZSAiI3twYWdlX3RpdGxlfSIgJX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWUpCg==</text>
+        <text encoding="base64">eyUgYmxvY2sgaGVhZF9vZ3RhZ3NfdHdpdHRlcl90aXRsZSAiI3twYWdlX3RpdGxlfSIgJX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSwgJGNhbGxhYmxlKTsK</text>
+        <text encoding="base64">eyUgYmxvY2sgaGVhZF9vZ3RhZ3NfdHdpdHRlcl90aXRsZSAlfXt7ICB9fSIje3BhZ2VfdGl0bGV9IiAlfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnaG9nZScpOwo=</text>
+        <text encoding="base64">eyUgYmxvY2sgaGVhZF9vZ3RhZ3NfdHdpdHRlcl90aXRsZSAiI3twYWdlX3RpdGxlfSIgJX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdmFsdWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbmFtZSwgJGNhbGxhYmxlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgnaG9nZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG9rZW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG9rZW4pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGVtcGxhdGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
