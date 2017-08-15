@@ -38,11 +38,11 @@
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Engagement/NewRegisteredUser/WelcomeCouponService.php" timestamp="1502820962886" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Engagement/CoveringCommissionFee/Config.php" timestamp="1502819370268" />
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" timestamp="1502755251753">
-        <mark key="'" line="119" column="20" />
-        <mark key="[" line="176" column="0" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" timestamp="1502831894193">
+        <mark key="'" line="71" column="92" />
+        <mark key="[" line="71" column="92" />
         <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+        <mark key="." line="71" column="93" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_mercari_mini_us.php" timestamp="1486107450787">
         <mark key="[" line="145" column="40" />
@@ -206,13 +206,6 @@
         <mark key="^" line="849" column="53" />
         <mark key="." line="849" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1502604424406">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="15" column="60" />
-        <mark key="." line="15" column="45" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/sw_controller.js" timestamp="1496572076997">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -244,6 +237,7 @@
         <mark key="." line="21" column="204" />
         <mark key="^" line="21" column="204" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/mypage_point/histories.html.twig" timestamp="1502831868801" />
       <file name="$USER_HOME$/Develop/web-starter-kit/app/sw.js" timestamp="1496992416450">
         <mark key="[" line="6" column="3" />
         <mark key="]" line="6" column="3" />
@@ -298,7 +292,7 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PurchaseController.php" timestamp="1501862384457">
         <mark key="[" line="7" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502819411586">
+      <file name="/Dummy.txt" timestamp="1502831870439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/lib/mercari/fedex/lib/Wsdl/GetConfirmOpenShipmentResultsReply.php" timestamp="1502819447121" />
@@ -378,7 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="255" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="256" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="257" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
@@ -478,6 +471,7 @@
       <jump line="125" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
       <jump line="464" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
       <jump line="119" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
+      <jump line="71" column="92" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Twig/TwigFunctionExtension.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -547,7 +541,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>date</text>
+        <text>formatTimestamp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">eyUgc2V0IHBhZ2VfdGl0bGUgJX0Ke3sgdXNlci5uYW1lfHJhdyB9fXslIGlmIHF1ZXJ5LnBhZ2UgaXMgbm90IGVtcHR5ICV9e3sgcGFnZV90ZXh0IH19eyUgZW5kaWYgJX17JSBlbmRzZXQgJX0K</text>
@@ -584,9 +578,9 @@
       </register>
     </registers>
     <search>
-      <last-search>date</last-search>
+      <last-search>formatTimestamp</last-search>
       <last-offset />
-      <last-pattern>date</last-pattern>
+      <last-pattern>formatTimestamp</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -594,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>seGlobal</entry>
         <entry>setGlobal</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxfX2NvbnN0cnVjdFw+</entry>
@@ -614,6 +607,7 @@
         <entry>getTranslateMessage</entry>
         <entry>kind</entry>
         <entry>date</entry>
+        <entry>formatTimestamp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE(/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUES (/g</entry>
