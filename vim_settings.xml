@@ -33,6 +33,9 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" timestamp="1503882496540">
+        <mark key="'" line="619" column="107" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/config/core.php" timestamp="1502925264043">
         <mark key="'" line="168" column="8" />
       </file>
@@ -138,6 +141,7 @@
         <mark key="." line="6" column="65" />
         <mark key="^" line="6" column="65" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/help_center/us/form_type/cancel_buyer_1.html.twig" timestamp="1503882248148" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/item/detail.html.twig" timestamp="1502604819863">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="25" />
@@ -252,7 +256,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503656492958">
+      <file name="/Dummy.txt" timestamp="1503882385216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/controllers/register_sms_confirmations_controller.php" timestamp="1503002371966">
@@ -384,15 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="50" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
-      <jump line="135" column="27" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/ja_JP.php" />
-      <jump line="44" column="51" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" />
-      <jump line="4" column="6" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/models/price.php" />
-      <jump line="151" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/en_US.php" />
-      <jump line="526" column="64" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" />
-      <jump line="590" column="34" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" />
-      <jump line="617" column="34" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" />
-      <jump line="714" column="79" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" />
       <jump line="720" column="79" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" />
       <jump line="1138" column="72" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" />
       <jump line="74" column="17" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_order_status.html.twig" />
@@ -484,6 +479,15 @@
       <jump line="17" column="28" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" />
       <jump line="38" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/custom_banner.js" />
       <jump line="164" column="39" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/ReturnTransaction/ReturnTransaction.php" />
+      <jump line="47" column="14" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
+      <jump line="458" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
+      <jump line="501" column="40" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
+      <jump line="552" column="34" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
+      <jump line="556" column="40" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
+      <jump line="583" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
+      <jump line="610" column="34" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
+      <jump line="689" column="54" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
+      <jump line="619" column="107" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -553,7 +557,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>rows</text>
+        <text>cancel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -590,9 +594,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rows</last-search>
+      <last-search>cancel</last-search>
       <last-offset />
-      <last-pattern>rows</last-pattern>
+      <last-pattern>cancel</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -600,8 +604,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib2xkXD4=</entry>
-        <entry>banner</entry>
         <entry encoding="base64">XDx0d2lnXD4=</entry>
         <entry>renderer</entry>
         <entry>twig</entry>
@@ -620,6 +622,8 @@
         <entry>token</entry>
         <entry>AccessControl</entry>
         <entry>rows</entry>
+        <entry>send</entry>
+        <entry>cancel</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE(/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUES (/g</entry>
