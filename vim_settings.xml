@@ -80,6 +80,12 @@
         <mark key="^" line="9" column="69" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/pages/buy.php" timestamp="1504253250504">
+        <mark key="[" line="43" column="48" />
+        <mark key="]" line="43" column="86" />
+        <mark key="^" line="43" column="86" />
+        <mark key="." line="43" column="86" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/done_on_app.html.twig" timestamp="1497581117232">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -128,12 +134,12 @@
         <mark key="^" line="95" column="84" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" timestamp="1504245416167">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/TransactionController.php" timestamp="1504253338247">
         <mark key="'" line="151" column="44" />
-        <mark key="[" line="188" column="53" />
-        <mark key="]" line="188" column="53" />
-        <mark key="^" line="188" column="53" />
-        <mark key="." line="188" column="53" />
+        <mark key="[" line="289" column="0" />
+        <mark key="]" line="289" column="0" />
+        <mark key="^" line="289" column="57" />
+        <mark key="." line="289" column="0" />
       </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1485841833929">
         <mark key="[" line="28" column="36" />
@@ -274,6 +280,13 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_buy.html.twig" timestamp="1504253206890">
+        <mark key="'" line="214" column="8" />
+        <mark key="[" line="283" column="50" />
+        <mark key="]" line="283" column="61" />
+        <mark key="." line="283" column="61" />
+        <mark key="^" line="283" column="61" />
+      </file>
       <file name="/Dummy.txt" timestamp="1503886502342">
         <mark key="[" line="0" column="0" />
       </file>
@@ -406,7 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1143" column="129" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Application.php" />
       <jump line="50" column="51" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Event/ExecuteActionEvent.php" />
       <jump line="62" column="19" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Event/ExecuteActionEvent.php" />
       <jump line="166" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Event/ExecuteActionEvent.php" />
@@ -506,10 +518,11 @@
       <jump line="70" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Entity/Transaction.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Entity/Item.php" />
       <jump line="266" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Entity/Transaction.php" />
+      <jump line="214" column="8" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_buy.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICYmICRpbml0LT5nZXRJc1dlYlNpZ251cEJ1eWVyKCks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -572,34 +585,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmICRpbml0LT5nZXRJc1dlYlNpZ251cEJ1eWVyKCks</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>cancel</text>
+        <text>paypal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE9OTFlfUEFZUEFMX0NBVEVHT1JZX0lEID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8cCBjbGFzcz0iaGFzLWVycm9yLXRleHQiPnt7IHRyYW5zKCdidXkubm90X2NvbXBsZXRlX3RleHQnKSB9fTwvcD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJiYgJHRoaXMtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIENyaXRlcmlhIG9mIG9ubHkgcGF5cGFsCiAgICBjb25zdCBPTkxZX1BBWVBBTF9DQVRFR09SWV9JRCA9IDc7CiAgICBjb25zdCBPTkxZX1BBWVBBTF9NQVhfUFJJQ0UgPSAyNTAwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJiYgJHRoaXMtPgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIENyaXRlcmlhIG9mIG9ubHkgcGF5cGFsCiAgICBjb25zdCBPTkxZX1BBWVBBTF9DQVRFR09SWV9JRCA9IDc7CiAgICBjb25zdCBPTkxZX1BBWVBBTF9NQVhfUFJJQ0UgPSAyNTAwMDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -612,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cancel</last-search>
+      <last-search>paypal</last-search>
       <last-offset />
-      <last-pattern>cancel</last-pattern>
+      <last-pattern>paypal</last-pattern>
       <last-replace>6\/21</last-replace>
       <last-substitute>6\/22</last-substitute>
       <last-dir>1</last-dir>
@@ -622,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0d2lnXD4=</entry>
         <entry>renderer</entry>
         <entry>twig</entry>
         <entry>render</entry>
@@ -642,6 +654,7 @@
         <entry>rows</entry>
         <entry>send</entry>
         <entry>cancel</entry>
+        <entry>paypal</entry>
       </history-search>
       <history-cmd>
         <entry>%s/VALUE(/(help_center_category_id, body, form_type_id, inquiry_subject, zendesk_tag) VALUES (/g</entry>
