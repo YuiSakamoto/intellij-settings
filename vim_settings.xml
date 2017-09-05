@@ -424,10 +424,10 @@
         <mark key="^" line="24" column="45" />
         <mark key="." line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/TopController.php" timestamp="1504603326053">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="13" />
-        <mark key="." line="25" column="13" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/TopController.php" timestamp="1504606227872">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
         <mark key="^" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/assets/js/server.js" timestamp="1496648821519">
@@ -576,8 +576,8 @@
       <jump line="18" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgWydqYV9KUCddLAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
