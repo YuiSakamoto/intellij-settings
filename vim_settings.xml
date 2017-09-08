@@ -48,7 +48,6 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" timestamp="1503882496540">
         <mark key="'" line="619" column="107" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/migrations/2017/37297-discount-promotion-items/003-alter-coupon-table.sql" timestamp="1504854786148" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/config/core.php" timestamp="1502925264043">
         <mark key="'" line="168" column="8" />
       </file>
@@ -70,6 +69,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/Item.php" timestamp="1504859712928" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1504855481265">
         <mark key="'" line="2758" column="13" />
         <mark key="[" line="2299" column="53" />
@@ -104,7 +104,6 @@
         <mark key="]" line="367" column="0" />
         <mark key="." line="367" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/migrations/2017/DBL-4396_labor_day_coupon/us-migration.sql" timestamp="1504854019708" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_US/pages/buy.php" timestamp="1504261777795">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -170,6 +169,12 @@
         <mark key="^" line="95" column="84" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/us/coupons.sql" timestamp="1504859785766">
+        <mark key="[" line="1435" column="0" />
+        <mark key="]" line="1463" column="0" />
+        <mark key="^" line="1463" column="0" />
+        <mark key="." line="1463" column="0" />
+      </file>
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1485841833929">
         <mark key="[" line="28" column="36" />
         <mark key="]" line="28" column="36" />
@@ -224,7 +229,7 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/migrations/2017/DBL-4838-web-dormant-buyers/coupons.sql" timestamp="1504854566263">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/migrations/2017/DBL-4838-web-dormant-buyers/coupons.sql" timestamp="1504859770454">
         <mark key="[" line="26" column="21" />
         <mark key="]" line="26" column="37" />
         <mark key="." line="26" column="37" />
