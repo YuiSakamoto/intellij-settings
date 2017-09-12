@@ -147,6 +147,7 @@
       <file name="/HTML File.txt.ft" timestamp="1501843131803">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/containers/Sell.js" timestamp="1505220784898" />
       <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498100528494">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="20" />
@@ -276,13 +277,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1504855481265">
-        <mark key="'" line="2758" column="13" />
-        <mark key="[" line="2299" column="53" />
-        <mark key="]" line="2299" column="56" />
-        <mark key="." line="2299" column="56" />
-        <mark key="^" line="2299" column="56" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-double-api/home/banner.go" timestamp="1502415521197">
         <mark key="[" line="119" column="36" />
         <mark key="]" line="119" column="37" />
@@ -410,7 +404,7 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505218045981">
+      <file name="/Dummy.txt" timestamp="1505220833217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item_list/top_pick_up.html.twig" timestamp="1504530185238">
@@ -453,6 +447,12 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/i18n/sell.js" timestamp="1505221525657">
+        <mark key="[" line="46" column="21" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
+        <mark key="^" line="46" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/common_footer.html.twig" timestamp="1498045754558">
         <mark key="[" line="65" column="55" />
@@ -614,7 +614,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -677,7 +677,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>access_token</text>
@@ -767,8 +767,8 @@
         <entry>Lw</entry>
         <entry>Pw</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc190b2tlbi9nZW5lcmFsX2FjY2Vzc190b2tlbi9n</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
