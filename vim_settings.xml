@@ -373,6 +373,7 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/HelpCenterActivityStatus.php" timestamp="1505217977718" />
       <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/about/index.html" timestamp="1498099852389">
         <mark key="[" line="344" column="11" />
         <mark key="]" line="345" column="31" />
@@ -409,7 +410,7 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505192902590">
+      <file name="/Dummy.txt" timestamp="1505218008439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item_list/top_pick_up.html.twig" timestamp="1504530185238">
@@ -471,7 +472,9 @@
         <mark key="." line="48" column="12" />
         <mark key="^" line="48" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1505194787019" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1505217942606">
+        <mark key="'" line="1125" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/assets/js/server.js" timestamp="1496648821519">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="22" />
@@ -508,8 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="49" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/guzzlehttp/guzzle/src/Client.php" />
-      <jump line="21" column="52" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_production.php" />
       <jump line="43871" column="8" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/migrations/2017/DBL-4838-web-dormant-buyers/coupon_owners.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/migrations/2017/DBL-4838-web-dormant-buyers/coupon_owners.sql" />
       <jump line="43870" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/migrations/2017/DBL-4838-web-dormant-buyers/coupon_owners.sql" />
@@ -608,6 +609,8 @@
       <jump line="107" column="46" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/ItemService.php" />
       <jump line="250" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/ItemService.php" />
       <jump line="198" column="22" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/ItemService.php" />
+      <jump line="333" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" />
+      <jump line="1125" column="12" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
