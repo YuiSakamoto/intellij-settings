@@ -206,6 +206,7 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1503126784762">
         <mark key="'" line="17" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/shipping_payers/ja_JP.php" timestamp="1505393754179" />
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/sw.js" timestamp="1496559297461">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -433,7 +434,7 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/database/src/ArrayRepository.php" timestamp="1505375293425">
         <mark key="'" line="98" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505392429642">
+      <file name="/Dummy.txt" timestamp="1505393750273">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item_list/top_pick_up.html.twig" timestamp="1504530185238">
@@ -489,11 +490,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/i18n/sell.js" timestamp="1505391101826">
-        <mark key="[" line="50" column="10" />
-        <mark key="]" line="50" column="11" />
-        <mark key="." line="50" column="11" />
-        <mark key="^" line="50" column="11" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/i18n/sell.js" timestamp="1505393433596">
+        <mark key="[" line="20" column="74" />
+        <mark key="]" line="20" column="79" />
+        <mark key="." line="20" column="79" />
+        <mark key="^" line="20" column="79" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/common_footer.html.twig" timestamp="1498045754558">
         <mark key="[" line="65" column="55" />
@@ -662,7 +663,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>¥</text>
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -725,7 +726,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>¥</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>shipping_payer</text>
