@@ -475,11 +475,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/i18n/sell.js" timestamp="1505221525657">
-        <mark key="[" line="46" column="21" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="24" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/i18n/sell.js" timestamp="1505389155943">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="54" />
+        <mark key="." line="34" column="54" />
+        <mark key="^" line="34" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/common_footer.html.twig" timestamp="1498045754558">
         <mark key="[" line="65" column="55" />
@@ -647,8 +647,8 @@
       <jump line="246" column="64" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/controllers/items_controller.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgeyUgc2V0IHJvb3RfY2F0ZWdvcnkgPSBnZXRfY2F0ZWdvcnkocm9vdF9jYXRlZ29yeV9hcnJheS5pZCkgJX0K</text>
+      <register name="&quot;" type="4">
+        <text>法</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -711,7 +711,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>法</text>
       </register>
       <register name="/" type="4">
         <text>Apply</text>
