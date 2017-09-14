@@ -475,11 +475,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/i18n/sell.js" timestamp="1505389155943">
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="54" />
-        <mark key="." line="34" column="54" />
-        <mark key="^" line="34" column="54" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/i18n/sell.js" timestamp="1505390525095">
+        <mark key="[" line="40" column="30" />
+        <mark key="]" line="40" column="40" />
+        <mark key="." line="40" column="40" />
+        <mark key="^" line="40" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/common_footer.html.twig" timestamp="1498045754558">
         <mark key="[" line="65" column="55" />
@@ -648,7 +648,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>法</text>
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -711,7 +711,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>法</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Apply</text>
@@ -801,8 +801,8 @@
         <entry>Lw</entry>
         <entry>Pw</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc190b2tlbi9nZW5lcmFsX2FjY2Vzc190b2tlbi9n</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
