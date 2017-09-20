@@ -549,12 +549,12 @@
       <file name="/fragment.java" timestamp="1501843134375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" timestamp="1505874003867">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" timestamp="1505886477655">
         <mark key="'" line="332" column="651" />
-        <mark key="[" line="346" column="299" />
-        <mark key="]" line="346" column="349" />
-        <mark key="." line="346" column="349" />
-        <mark key="^" line="346" column="349" />
+        <mark key="[" line="346" column="331" />
+        <mark key="]" line="346" column="338" />
+        <mark key="." line="346" column="338" />
+        <mark key="^" line="346" column="338" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/pages/sms_confirmation.php" timestamp="1504494225118">
         <mark key="[" line="10" column="88" />
@@ -672,8 +672,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/dmca.html.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U2FuIEZyYW5jaXNjbywgQ0EgOTQxMDIK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -736,7 +736,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>720</text>
