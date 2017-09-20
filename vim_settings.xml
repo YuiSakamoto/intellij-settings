@@ -83,7 +83,6 @@
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Service/PurchasePromotionMessageService.php" timestamp="1505380170252" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" timestamp="1505283370702">
         <mark key="'" line="58" column="88" />
       </file>
@@ -105,7 +104,6 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Region/Traits/ItemParameterFilterTraitUS.php" timestamp="1505470865574" />
       <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/pages/en_US/cloudflare_sec_incident.html.twig" timestamp="1489397568018">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -216,7 +214,6 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1503126784762">
         <mark key="'" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/shipping_payers/ja_JP.php" timestamp="1505393754179" />
       <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/sw.js" timestamp="1496559297461">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -563,6 +560,9 @@
       <file name="/fragment.java" timestamp="1501843134375">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" timestamp="1505873384111">
+        <mark key="'" line="318" column="251" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/pages/sms_confirmation.php" timestamp="1504494225118">
         <mark key="[" line="10" column="88" />
         <mark key="]" line="10" column="88" />
@@ -577,12 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="135" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
-      <jump line="136" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
-      <jump line="137" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
-      <jump line="138" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
-      <jump line="141" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
-      <jump line="142" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
       <jump line="143" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
       <jump line="144" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
       <jump line="145" column="15" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
@@ -677,6 +671,12 @@
       <jump line="241" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/reducers/sell.js" />
       <jump line="279" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/reducers/sell.js" />
       <jump line="307" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/reducers/sell.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
+      <jump line="103" column="310" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
+      <jump line="214" column="462" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
+      <jump line="305" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
+      <jump line="312" column="285" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
+      <jump line="318" column="251" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -746,7 +746,7 @@
         <text>域</text>
       </register>
       <register name="/" type="4">
-        <text>duration</text>
+        <text>Market</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAxID0+ICcnLAo=</text>
@@ -783,9 +783,9 @@
       </register>
     </registers>
     <search>
-      <last-search>duration</last-search>
+      <last-search>Market</last-search>
       <last-offset />
-      <last-pattern>duration</last-pattern>
+      <last-pattern>Market</last-pattern>
       <last-replace>general_access_token</last-replace>
       <last-substitute>access_token</last-substitute>
       <last-dir>1</last-dir>
@@ -793,8 +793,6 @@
     </search>
     <history>
       <history-search>
-        <entry>acti</entry>
-        <entry>activ</entry>
         <entry>has</entry>
         <entry>has_</entry>
         <entry>activity</entry>
@@ -813,6 +811,8 @@
         <entry>shipping_pater</entry>
         <entry>shipping_payer</entry>
         <entry>duration</entry>
+        <entry>Califor</entry>
+        <entry>Market</entry>
       </history-search>
       <history-cmd>
         <entry>%s/</entry>
