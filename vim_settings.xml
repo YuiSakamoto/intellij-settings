@@ -3,20 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/tests/e2e/ErrorTest.php" timestamp="1490943979690">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Entity/Banner.php" timestamp="1502172085396">
         <mark key="[" line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/package.json" timestamp="1498026021051">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="27" column="3" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="27" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/search/extend.html.twig" timestamp="1505375019321">
         <mark key="'" line="174" column="34" />
@@ -24,42 +12,18 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" timestamp="1503882496540">
         <mark key="'" line="619" column="107" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/AuthController.php" timestamp="1505295771364">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="^" line="163" column="17" />
-        <mark key="." line="163" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/config/core.php" timestamp="1502925264043">
         <mark key="'" line="168" column="8" />
-      </file>
-      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/faq.html" timestamp="1496558842180">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/Item.php" timestamp="1505973229458">
         <mark key="[" line="343" column="0" />
         <mark key="]" line="343" column="0" />
         <mark key="." line="343" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/external_tracking_urls/en_US.php" timestamp="1500210572781">
-        <mark key="[" line="129" column="7" />
-        <mark key="]" line="131" column="71" />
-        <mark key="^" line="131" column="71" />
-        <mark key="." line="131" column="71" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_US/pages/buy.php" timestamp="1504261777795">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_mercari_mini_us.php" timestamp="1486107450787">
-        <mark key="[" line="145" column="40" />
-        <mark key="]" line="145" column="41" />
-        <mark key="." line="145" column="41" />
-        <mark key="^" line="145" column="41" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Region/RegionalStrategyCommon.php" timestamp="1505470391965">
         <mark key="'" line="70" column="0" />
@@ -69,107 +33,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/us/coupons.sql" timestamp="1504859785766">
-        <mark key="[" line="1435" column="0" />
-        <mark key="]" line="1463" column="0" />
-        <mark key="^" line="1463" column="0" />
-        <mark key="." line="1463" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/user/detail.html.twig" timestamp="1485841833929">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="36" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="28" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/your-first-pwapp-master/step-08/manifest.json" timestamp="1496557675721">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-      </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/package.json" timestamp="1496641762677">
-        <mark key="[" line="17" column="37" />
-        <mark key="]" line="17" column="37" />
-        <mark key="." line="17" column="37" />
-        <mark key="^" line="17" column="31" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" timestamp="1505283370702">
         <mark key="'" line="58" column="88" />
       </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_production.php" timestamp="1486599217067">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="43" />
-        <mark key="^" line="144" column="42" />
-        <mark key="." line="144" column="42" />
-      </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/.node_version" timestamp="1496641380419">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Service/BannerService.php" timestamp="1502470439805">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/pages/en_US/cloudflare_sec_incident.html.twig" timestamp="1489397568018">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="36" column="107" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/custom_banner.js" timestamp="1503127200530">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="22" column="49" />
-        <mark key="^" line="22" column="49" />
-        <mark key="." line="22" column="49" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini/workspace/mercari-web-2/app/Entity/Brand.php" timestamp="1460452363929">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/index.html" timestamp="1496756835414">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="1" column="7" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/box/sass/modules/_banner.scss" timestamp="1502470536592">
-        <mark key="[" line="64" column="20" />
-        <mark key="]" line="64" column="26" />
-        <mark key="." line="64" column="26" />
-        <mark key="^" line="64" column="26" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/webview.js" timestamp="1492820810834">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="66" />
-        <mark key="^" line="27" column="66" />
-        <mark key="." line="27" column="66" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/common_header.html.twig" timestamp="1502489242649">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_production_gb.php" timestamp="1486492512321">
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="57" column="38" />
-        <mark key="." line="57" column="38" />
-        <mark key="^" line="57" column="38" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1501843131803">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/.travis.yml" timestamp="1498100528494">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="11" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_buy.html.twig" timestamp="1504256137478">
         <mark key="'" line="214" column="8" />
@@ -180,43 +48,13 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/twig/twig/lib/Twig/TokenParser/AutoEscape.php" timestamp="1502503071276">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="35" column="12" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Event/ExecuteActionEvent.php" timestamp="1505206417721">
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="12" />
         <mark key="." line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/index.html" timestamp="1496929782162">
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/AuthController.php" timestamp="1497332399749">
-        <mark key="[" line="109" column="34" />
-        <mark key="]" line="109" column="33" />
-        <mark key="^" line="109" column="33" />
-        <mark key="." line="109" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/.eslintrc" timestamp="1496641683211">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="19" />
-        <mark key="^" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1503126784762">
         <mark key="'" line="17" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/sw.js" timestamp="1496559297461">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="30" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/kouzoh/mercari-php-sdk/src/Client.php" timestamp="1504608154100">
         <mark key="[" line="107" column="0" />
@@ -226,177 +64,27 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1505188493987">
         <mark key="'" line="187" column="75" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_GB/pages/sms_confirmation.php" timestamp="1504494133527">
-        <mark key="[" line="10" column="88" />
-        <mark key="]" line="10" column="88" />
-        <mark key="." line="10" column="88" />
-        <mark key="^" line="10" column="88" />
-      </file>
-      <file name="$USER_HOME$/Develop/migrate-to-progressive-web-apps/work/dragon.html" timestamp="1496558849024">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="24" column="45" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="24" column="45" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/TopController.php" timestamp="1504606227872">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="25" column="13" />
-      </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/node_modules/serve-static/index.js" timestamp="1496648598413">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="1" />
-        <mark key="^" line="37" column="1" />
-        <mark key="." line="37" column="1" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/tests/e2e/PagesTest.php" timestamp="1490869108497">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/global_nav/index.html.twig" timestamp="1505376279796">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="9" column="34" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_GB/pages/sms_confirmation.php" timestamp="1504494216030">
-        <mark key="[" line="10" column="88" />
-        <mark key="]" line="10" column="88" />
-        <mark key="." line="10" column="88" />
-        <mark key="^" line="10" column="88" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/help_center/en_US/buyer_guarantee.html.twig" timestamp="1487033825066">
-        <mark key="[" line="18" column="76" />
-        <mark key="]" line="18" column="80" />
-        <mark key="." line="18" column="80" />
-        <mark key="^" line="18" column="80" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/ItemController.php" timestamp="1505196696650">
-        <mark key="[" line="42" column="182" />
-        <mark key="]" line="42" column="182" />
-        <mark key="." line="42" column="182" />
-        <mark key="^" line="42" column="198" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/about_us.html" timestamp="1497942281493">
         <mark key="[" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/Service/UserService.php" timestamp="1487879407057">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="24" />
-        <mark key="^" line="34" column="24" />
-        <mark key="." line="34" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/corporate-assets/css/creative.css" timestamp="1497949621592">
-        <mark key="[" line="849" column="53" />
-        <mark key="]" line="849" column="53" />
-        <mark key="^" line="849" column="53" />
-        <mark key="." line="849" column="53" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/modules/sw_controller.js" timestamp="1496572076997">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1506082618035">
         <mark key="'" line="866" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-double-api/home/banner.go" timestamp="1502415521197">
-        <mark key="[" line="119" column="36" />
-        <mark key="]" line="119" column="37" />
-        <mark key="." line="119" column="37" />
-        <mark key="^" line="119" column="37" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_production.php" timestamp="1505378679300">
         <mark key="'" line="21" column="52" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini/workspace/mercari-web-2/app/resource/messages/en_US/base/bread_crumbs.php" timestamp="1460463777456">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="69" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/sign_up/done_on_app.html.twig" timestamp="1497581117232">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="^" line="31" column="23" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/assets/js/launch.js" timestamp="1487832500437">
-        <mark key="[" line="21" column="171" />
-        <mark key="]" line="21" column="204" />
-        <mark key="." line="21" column="204" />
-        <mark key="^" line="21" column="204" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/actions/sell/fetch.js" timestamp="1505472501071">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/web-starter-kit/app/sw.js" timestamp="1496992416450">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="6" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/migrations/2017/DBL-4838-web-dormant-buyers/coupon_owners.sql" timestamp="1504855640824">
-        <mark key="[" line="0" column="95" />
-        <mark key="]" line="0" column="109" />
-        <mark key="^" line="0" column="109" />
-        <mark key="." line="0" column="109" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" timestamp="1505376095201">
-        <mark key="[" line="1149" column="94" />
-        <mark key="]" line="1149" column="116" />
-        <mark key="." line="1149" column="116" />
-        <mark key="^" line="1149" column="116" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_evidence_status_detail.html.twig" timestamp="1502074761717">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="25" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/info/2017/06/22/john-is-joining-mercari/index.html" timestamp="1498036670955">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="95" column="84" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/dmca.html.twig" timestamp="1506047318262">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/base/meta.php" timestamp="1502602065952">
-        <mark key="[" line="6" column="61" />
-        <mark key="]" line="6" column="65" />
-        <mark key="." line="6" column="65" />
-        <mark key="^" line="6" column="65" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/database/src/EntityTrait.php" timestamp="1505375967301">
         <mark key="'" line="91" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/item/detail.html.twig" timestamp="1502604819863">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/assets/sass/promotion/_banner.scss" timestamp="1502470649552">
-        <mark key="[" line="62" column="14" />
-        <mark key="]" line="62" column="26" />
-        <mark key="." line="62" column="26" />
-        <mark key="^" line="62" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Lib/Widebullet/Promise.php" timestamp="1505195920143">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="26" />
-        <mark key="^" line="33" column="26" />
-        <mark key="." line="33" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/SearchService.php" timestamp="1504608076786">
         <mark key="[" line="221" column="0" />
@@ -408,20 +96,9 @@
         <mark key="]" line="173" column="0" />
         <mark key="." line="173" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari_corporate_us/webroot/about/index.html" timestamp="1498099852389">
-        <mark key="[" line="344" column="11" />
-        <mark key="]" line="345" column="31" />
-        <mark key="^" line="345" column="31" />
-        <mark key="." line="345" column="31" />
-      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/models/transaction_message_service.php" timestamp="1506402108993" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/controllers/items_controller.php" timestamp="1505875281972">
         <mark key="'" line="246" column="64" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/tests/e2e/Page/ErrorPage.php" timestamp="1490942003007">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
-        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/ReturnTransaction/ReturnTransaction.php" timestamp="1503649408964">
         <mark key="'" line="164" column="39" />
@@ -435,47 +112,11 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PurchaseController.php" timestamp="1501862384457">
         <mark key="[" line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_US/pages/sms_confirmation.php" timestamp="1504494128787">
-        <mark key="[" line="10" column="88" />
-        <mark key="]" line="10" column="88" />
-        <mark key="." line="10" column="88" />
-        <mark key="^" line="10" column="88" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_US/pages/item.php" timestamp="1504528570949">
-        <mark key="[" line="37" column="48" />
-        <mark key="]" line="37" column="72" />
-        <mark key="^" line="37" column="72" />
-        <mark key="." line="37" column="72" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/database/src/ArrayRepository.php" timestamp="1505375293425">
         <mark key="'" line="98" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1505875162296">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item_list/top_pick_up.html.twig" timestamp="1504530185238">
-        <mark key="[" line="7" column="2" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="2" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Util/DeviceUtil.php" timestamp="1497440650450">
-        <mark key="[" line="86" column="36" />
-        <mark key="]" line="86" column="36" />
-        <mark key="^" line="83" column="31" />
-        <mark key="." line="86" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/route/en_GB.php" timestamp="1497698138281">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="46" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/Category.php" timestamp="1505375999193">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/reducers/sell.js" timestamp="1505472466557">
         <mark key="'" line="307" column="0" />
@@ -486,70 +127,16 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/actions/sell/sales_fee.js" timestamp="1505391959851">
         <mark key="'" line="96" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/your-first-pwapp-master/work/manifest.json" timestamp="1496557613435">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="26" column="24" />
-        <mark key="^" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/vendor/symfony/yaml/Escaper.php" timestamp="1502503718578">
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="24" />
-        <mark key="^" line="52" column="24" />
-        <mark key="." line="52" column="24" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/Service/HelpCenterService.php" timestamp="1493248419901">
-        <mark key="[" line="582" column="40" />
-        <mark key="]" line="582" column="40" />
-        <mark key="^" line="582" column="40" />
-        <mark key="." line="582" column="40" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/guzzlehttp/promises/src/functions.php" timestamp="1504608360829">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/common_footer.html.twig" timestamp="1498045754558">
-        <mark key="[" line="65" column="55" />
-        <mark key="]" line="65" column="55" />
-        <mark key="." line="65" column="55" />
-        <mark key="^" line="65" column="55" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/config/config_qa_us.php" timestamp="1486107493196">
-        <mark key="[" line="144" column="40" />
-        <mark key="]" line="144" column="41" />
-        <mark key="." line="144" column="41" />
-        <mark key="^" line="144" column="41" />
-      </file>
-      <file name="$USER_HOME$/develop/mercari-mini3/workspace/mercari-web-2/app/template/pages/en_US/about.html.twig" timestamp="1489398900494">
-        <mark key="[" line="48" column="10" />
-        <mark key="]" line="48" column="12" />
-        <mark key="." line="48" column="12" />
-        <mark key="^" line="48" column="12" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1505217942606">
         <mark key="'" line="1125" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/YuiSakamoto.github.io/assets/js/server.js" timestamp="1496648821519">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="22" />
-      </file>
-      <file name="$USER_HOME$/Develop/web-starter-kit/app/service-worker.js" timestamp="1496986570974">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="14" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/ClientService.php" timestamp="1505295546771">
         <mark key="'" line="94" column="22" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/pages/en_US/about.html.twig" timestamp="1498045657696">
-        <mark key="[" line="32" column="15" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="34" column="125" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/CategoryService.php" timestamp="1506047364603">
         <mark key="'" line="464" column="0" />
@@ -567,18 +154,6 @@
         <mark key="]" line="332" column="638" />
         <mark key="." line="332" column="638" />
         <mark key="^" line="332" column="638" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/resource/messages/en_US/pages/sms_confirmation.php" timestamp="1504494225118">
-        <mark key="[" line="10" column="88" />
-        <mark key="]" line="10" column="88" />
-        <mark key="." line="10" column="88" />
-        <mark key="^" line="10" column="88" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item_list/coupon.html.twig" timestamp="1504528364911">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="12" />
-        <mark key="." line="2" column="12" />
-        <mark key="^" line="1" column="21" />
       </file>
     </filemarks>
     <jumps>
