@@ -140,17 +140,12 @@
         <mark key="]" line="21" column="2" />
         <mark key="." line="21" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Event/ExecuteActionEvent.php" timestamp="1508763504633">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Event/ExecuteActionEvent.php" timestamp="1508823772770">
         <mark key="'" line="14" column="10" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="12" />
-        <mark key="." line="25" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/reducers/sell.js" timestamp="1505472466557">
-        <mark key="'" line="307" column="0" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="." line="307" column="0" />
+        <mark key="[" line="53" column="58" />
+        <mark key="]" line="53" column="58" />
+        <mark key="." line="53" column="58" />
+        <mark key="^" line="53" column="65" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/actions/sell/sales_fee.js" timestamp="1505391959851">
         <mark key="'" line="96" column="1" />
@@ -307,8 +302,8 @@
       <jump line="22" column="1" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/ClientService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIENvbnRhY3QK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,13 +366,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>版</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>contact</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5yZW5kZXIoJ2hlbHBfY2VudGVyLycgLiAkdGhpcy0+Z2V0KCdtZXJjYXJpd2ViLmxvY2FsZScpIC4gJy9jb250YWN0X25vX2xvZ2luJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRhY2Nlc3NfdG9rZW4gPSAkdGhpcy0+Y29udGFpbmVyWydnbG9iYWwuc2VydmVyJ10tPmdldCgnSFRUUF9YX0FDQ0VTU19UT0tFTicpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIENvbnRhY3QK</text>
