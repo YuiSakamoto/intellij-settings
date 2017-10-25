@@ -168,12 +168,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508930753852">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508931532761">
         <mark key="'" line="700" column="8" />
-        <mark key="[" line="1253" column="0" />
-        <mark key="]" line="1253" column="0" />
+        <mark key="[" line="1265" column="0" />
+        <mark key="]" line="1265" column="0" />
         <mark key="^" line="1246" column="0" />
-        <mark key="." line="1253" column="0" />
+        <mark key="." line="1265" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508930832138">
         <mark key="'" line="153" column="52" />
@@ -374,25 +374,25 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5qc29uRXJyb3IoWydlcnJvcl9tZXNzYWdlcycgPT4gWydwaG90bycgPT4gJGUtPmdldE1lc3NhZ2UoKV1dKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1sndGFncyddW10gPSBaZW5kZXNrU2VydmljZTo6VEFHX0RPVUJMRTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcUnVudGltZUV4Y2VwdGlvbiAkZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGRldmljZV91dGlsLT5pc0RvdWJsZUFwcEFjY2VzcygpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGJpbmFyeV9pbWFnZXMgPSAkaGVscF9jZW50ZXJfc2VydmljZS0+ZGVjb2RlUG5nSW1hZ2VzKCR1cGxvYWRlZF9waG90b3MpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5qc29uRXJyb3IoWydlcnJvcl9tZXNzYWdlcycgPT4gWydwaG90bycgPT4gJGUtPmdldE1lc3NhZ2UoKV1dKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcUnVudGltZUV4Y2VwdGlvbiAkZSkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5qc29uRXJyb3IoWydlcnJvcl9tZXNzYWdlcycgPT4gWydzZXJ2ZXInID0+ICdJbnZhbGlkIGltYWdlIGRhdGEnXV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJpbmFyeV9pbWFnZXMgPSAkaGVscF9jZW50ZXJfc2VydmljZS0+ZGVjb2RlUG5nSW1hZ2VzKCR1cGxvYWRlZF9waG90b3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
