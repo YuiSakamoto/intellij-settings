@@ -208,19 +208,19 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508845598084">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="1146" column="57" />
-        <mark key="]" line="1146" column="57" />
-        <mark key="." line="1146" column="57" />
-        <mark key="^" line="1146" column="57" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508849049145">
+        <mark key="'" line="700" column="8" />
+        <mark key="[" line="1145" column="40" />
+        <mark key="]" line="1145" column="40" />
+        <mark key="." line="1145" column="40" />
+        <mark key="^" line="1145" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508846771376">
-        <mark key="'" line="265" column="75" />
-        <mark key="[" line="1161" column="14" />
-        <mark key="]" line="1161" column="16" />
-        <mark key="^" line="1161" column="16" />
-        <mark key="." line="1161" column="16" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508849008424">
+        <mark key="'" line="153" column="52" />
+        <mark key="[" line="1165" column="57" />
+        <mark key="]" line="1166" column="28" />
+        <mark key="^" line="1166" column="28" />
+        <mark key="." line="1166" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/ClientService.php" timestamp="1508841892412">
         <mark key="'" line="22" column="1" />
@@ -233,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="570" column="46" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/containers/Sell.js" />
-      <jump line="571" column="25" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/containers/Sell.js" />
       <jump line="572" column="40" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/containers/Sell.js" />
       <jump line="574" column="58" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/containers/Sell.js" />
       <jump line="805" column="2" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/containers/Sell.js" />
@@ -333,10 +331,12 @@
       <jump line="252" column="55" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" />
       <jump line="282" column="79" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" />
       <jump line="265" column="75" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" />
+      <jump line="153" column="52" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" />
+      <jump line="700" column="8" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkY2F0ZWdvcnktPmdldElkKCkpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -399,55 +399,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9ICR0aGlzLT5nZXQoJ21lcmNhcml3ZWIubXlwYWdlLmxvZ2luX3VzZXInKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkaWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCh1c29ydCgkcG9wdWxhcl9jYXRlZ29yaWVzLCBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkY2F0ZWdvcnktPmdldElkKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9ICkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkaWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcG9wdWxhcl9jYXRlZ29yaWVzKTsK</text>
       </register>
       <register name="4" type="8">
-        <text>https://www.mercari.com/help_center/article/
-https://www.mercari.com/help_center/article/
-https://www.mercari.com/help_center/article/
-https://www.mercari.com/help_center/article/
-https://www.mercari.com/help_center/article/
-https://www.mercari.com/help_center/article/
-https://www.mercari.com/help_center/article/</text>
+        <text encoding="base64">ICAgIAogICAg</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkdG1wX3BvcHVsYXJfY2F0ZWdvcmllcyBhcyAkY2F0ZWdvcnkpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIE1lcmNhcmlXZWJcVXRpbFxYQWNjZXNzVG9rZW5NYXJrZXJJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIE1lcmNhcmlXZWJcVXRpbFxYQWNjZXNzVG9rZW5NYXJrZXJJbnRlcmZhY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHZhcl9kdW1wKCR1c2VyKSA7IGV4aXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRwbGF0Zm9ybTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoIChzZWxmOjpOT19MT0dHRURfSU5fUE9QVUxBUl9DQVRFR09SSUVTX0lEUyBhcyAkaWQpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>general_access_token</last-replace>
       <last-substitute>access_token</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +449,6 @@ https://www.mercari.com/help_center/article/</text>
     </search>
     <history>
       <history-search>
-        <entry>duration</entry>
         <entry>Califor</entry>
         <entry>Market</entry>
         <entry>720</entry>
@@ -475,6 +468,7 @@ https://www.mercari.com/help_center/article/</text>
         <entry>Box</entry>
         <entry>findBy</entry>
         <entry>find</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>%s/</entry>
@@ -495,8 +489,8 @@ https://www.mercari.com/help_center/article/</text>
         <entry>Lw</entry>
         <entry>Pw</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc190b2tlbi9nZW5lcmFsX2FjY2Vzc190b2tlbi9n</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
