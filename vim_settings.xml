@@ -168,11 +168,12 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508901621508">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508930212232">
         <mark key="'" line="700" column="8" />
-        <mark key="[" line="1145" column="0" />
-        <mark key="]" line="1145" column="0" />
-        <mark key="." line="1145" column="0" />
+        <mark key="[" line="1234" column="24" />
+        <mark key="]" line="1234" column="24" />
+        <mark key="." line="1234" column="24" />
+        <mark key="^" line="1304" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508849008424">
         <mark key="'" line="153" column="52" />
@@ -294,8 +295,8 @@
       <jump line="27" column="22" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_US/pages/help_center.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="i" type="4">
         <keys>
