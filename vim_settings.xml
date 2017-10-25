@@ -136,7 +136,7 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_buy.html.twig" timestamp="1504256137478">
         <mark key="'" line="214" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508920444010">
+      <file name="/Dummy.txt" timestamp="1508930833810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact.html.twig" timestamp="1508901828051">
@@ -168,14 +168,14 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508930212232">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508930753852">
         <mark key="'" line="700" column="8" />
-        <mark key="[" line="1234" column="24" />
-        <mark key="]" line="1234" column="24" />
-        <mark key="." line="1234" column="24" />
-        <mark key="^" line="1304" column="4" />
+        <mark key="[" line="1253" column="0" />
+        <mark key="]" line="1253" column="0" />
+        <mark key="^" line="1246" column="0" />
+        <mark key="." line="1253" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508849008424">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508930832138">
         <mark key="'" line="153" column="52" />
         <mark key="[" line="1128" column="57" />
         <mark key="]" line="1129" column="28" />
@@ -295,8 +295,8 @@
       <jump line="27" column="22" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_US/pages/help_center.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -371,28 +371,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyUgaW5jbHVkZSAncGFydGlhbC9oZWxwX2NlbnRlci91cy9hZGRfcGhvdG8uaHRtbC50d2lnJyB3aXRoIHsgcGhvdG9fcmVxdWlyZWQ6IGZhbHNlIH0gJX0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5qc29uRXJyb3IoWydlcnJvcl9tZXNzYWdlcycgPT4gWydwaG90bycgPT4gJGUtPmdldE1lc3NhZ2UoKV1dKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHslIGVuZGlmICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChcUnVudGltZUV4Y2VwdGlvbiAkZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJpbmFyeV9pbWFnZXMgPSAkaGVscF9jZW50ZXJfc2VydmljZS0+ZGVjb2RlUG5nSW1hZ2VzKCR1cGxvYWRlZF9waG90b3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYXRhLWNhbGxiYWNrLXVybD0ie3sgdXJsKCdIZWxwQ2VudGVyOjppbmRleCcsIHt9ICx7YWNjZXNzX3Rva2VuOmFjY2Vzc190b2tlbn0sIHtpc19hYnNvbHV0ZTogdHJ1ZX0pIH19Igo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYXRhLXVybD0ie3sgY3VycmVudF91cmwgfX0iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYXRhLWFjdGlvbj0iYXBwL29wZW5VUkwiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkYXRhLXVybC1zY2hlbWU9Int7IGNvbmZpZy5tZXJjYXJpX3VybF9zY2hlbWUgfX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5qc29uRXJyb3IoWydlcnJvcl9tZXNzYWdlcycgPT4gWydzZXJ2ZXInID0+ICdJbnZhbGlkIGltYWdlIGRhdGEnXV0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
