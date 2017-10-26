@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/global_nav/index.html.twig" timestamp="1508997517027">
-        <mark key="[" line="16" column="77" />
-        <mark key="]" line="16" column="91" />
-        <mark key="^" line="16" column="91" />
-        <mark key="." line="16" column="91" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/global_nav/index.html.twig" timestamp="1508998210524">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Entity/Banner.php" timestamp="1502172085396">
         <mark key="[" line="6" column="1" />
@@ -160,19 +160,19 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1503126784762">
         <mark key="'" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508996360059">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508998915362">
         <mark key="'" line="772" column="10" />
-        <mark key="[" line="1197" column="64" />
-        <mark key="]" line="1197" column="102" />
-        <mark key="." line="1197" column="102" />
-        <mark key="^" line="1197" column="102" />
+        <mark key="[" line="1249" column="21" />
+        <mark key="]" line="1250" column="55" />
+        <mark key="." line="1250" column="55" />
+        <mark key="^" line="1250" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508933398631">
-        <mark key="'" line="303" column="4" />
-        <mark key="[" line="122" column="31" />
-        <mark key="]" line="122" column="43" />
-        <mark key="^" line="122" column="43" />
-        <mark key="." line="122" column="43" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508998890713">
+        <mark key="'" line="461" column="4" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="154" column="55" />
+        <mark key="^" line="154" column="55" />
+        <mark key="." line="154" column="55" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/CategoryService.php" timestamp="1506047364603">
         <mark key="'" line="464" column="0" />
@@ -193,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="5" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="282" column="5" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="283" column="12" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="284" column="11" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
@@ -293,10 +292,11 @@
       <jump line="1126" column="47" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
       <jump line="38" column="31" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
       <jump line="772" column="10" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
+      <jump line="460" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBib2R5ICDihpIg44Om44O844K244O844GM55uu44Gr44GZ44KLbWVzc2FnZQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -359,7 +359,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
@@ -368,31 +368,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0QW5kU2V0VG9rZW4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7IGl0ZW0udGV4dCB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBib2R5ICDihpIg44Om44O844K244O844GM55uu44Gr44GZ44KLbWVzc2FnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7IyBGSVhNRTogcmVuYW1lIGlkIHRvIHBhdGhfbmFtZSAjfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBib2R5ICDihpIg44Om44O844K244O844GM55uu44Gr44GZ44KLbWVzc2FnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gJX0K</text>
+        <text encoding="base64">ICAgICAgICAgIHt7IGl0ZW0udGV4dCB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaXRlbXM6IGhlbHAsCg==</text>
+        <text encoding="base64">ICAgICAgICB7IyBGSVhNRTogcmVuYW1lIGlkIHRvIHBhdGhfbmFtZSAjfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ3BhcnRpYWwvZ2xvYmFsX25hdi9pdGVtLmh0bWwudHdpZycgd2l0aCB7Cg==</text>
+        <text encoding="base64">ICAgIH0gJX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIF0gJX0K</text>
+        <text encoding="base64">ICAgICAgaXRlbXM6IGhlbHAsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHslIGluY2x1ZGUgJ3BhcnRpYWwvZ2xvYmFsX25hdi9pdGVtLmh0bWwudHdpZycgd2l0aCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJY29uUGF0aDogcm9vdF9jYXRlZ29yeS5pZCwK</text>
+        <text encoding="base64">ICAgIF0gJX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0OiAnSEVMUCcsCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -449,8 +449,8 @@
         <entry>Lw</entry>
         <entry>Pw</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc190b2tlbi9nZW5lcmFsX2FjY2Vzc190b2tlbi9n</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
