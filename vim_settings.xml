@@ -18,12 +18,12 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/search/extend.html.twig" timestamp="1505375019321">
         <mark key="'" line="174" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/nav.html.twig" timestamp="1508901746521">
-        <mark key="'" line="39" column="34" />
-        <mark key="[" line="75" column="12" />
-        <mark key="]" line="75" column="12" />
-        <mark key="^" line="80" column="5" />
-        <mark key="." line="75" column="12" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/nav.html.twig" timestamp="1509009878431">
+        <mark key="'" line="45" column="41" />
+        <mark key="[" line="85" column="31" />
+        <mark key="]" line="85" column="35" />
+        <mark key="^" line="85" column="35" />
+        <mark key="." line="85" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/mercari_corporate_us/about_us.html" timestamp="1497942281493">
         <mark key="[" line="27" column="0" />
@@ -41,7 +41,6 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/config/core.php" timestamp="1502925264043">
         <mark key="'" line="168" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/feedback.html.twig" timestamp="1509004634421" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1506082618035">
         <mark key="'" line="866" column="59" />
       </file>
@@ -75,8 +74,6 @@
         <mark key="." line="8" column="16" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/global_nav/item.html.twig" timestamp="1508997216262" />
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/article.html.twig" timestamp="1509004730881" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/database/src/EntityTrait.php" timestamp="1505375967301">
         <mark key="'" line="91" column="15" />
       </file>
@@ -218,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="59" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="361" column="59" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="697" column="2" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
       <jump line="705" column="2" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" />
@@ -318,10 +314,11 @@
       <jump line="281" column="11" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" />
       <jump line="290" column="9" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" />
       <jump line="442" column="25" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" />
+      <jump line="45" column="41" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/nav.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -384,10 +381,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>contact</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0QW5kU2V0VG9rZW4oKTsK</text>
@@ -424,9 +421,9 @@
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>contact</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>contact</last-pattern>
       <last-replace>general_access_token</last-replace>
       <last-substitute>access_token</last-substitute>
       <last-dir>1</last-dir>
@@ -447,13 +444,13 @@
         <entry>bread</entry>
         <entry>placeholder</entry>
         <entry>thanks</entry>
-        <entry>contact</entry>
         <entry>log</entry>
         <entry>nologin</entry>
         <entry>login</entry>
         <entry>isApp</entry>
         <entry>client</entry>
         <entry>form</entry>
+        <entry>contact</entry>
       </history-search>
       <history-cmd>
         <entry>%s/</entry>
