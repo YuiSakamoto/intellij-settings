@@ -99,11 +99,11 @@
         <mark key="[" line="90" column="5" />
         <mark key="]" line="90" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/ZendeskService.php" timestamp="1508935270206">
-        <mark key="[" line="40" column="62" />
-        <mark key="]" line="40" column="62" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="40" column="62" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/ZendeskService.php" timestamp="1508996007009">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="139" column="53" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/models/transaction_message_service.php" timestamp="1506411980349">
         <mark key="'" line="137" column="67" />
@@ -156,7 +156,7 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_buy.html.twig" timestamp="1504256137478">
         <mark key="'" line="214" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508991462642">
+      <file name="/Dummy.txt" timestamp="1508995890119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact.html.twig" timestamp="1508901828051">
@@ -176,12 +176,12 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1503126784762">
         <mark key="'" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508991606880">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1508996076235">
         <mark key="'" line="772" column="10" />
-        <mark key="[" line="1135" column="31" />
-        <mark key="]" line="1135" column="34" />
-        <mark key="." line="1135" column="34" />
-        <mark key="^" line="1135" column="34" />
+        <mark key="[" line="1279" column="12" />
+        <mark key="]" line="1279" column="12" />
+        <mark key="." line="1279" column="12" />
+        <mark key="^" line="1194" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1508933398631">
         <mark key="'" line="303" column="4" />
@@ -312,7 +312,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -375,49 +375,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>client</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Z2V0QW5kU2V0VG9rZW4oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIOODoeODq+OCq+ODquS8muWToeODpuODvOOCtuODvOOBrldlYi9BcHDniYjjgYvjgonjga7jgYrllY/lkIjjgZvjgpLpgIHkv6HjgZnjgosK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWNjZXNzX3Rva2VuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbWVyZ2VkX3ZhcnMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWNjZXNzX3Rva2VuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWNjZXNzX3Rva2VuKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcl9sb2coMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkbWVyZ2VkX3ZhcnMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcl9sb2coMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWNjZXNzX3Rva2VuKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvcl9sb2coMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkYWNjZXNzX3Rva2VuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcl9sb2coMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>client</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>client</last-pattern>
       <last-replace>general_access_token</last-replace>
       <last-substitute>access_token</last-substitute>
       <last-dir>1</last-dir>
@@ -425,8 +425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dead</entry>
-        <entry>noCdn</entry>
         <entry>ANNOTATION_MUST_BE_LOGGED_IN</entry>
         <entry>url</entry>
         <entry>function url</entry>
@@ -445,6 +443,8 @@
         <entry>log</entry>
         <entry>nologin</entry>
         <entry>login</entry>
+        <entry>isApp</entry>
+        <entry>client</entry>
       </history-search>
       <history-cmd>
         <entry>%s/</entry>
