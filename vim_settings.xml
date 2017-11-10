@@ -53,10 +53,6 @@
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/view/help_center.js" timestamp="1510280946840">
         <mark key="'" line="28" column="9" />
-        <mark key="[" line="440" column="13" />
-        <mark key="]" line="440" column="17" />
-        <mark key="." line="440" column="17" />
-        <mark key="^" line="440" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/BreadCrumbService.php" timestamp="1508916267516">
         <mark key="[" line="194" column="0" />
@@ -111,8 +107,8 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Service/HelpCenterService.php" timestamp="1510025188622">
         <mark key="'" line="619" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" timestamp="1508915825058">
-        <mark key="'" line="77" column="13" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" timestamp="1510315033329">
+        <mark key="'" line="137" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item/left_column.html.twig" timestamp="1507168467089">
         <mark key="[" line="9" column="0" />
@@ -164,7 +160,6 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/Transaction.php" timestamp="1504261725351">
         <mark key="'" line="15" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/dietcube/src/Dispatcher.php" timestamp="1510225481490" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/PurchaseController.php" timestamp="1501862384457">
         <mark key="[" line="7" column="50" />
       </file>
@@ -177,13 +172,15 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_buy.html.twig" timestamp="1504256137478">
         <mark key="'" line="214" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510225061802">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/activities.html.twig" timestamp="1510315540067" />
+      <file name="/Dummy.txt" timestamp="1510315139038">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact.html.twig" timestamp="1509011258262">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact.html.twig" timestamp="1510315549039">
+        <mark key="[" line="73" column="72" />
+        <mark key="]" line="73" column="76" />
+        <mark key="." line="73" column="76" />
+        <mark key="^" line="73" column="76" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_article-common.scss" timestamp="1509007125452">
         <mark key="[" line="91" column="12" />
@@ -209,8 +206,8 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1503126784762">
         <mark key="'" line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1509582803103">
-        <mark key="'" line="772" column="10" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1510314704838">
+        <mark key="'" line="1153" column="20" />
         <mark key="[" line="1226" column="0" />
         <mark key="]" line="1226" column="1" />
         <mark key="." line="1226" column="1" />
@@ -246,19 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="22" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_US/pages/help_center.php" />
-      <jump line="27" column="22" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/resource/messages/en_US/pages/help_center.php" />
-      <jump line="1263" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="1278" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="1280" column="92" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="1382" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="1384" column="92" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="568" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="570" column="92" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="620" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="622" column="92" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="749" column="132" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
-      <jump line="303" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" />
       <jump line="24" column="9" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
       <jump line="266" column="12" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
@@ -346,10 +330,23 @@
       <jump line="94" column="22" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/dietcube/src/Application.php" />
       <jump line="440" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/view/help_center.js" />
       <jump line="28" column="9" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/view/help_center.js" />
+      <jump line="744" column="27" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
+      <jump line="120" column="94" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="121" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="156" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="1067" column="50" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="1153" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
+      <jump line="122" column="29" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="127" column="31" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="129" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="130" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="132" column="24" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
+      <jump line="137" column="27" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -412,10 +409,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmIChlcnJvci5ib2R5Lmxlbmd0aCA9PT0gMCkgewogICAgICAgICAgICBicmVhazsKICAgICAgICAgIH0KICAgICAgICAgICQoJ1tkYXRhLWhlbHAtY2VudGVyLXVwbG9hZC1lcnJvcj0idGV4dGFyZWEiXScpLmh0bWwoJycpOwo=</text>
@@ -452,9 +449,9 @@
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>general_access_token</last-replace>
       <last-substitute>access_token</last-substitute>
       <last-dir>1</last-dir>
@@ -462,12 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry>client</entry>
-        <entry>form</entry>
-        <entry>contact</entry>
-        <entry>start</entry>
-        <entry encoding="base64">PHA=</entry>
-        <entry>button</entry>
         <entry>auth</entry>
         <entry>transaction</entry>
         <entry>submit</entry>
@@ -482,6 +473,12 @@
         <entry>setEnv</entry>
         <entry>mail</entry>
         <entry>input</entry>
+        <entry>contact</entry>
+        <entry>is</entry>
+        <entry>isAppAccess</entry>
+        <entry>isWebView</entry>
+        <entry>isWeb</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>%s/</entry>
@@ -502,8 +499,8 @@
         <entry>Lw</entry>
         <entry>Pw</entry>
         <entry encoding="base64">JzwsJz5zL2FjY2Vzc190b2tlbi9nZW5lcmFsX2FjY2Vzc190b2tlbi9n</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
