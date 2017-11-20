@@ -172,6 +172,9 @@
       <file name="/HTML File.txt.ft" timestamp="1501843131803">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/PageController.php" timestamp="1511161852417">
+        <mark key="'" line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_buy.html.twig" timestamp="1504256137478">
         <mark key="'" line="214" column="8" />
       </file>
@@ -182,6 +185,7 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/SignUpController.php" timestamp="1511161846135" />
       <file name="/Dummy.txt" timestamp="1510818998088">
         <mark key="[" line="0" column="0" />
       </file>
@@ -252,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="9" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" />
       <jump line="442" column="25" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" />
       <jump line="45" column="41" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/nav.html.twig" />
       <jump line="12" column="24" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/start_contact.html.twig" />
@@ -352,6 +355,7 @@
       <jump line="154" column="31" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
       <jump line="155" column="31" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
       <jump line="391" column="19" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-admin-2/app2/Route.php" />
+      <jump line="8" column="6" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/PageController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
