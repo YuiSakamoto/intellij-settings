@@ -153,8 +153,8 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/ReturnTransaction/ReturnTransaction.php" timestamp="1503649408964">
         <mark key="'" line="164" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" timestamp="1510898634665">
-        <mark key="'" line="155" column="31" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" timestamp="1511169389507">
+        <mark key="'" line="43" column="23" />
         <mark key="[" line="9" column="27" />
         <mark key="]" line="201" column="9" />
         <mark key="." line="9" column="30" />
@@ -268,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="442" column="25" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" />
       <jump line="45" column="41" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/nav.html.twig" />
       <jump line="12" column="24" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/start_contact.html.twig" />
       <jump line="14" column="36" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/PaymentMethodController.php" />
@@ -368,6 +367,7 @@
       <jump line="155" column="31" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
       <jump line="391" column="19" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-admin-2/app2/Route.php" />
       <jump line="8" column="6" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/PageController.php" />
+      <jump line="43" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -437,7 +437,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>help_center</text>
+        <text>prohibitedConduct</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgdXJsOiB1cmwoJ1BhZ2U6Om10bCcsIHt9LCB7fSwgeyBpc19hYnNvbHV0ZTogdHJ1ZSB9KSwKICAgICAgICAgICAgdGV4dDogJ0xpY2Vuc2VzIC8gRGlzY2xvc3VyZXMnLAogICAgICAgICAgfSwK</text>
@@ -474,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>help_center</last-search>
+      <last-search>prohibitedConduct</last-search>
       <last-offset />
-      <last-pattern>help_center</last-pattern>
+      <last-pattern>prohibitedConduct</last-pattern>
       <last-replace>general_access_token</last-replace>
       <last-substitute>access_token</last-substitute>
       <last-dir>1</last-dir>
@@ -484,8 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>license</entry>
-        <entry>Pennsy</entry>
         <entry>Pen</entry>
         <entry>env</entry>
         <entry>setEnv</entry>
@@ -504,6 +502,8 @@
         <entry>activity</entry>
         <entry>activity.json</entry>
         <entry>help_center</entry>
+        <entry>prohibited_contact</entry>
+        <entry>prohibitedConduct</entry>
       </history-search>
       <history-cmd>
         <entry>%s/</entry>
