@@ -69,13 +69,6 @@
         <mark key="^" line="58" column="113" />
         <mark key="." line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/privacy.html.twig" timestamp="1511261989868">
-        <mark key="'" line="32" column="25" />
-        <mark key="[" line="30" column="217" />
-        <mark key="]" line="30" column="222" />
-        <mark key="." line="30" column="222" />
-        <mark key="^" line="30" column="222" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Region/RegionalStrategyCommon.php" timestamp="1505470391965">
         <mark key="'" line="70" column="0" />
       </file>
@@ -205,13 +198,6 @@
       <file name="/Dummy.txt" timestamp="1511261931367">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_items.html.twig" timestamp="1511262306430">
-        <mark key="'" line="34" column="149" />
-        <mark key="[" line="55" column="164" />
-        <mark key="]" line="55" column="164" />
-        <mark key="^" line="55" column="164" />
-        <mark key="." line="55" column="164" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact.html.twig" timestamp="1510323784706">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="30" />
@@ -239,12 +225,7 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/footer/index.html.twig" timestamp="1511261709261">
-        <mark key="[" line="23" column="19" />
-        <mark key="]" line="23" column="43" />
-        <mark key="." line="23" column="43" />
-        <mark key="^" line="23" column="43" />
-      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/footer/index.html.twig" timestamp="1511261709261" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/getting_started/prohibited_conduct.html.twig" timestamp="1511165113273">
         <mark key="[" line="40" column="86" />
         <mark key="]" line="40" column="86" />
