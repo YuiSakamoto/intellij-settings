@@ -263,12 +263,12 @@
       <file name="/fragment.java" timestamp="1501843134375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" timestamp="1511320938625">
-        <mark key="'" line="214" column="77" />
-        <mark key="[" line="214" column="77" />
-        <mark key="]" line="214" column="77" />
-        <mark key="." line="214" column="77" />
-        <mark key="^" line="214" column="77" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" timestamp="1511321776473">
+        <mark key="'" line="93" column="172" />
+        <mark key="[" line="93" column="179" />
+        <mark key="]" line="93" column="179" />
+        <mark key="." line="93" column="179" />
+        <mark key="^" line="93" column="252" />
       </file>
     </filemarks>
     <jumps>
@@ -364,18 +364,18 @@
       <jump line="216" column="164" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="221" column="77" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="103" column="173" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
-      <jump line="93" column="252" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="94" column="72" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
-      <jump line="96" column="188" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="159" column="198" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="174" column="260" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="207" column="402" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="209" column="164" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="214" column="77" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
+      <jump line="96" column="134" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
+      <jump line="93" column="172" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -438,7 +438,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>balance</text>
