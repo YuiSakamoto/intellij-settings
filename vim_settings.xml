@@ -43,7 +43,7 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1506082618035">
         <mark key="'" line="866" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_production.php" timestamp="1508723513229">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_production.php" timestamp="1511348652709">
         <mark key="'" line="21" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/view/help_center.js" timestamp="1510320483246">
@@ -209,7 +209,7 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511337601195">
+      <file name="/Dummy.txt" timestamp="1511348507361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_items.html.twig" timestamp="1511323445040">
@@ -229,6 +229,9 @@
         <mark key="]" line="91" column="14" />
         <mark key="^" line="91" column="14" />
         <mark key="." line="91" column="14" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterCmsService.php" timestamp="1511348580134">
+        <mark key="'" line="366" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/actions/sell/sales_fee.js" timestamp="1505391959851">
         <mark key="'" line="96" column="1" />
@@ -294,8 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="22" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/dietcube/src/Application.php" />
-      <jump line="440" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/view/help_center.js" />
       <jump line="28" column="9" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/view/help_center.js" />
       <jump line="744" column="27" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
       <jump line="120" column="94" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
@@ -394,6 +395,8 @@
       <jump line="93" column="172" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
       <jump line="58" column="8" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_conduct_policy.html.twig" />
       <jump line="35" column="42" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_conduct_policy.html.twig" />
+      <jump line="363" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterCmsService.php" />
+      <jump line="366" column="19" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterCmsService.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -463,7 +466,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>illegal</text>
+        <text>Shift</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsOiB1cmwoJ1BhZ2U6Om10bCcsIHt9LCB7fSwgeyBpc19hYnNvbHV0ZTogdHJ1ZSB9KSwKICAgICAgICAgICAgdGV4dDogJ0xpY2Vuc2VzIC8gRGlzY2xvc3VyZXMnLAo=</text>
@@ -500,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>illegal</last-search>
+      <last-search>Shift</last-search>
       <last-offset />
-      <last-pattern>illegal</last-pattern>
+      <last-pattern>Shift</last-pattern>
       <last-replace encoding="base64">ICA8bGk=</last-replace>
       <last-substitute encoding="base64">ICAgIDxsaQ==</last-substitute>
       <last-dir>1</last-dir>
@@ -510,9 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>help_center</entry>
-        <entry>prohibited_contact</entry>
-        <entry>prohibitedConduct</entry>
         <entry>finish</entry>
         <entry>prohibited</entry>
         <entry>setRegion</entry>
@@ -530,6 +530,9 @@
         <entry>anything</entry>
         <entry>Anything</entry>
         <entry>illegal</entry>
+        <entry>help</entry>
+        <entry>shift</entry>
+        <entry>Shift</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/articles\//\/assets\//g</entry>
