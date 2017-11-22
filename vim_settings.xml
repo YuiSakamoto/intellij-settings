@@ -75,6 +75,12 @@
         <mark key="^" line="58" column="113" />
         <mark key="." line="58" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/privacy.html.twig" timestamp="1511324691512">
+        <mark key="[" line="101" column="32" />
+        <mark key="]" line="101" column="32" />
+        <mark key="." line="101" column="32" />
+        <mark key="^" line="101" column="32" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Region/RegionalStrategyCommon.php" timestamp="1505470391965">
         <mark key="'" line="70" column="0" />
       </file>
@@ -110,7 +116,7 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/database/src/EntityTrait.php" timestamp="1505375967301">
         <mark key="'" line="91" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Service/HelpCenterService.php" timestamp="1511323633857">
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Service/HelpCenterService.php" timestamp="1511324577317">
         <mark key="'" line="619" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" timestamp="1510315033329">
@@ -393,7 +399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -456,7 +462,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>illegal</text>
