@@ -178,11 +178,10 @@
         <mark key="'" line="164" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" timestamp="1512368990119">
-        <mark key="'" line="78" column="16" />
         <mark key="[" line="9" column="27" />
-        <mark key="]" line="201" column="9" />
+        <mark key="]" line="206" column="9" />
         <mark key="." line="9" column="30" />
-        <mark key="^" line="201" column="9" />
+        <mark key="^" line="206" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/Transaction.php" timestamp="1504261725351">
         <mark key="'" line="15" column="47" />
@@ -254,19 +253,11 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/form_type/cancel_buyer_1.html.twig" timestamp="1512542907432" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1503126784762">
         <mark key="'" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/getting_started/how_much_does_it_cost_to_sell.html.twig" timestamp="1511174279670">
         <mark key="'" line="1" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1511169423964">
-        <mark key="'" line="1052" column="20" />
-        <mark key="[" line="1041" column="50" />
-        <mark key="]" line="1041" column="51" />
-        <mark key="." line="1041" column="51" />
-        <mark key="^" line="1041" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1512542473236">
         <mark key="'" line="1088" column="75" />
