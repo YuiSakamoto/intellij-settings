@@ -265,7 +265,9 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1513068294250">
         <mark key="'" line="1088" column="75" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1513068667205" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1513077707886">
+        <mark key="'" line="356" column="4" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" timestamp="1509006274982">
         <mark key="'" line="442" column="25" />
       </file>
@@ -293,7 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
       <jump line="1067" column="50" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" />
       <jump line="1153" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
@@ -393,6 +394,7 @@
       <jump line="78" column="16" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
       <jump line="32" column="11" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/article.html.twig" />
       <jump line="37" column="36" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/article.html.twig" />
+      <jump line="356" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -462,7 +464,7 @@
         <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>sendInquiry</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsOiB1cmwoJ1BhZ2U6Om10bCcsIHt9LCB7fSwgeyBpc19hYnNvbHV0ZTogdHJ1ZSB9KSwKICAgICAgICAgICAgdGV4dDogJ0xpY2Vuc2VzIC8gRGlzY2xvc3VyZXMnLAo=</text>
@@ -499,9 +501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>sendInquiry</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>sendInquiry</last-pattern>
       <last-replace encoding="base64">ICA8bGk=</last-replace>
       <last-substitute encoding="base64">ICAgIDxsaQ==</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry>region</entry>
         <entry encoding="base64">JHRoaXMtPnJlZ2lvbg==</entry>
         <entry encoding="base64">PHVsPg==</entry>
         <entry encoding="base64">ICAgIA==</entry>
@@ -529,6 +530,7 @@
         <entry>r</entry>
         <entry>\/r\/</entry>
         <entry>form</entry>
+        <entry>sendInquiry</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/articles\//\/assets\//g</entry>
