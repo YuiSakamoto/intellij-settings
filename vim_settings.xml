@@ -40,7 +40,6 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/config/core.php" timestamp="1502925264043">
         <mark key="'" line="168" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/webroot/.htaccess" timestamp="1513847526337" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1506082618035">
         <mark key="'" line="866" column="59" />
       </file>
@@ -212,7 +211,7 @@
         <mark key="^" line="11" column="55" />
         <mark key="." line="11" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513847533528">
+      <file name="/Dummy.txt" timestamp="1515036341326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_items.html.twig" timestamp="1511323445040">
@@ -263,11 +262,8 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/getting_started/how_much_does_it_cost_to_sell.html.twig" timestamp="1511174279670">
         <mark key="'" line="1" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1513068294250">
-        <mark key="'" line="1088" column="75" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1513077707886">
-        <mark key="'" line="356" column="4" />
+      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1515036349460">
+        <mark key="'" line="471" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" timestamp="1509006274982">
         <mark key="'" line="442" column="25" />
