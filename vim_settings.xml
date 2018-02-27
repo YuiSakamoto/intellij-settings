@@ -216,6 +216,11 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterCmsService.php" timestamp="1511854842471">
         <mark key="'" line="366" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/scauto/.gitignore" timestamp="1519718845395">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/actions/sell/sales_fee.js" timestamp="1505391959851">
         <mark key="'" line="96" column="1" />
       </file>
@@ -461,28 +466,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZSB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29uX2Vycm9yJyA9PiAkb25fZXJyb3IsCg==</text>
+        <text encoding="base64">IyMjIEV4YW1wbGUgdXNlciB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ29uX3N1Y2Nlc3MnID0+ICRvbl9zdWNjZXNzLAo=</text>
+        <text encoding="base64">LmlkZWEvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbGJhY2tzWyRyZXF1ZXN0LT5nZXROYW1lKCldID0gWwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+cmVxdWVzdHNbXSA9ICRyZXF1ZXN0Owo=</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">eWFybi5sb2NrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhZGQoUmVxdWVzdCAkcmVxdWVzdCwgY2FsbGFibGUgJG9uX3N1Y2Nlc3MsIGNhbGxhYmxlICRvbl9lcnJvcikK</text>
+        <text encoding="base64">cGFja2FnZS5qc29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
