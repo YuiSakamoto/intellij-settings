@@ -136,6 +136,12 @@
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Service/HelpCenterService.php" timestamp="1511324577317">
         <mark key="'" line="619" column="42" />
       </file>
+      <file name="$USER_HOME$/Develop/scauto/src/App.tsx" timestamp="1519786360116">
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/Develop/scauto/src/layout.pug" timestamp="1519723263248">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="17" column="8" />
@@ -165,6 +171,13 @@
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/help_center.js" timestamp="1509531744283">
         <mark key="'" line="81" column="39" />
+      </file>
+      <file name="$USER_HOME$/Develop/scauto/tslint.json" timestamp="1519785485673">
+        <mark key="'" line="18" column="9" />
+        <mark key="[" line="65" column="22" />
+        <mark key="]" line="65" column="26" />
+        <mark key="." line="65" column="26" />
+        <mark key="^" line="65" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Route.php" timestamp="1511176786122">
         <mark key="[" line="23" column="0" />
@@ -339,7 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="79" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
       <jump line="221" column="89" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
       <jump line="224" column="77" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
       <jump line="230" column="41" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" />
@@ -439,10 +451,11 @@
       <jump line="1160" column="65" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="1186" column="59" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="8" column="1" filename="$USER_HOME$/Develop/scauto/src/components/App.tsx" />
+      <jump line="18" column="9" filename="$USER_HOME$/Develop/scauto/tslint.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IENhcmRJbWdPdmVybGF5LA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -505,49 +518,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IENhcmRJbWdPdmVybGF5LA==</text>
       </register>
       <register name="/" type="4">
-        <text>global</text>
+        <text>semi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgICAgSGVsbG8gV29ybGQhCiAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnCmltcG9ydCAqIGFzIFJlYWN0RE9NIGZyb20gJ3JlYWN0LWRvbSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVnaXN0ZXJTZXJ2aWNlV29ya2VyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L0NvbD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHJlZ2lzdGVyU2VydmljZVdvcmtlciBmcm9tICcuL3JlZ2lzdGVyU2VydmljZVdvcmtlcic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9DYXJkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ2FyZEltZ092ZXJsYXk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB5dWlfdGFuZyBvbiAyMDE4LzAyLzI4Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD7nlLvlg4/jga7kuIrjgavmloflrZfnva7jgY08L3A+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aDQ+44Kq44O844OQ44O844Os44KkPC9oND4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8QXBwIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDYXJkSW1nT3ZlcmxheT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDYXJkSW1nIHRvcD17dHJ1ZX0gd2lkdGg9IjEwMCUiIHNyYz17Y2F0fSAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPENhcmQgaW52ZXJzZT17dHJ1ZX0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>global</last-search>
+      <last-search>semi</last-search>
       <last-offset />
-      <last-pattern>global</last-pattern>
+      <last-pattern>semi</last-pattern>
       <last-replace encoding="base64">ICA8bGk=</last-replace>
       <last-substitute encoding="base64">ICAgIDxsaQ==</last-substitute>
       <last-dir>1</last-dir>
@@ -555,7 +568,6 @@
     </search>
     <history>
       <history-search>
-        <entry>footer</entry>
         <entry>email</entry>
         <entry>Prescription medicine</entry>
         <entry>Balance</entry>
@@ -575,6 +587,7 @@
         <entry>env</entry>
         <entry>$env</entry>
         <entry>global</entry>
+        <entry>semi</entry>
       </history-search>
       <history-cmd>
         <entry>%s/amp-img/img/g</entry>
