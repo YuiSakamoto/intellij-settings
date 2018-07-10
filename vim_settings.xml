@@ -21,21 +21,18 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" timestamp="1531208634297">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="6" />
-        <mark key="^" line="1" column="6" />
-        <mark key="." line="1" column="6" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" timestamp="1531213288087">
+        <mark key="'" line="0" column="4" />
+        <mark key="[" line="309" column="2" />
+        <mark key="]" line="309" column="2" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="309" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/Configure.php" timestamp="1531204219056">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/search/extend.html.twig" timestamp="1505375019321">
-        <mark key="'" line="174" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRow.tsx" timestamp="1519800194935">
         <mark key="'" line="3" column="0" />
@@ -44,11 +41,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/Controller/HelpCenterController.php" timestamp="1503882496540">
-        <mark key="'" line="619" column="107" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/config/core.php" timestamp="1502925264043">
-        <mark key="'" line="168" column="8" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" timestamp="1531214781677">
+        <mark key="'" line="259" column="0" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/containers/List.tsx" timestamp="1519803483660">
         <mark key="[" line="2" column="61" />
@@ -56,20 +54,11 @@
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/sql/schema/master.sql" timestamp="1506082618035">
-        <mark key="'" line="866" column="59" />
-      </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/App.ts" timestamp="1519747184050">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_production.php" timestamp="1511348652709">
-        <mark key="'" line="21" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/view/help_center.js" timestamp="1510320483246">
-        <mark key="'" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/m-career-wp-content-prd/wp-content/themes/mercari-recruit/functions/JobAPI.php" timestamp="1529998680114">
         <mark key="[" line="14" column="3" />
@@ -101,19 +90,16 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" timestamp="1519205337197">
-        <mark key="'" line="1186" column="59" />
-      </file>
       <file name="$USER_HOME$/Develop/scauto/src/store.ts" timestamp="1519750121473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" timestamp="1531203911220">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" timestamp="1531215706648">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact_from_web_no_login.html.twig" timestamp="1509084823446">
         <mark key="[" line="58" column="33" />
@@ -127,14 +113,11 @@
         <mark key="." line="101" column="32" />
         <mark key="^" line="101" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Region/RegionalStrategyCommon.php" timestamp="1505470391965">
-        <mark key="'" line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531208738318">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="26" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="22" column="26" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531216123750">
+        <mark key="[" line="49" column="2" />
+        <mark key="]" line="49" column="2" />
+        <mark key="." line="49" column="2" />
+        <mark key="^" line="49" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/app.js" timestamp="1519720625847">
         <mark key="[" line="0" column="0" />
@@ -165,23 +148,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/dietcube/src/Application.php" timestamp="1510225296797">
-        <mark key="'" line="94" column="22" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/Client/Client.php" timestamp="1531207815671">
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="56" />
-        <mark key="." line="7" column="56" />
-        <mark key="^" line="7" column="56" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/article.html.twig" timestamp="1513068503123">
-        <mark key="'" line="37" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/database/src/EntityTrait.php" timestamp="1505375967301">
-        <mark key="'" line="91" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/Service/HelpCenterService.php" timestamp="1511324577317">
-        <mark key="'" line="619" column="42" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/Client/Client.php" timestamp="1531210368159">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/App.tsx" timestamp="1519786360116">
         <mark key="[" line="17" column="36" />
@@ -202,9 +173,6 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Twig/TwigFunctionExtension.php" timestamp="1510315033329">
-        <mark key="'" line="137" column="27" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item/left_column.html.twig" timestamp="1507168467089">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="4" />
@@ -216,15 +184,6 @@
         <mark key="]" line="484" column="34" />
         <mark key="^" line="484" column="34" />
         <mark key="." line="484" column="34" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/transaction_buy.html.twig" timestamp="1509454353393">
-        <mark key="'" line="301" column="10" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/SignUpSmsConfirmationController.php" timestamp="1511169762759">
-        <mark key="'" line="12" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/help_center.js" timestamp="1509531744283">
-        <mark key="'" line="81" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/tslint.json" timestamp="1519785485673">
         <mark key="'" line="18" column="9" />
@@ -239,12 +198,6 @@
         <mark key="^" line="23" column="25" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/models/transaction_message_service.php" timestamp="1506411980349">
-        <mark key="'" line="137" column="67" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/app/controllers/items_controller.php" timestamp="1505875281972">
-        <mark key="'" line="246" column="64" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_mercari_mini_us.php" timestamp="1508841713641">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -257,18 +210,12 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-api/src/ReturnTransaction/ReturnTransaction.php" timestamp="1503649408964">
-        <mark key="'" line="164" column="39" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" timestamp="1515045838366">
         <mark key="'" line="90" column="13" />
         <mark key="[" line="9" column="27" />
         <mark key="]" line="206" column="9" />
         <mark key="." line="9" column="30" />
         <mark key="^" line="206" column="9" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/Transaction.php" timestamp="1504261725351">
-        <mark key="'" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/Footer.tsx" timestamp="1519795973907">
         <mark key="[" line="10" column="28" />
@@ -281,26 +228,17 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/dietcube/database/src/ArrayRepository.php" timestamp="1505375293425">
-        <mark key="'" line="98" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/PageController.php" timestamp="1511164964949">
-        <mark key="'" line="8" column="6" />
-      </file>
       <file name="$USER_HOME$/Develop/scauto/README.md" timestamp="1519723625282">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="12" column="30" />
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/composer.json" timestamp="1531204785877">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/partial/transaction_buy.html.twig" timestamp="1504256137478">
-        <mark key="'" line="214" column="8" />
+      <file name="$USER_HOME$/Develop/workable_transition/composer.json" timestamp="1531210387168">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/HelpCenterCategoryRepository.php" timestamp="1515039606591">
         <mark key="[" line="121" column="5" />
@@ -320,7 +258,7 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531207494155">
+      <file name="/Dummy.txt" timestamp="1531209898699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact.html.twig" timestamp="1510323784706">
@@ -334,9 +272,6 @@
         <mark key="]" line="91" column="14" />
         <mark key="^" line="91" column="14" />
         <mark key="." line="91" column="14" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterCmsService.php" timestamp="1511854842471">
-        <mark key="'" line="366" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/.gitignore" timestamp="1519723361700">
         <mark key="[" line="8" column="0" />
@@ -355,9 +290,6 @@
         <mark key="]" line="2" column="62" />
         <mark key="." line="2" column="62" />
         <mark key="^" line="2" column="62" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/js/actions/sell/sales_fee.js" timestamp="1505391959851">
-        <mark key="'" line="96" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
         <mark key="[" line="16" column="25" />
@@ -395,19 +327,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2/app/template/layout/default.html.twig" timestamp="1503126784762">
-        <mark key="'" line="17" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/getting_started/how_much_does_it_cost_to_sell.html.twig" timestamp="1511174279670">
-        <mark key="'" line="1" column="29" />
-      </file>
       <file name="$USER_HOME$/Develop/scauto/src/containers/PersonalListPage.tsx" timestamp="1519805238291">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/HelpCenterService.php" timestamp="1515045789958">
-        <mark key="'" line="133" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1515045252418">
         <mark key="'" line="471" column="4" />
@@ -416,8 +339,11 @@
         <mark key="^" line="264" column="88" />
         <mark key="." line="264" column="88" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_common.scss" timestamp="1509006274982">
-        <mark key="'" line="442" column="25" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/Candidate/WorkableCandidate.php" timestamp="1531214694050">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
         <mark key="[" line="26" column="51" />
@@ -435,30 +361,8 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/webroot/assets/css/common.css" timestamp="1509455077013">
-        <mark key="'" line="29" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/CategoryService.php" timestamp="1511261828864">
-        <mark key="'" line="262" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/components/Lists.tsx" timestamp="1519796569167">
-        <mark key="'" line="12" column="29" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="6" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/PageController.php" />
-      <jump line="43" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
-      <jump line="12" column="6" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/SignUpSmsConfirmationController.php" />
-      <jump line="1" column="29" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/getting_started/how_much_does_it_cost_to_sell.html.twig" />
-      <jump line="59" column="18" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/route/en_US.php" />
-      <jump line="71" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_conduct_policy.html.twig" />
-      <jump line="188" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="216" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="154" column="101" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="220" column="39" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="229" column="39" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="282" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="422" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="591" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="600" column="39" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="947" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
@@ -538,18 +442,31 @@
       <jump line="11" column="31" filename="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" />
       <jump line="7" column="0" filename="$USER_HOME$/Develop/scauto/src/components/ScautoListRow.tsx" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/scauto/src/components/ScautoListRow.tsx" />
-      <jump line="308" column="1" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
       <jump line="101" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
-      <jump line="309" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
       <jump line="306" column="1" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
       <jump line="99" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/workable_transition/src/Candidate/WorkableCandidate.php" />
+      <jump line="92" column="1" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
+      <jump line="152" column="11" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
+      <jump line="105" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
+      <jump line="225" column="17" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
+      <jump line="11" column="6" filename="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" />
+      <jump line="309" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" />
+      <jump line="308" column="20" filename="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" />
+      <jump line="102" column="5" filename="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" />
+      <jump line="259" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" />
+      <jump line="309" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
+      <jump line="308" column="3" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
+      <jump line="0" column="4" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -612,40 +529,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVxdWlyZV9vbmNlICR0aGlzLT5kaXJuYW1lIC4gRElSRUNUT1JZX1NFUEFSQVRPUiAuICRjb25maWdfbmFtZSAuICcucGhwJzsK</text>
+        <text encoding="base64">ICAgICAgICAkV29ya2FibGVDYW5kaWRhdGUtPiR3b3JrYWJsZV9rZXkgPSAkdjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2goJGRhdGEgYXMgJGtleSA9PiAkdmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHYpOwo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IAogPT4gCiA9PiAKID0+IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJFdvcmthYmxlQ2FuZGlkYXRlLT4kd29ya2FibGVfa2V5ID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">XTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Wwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2VjaG8gJFdvcmthYmxlQ2FuZGlkYXRlLT4kd29ya2FibGVfa2V5IC4gUEhQX0VPTDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICAvL2VjaG8gJHdvcmthYmxlX2tleSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogVGltZTogMTY6MzcK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogRGF0ZTogMjAxOC8wNy8xMAo=</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogVXNlcjogeXVpX3RhbmcK</text>
+        <text encoding="base64">ICAgICR0YWxlbnRpb19rZXkgPSAnJzsKICAgICR0YWxlbnRpb19rZXkgPSAnJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -655,15 +572,13 @@
       <last-search>$</last-search>
       <last-offset />
       <last-pattern>$</last-pattern>
-      <last-replace>,</last-replace>
+      <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shift</entry>
-        <entry>Shift</entry>
         <entry>r</entry>
         <entry>\/r\/</entry>
         <entry>form</entry>
@@ -680,14 +595,12 @@
         <entry>(.*)</entry>
         <entry>.*)</entry>
         <entry>.*</entry>
+        <entry encoding="base64">XlwvXC8g</entry>
+        <entry>',$</entry>
         <entry>^</entry>
         <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvPHVsPi88dWwgY2xhc3M9InRvcyI+L2c=</entry>
-        <entry>%s/    /  /g</entry>
-        <entry encoding="base64">JXMvICAgIDxsaS8gIDxsaS9n</entry>
-        <entry>w]</entry>
         <entry>%s/Footer/Header/g</entry>
         <entry>q</entry>
         <entry>%s/Footer/Lists/g</entry>
@@ -698,11 +611,15 @@
         <entry>%s/.*)/'$1'/g</entry>
         <entry>%s/.*/'$1'/g</entry>
         <entry>%s/.*/$1/g</entry>
-        <entry>%s/^/'/g</entry>
         <entry encoding="base64">JXMvXi8gPT4gJy9n</entry>
         <entry>%s/$/'/g</entry>
-        <entry>%s/$/,/g</entry>
         <entry>W</entry>
+        <entry>%s/^\/\/ //g</entry>
+        <entry encoding="base64">JzwsJz5zLycsJC8nID0+IG51bGwsL2c=</entry>
+        <entry>%s/^/'/g</entry>
+        <entry>%s/$/,/g</entry>
+        <entry>%s/$/',/g</entry>
+        <entry>&quot;w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
