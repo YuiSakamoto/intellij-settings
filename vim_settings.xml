@@ -253,6 +253,12 @@
         <mark key="^" line="121" column="3" />
         <mark key="." line="121" column="3" />
       </file>
+      <file name="$USER_HOME$/Develop/workable_transition/src/get_job_shortcode.php" timestamp="1531306320966">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_items.html.twig" timestamp="1511323445040">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -474,7 +480,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -537,7 +543,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
