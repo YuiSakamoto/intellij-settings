@@ -125,11 +125,11 @@
         <mark key="." line="101" column="32" />
         <mark key="^" line="101" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531375574214">
-        <mark key="[" line="65" column="14" />
-        <mark key="]" line="65" column="18" />
-        <mark key="." line="65" column="18" />
-        <mark key="^" line="65" column="18" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531381932107">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="68" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/app.js" timestamp="1519720625847">
         <mark key="[" line="0" column="0" />
@@ -160,11 +160,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/Client/Client.php" timestamp="1531375297625">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="42" />
-        <mark key="." line="60" column="42" />
-        <mark key="^" line="60" column="42" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/Client/Client.php" timestamp="1531381655283">
+        <mark key="[" line="59" column="28" />
+        <mark key="]" line="59" column="28" />
+        <mark key="." line="59" column="28" />
+        <mark key="^" line="60" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/App.tsx" timestamp="1519786360116">
         <mark key="[" line="17" column="36" />
@@ -303,7 +303,7 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/client.php" timestamp="1531220113533">
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/client.php" timestamp="1531380220620">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -350,11 +350,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531377487305">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="13" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="13" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531380450472">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1515045252418">
         <mark key="'" line="471" column="4" />
@@ -490,8 +490,8 @@
       <jump line="55" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -554,37 +554,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>$</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDI0NCA9PiAnNXRoJywgLy8gNeasoemdouaOpQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyRjbGllbnQtPnBvc3QoJGVuZHBvaW50IC4gJz9zdGFnZT0nIC4gJHN0YWdlLCAkV29ya2FibGVDYW5kaWRhdGUtPnRvQXJyYXkoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZWkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBJbnRlbGxpSiBJREVBLgo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRsYXN0X3N0YWdlX2lkKTtleGl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogVXNlcjogeXVpX3RhbmcK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCR0YWxlbnRpb19zdGFnZV9pZHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogRGF0ZTogMjAxOC8wNy8xMgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGFsZW50aW9fa2V5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogVGltZTogMTU6MTQK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkayk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICRzdGFnZSA9ICdBcHBsaWVkJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -626,7 +626,6 @@
         <entry>$</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Footer/Header/g</entry>
         <entry>q</entry>
         <entry>%s/Footer/Lists/g</entry>
         <entry>e</entry>
@@ -644,6 +643,7 @@
         <entry>%s/$/,/g</entry>
         <entry>%s/$/',/g</entry>
         <entry>&quot;w</entry>
+        <entry>Wq</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
