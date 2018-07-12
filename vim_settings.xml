@@ -131,12 +131,11 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531392530955">
+      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531393524075">
         <mark key="'" line="24" column="38" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="33" />
-        <mark key="." line="78" column="0" />
-        <mark key="^" line="68" column="31" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/app.js" timestamp="1519720625847">
         <mark key="[" line="0" column="0" />
@@ -497,7 +496,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc19ub3RfZG9uZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRXb3JrYWJsZUNhbmRpZGF0ZS0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -560,40 +559,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc19ub3RfZG9uZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRXb3JrYWJsZUNhbmRpZGF0ZS0+JHdvcmthYmxlX2tleSA9IHRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoY3VybF9lcnJvcigkY3VybCkpOwo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRXb3JrYWJsZUNhbmRpZGF0ZS0+dG9BcnJheSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJFdvcmthYmxlQ2FuZGlkYXRlLT5lbWFpbCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRzdGFnZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHYpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkd29ya2FibGVfa2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlzX25vdF9kb25lID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3Cg==</text>
+        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGNvZGUgPT09IDQyOSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR2ID09PSAn6L6e6YCAJykgJGRvbWFpbltdID0gJ+i+numAgCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoY3VybF9lcnJvcigkY3VybCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -650,8 +649,8 @@
         <entry>&quot;w</entry>
         <entry>Wq</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
