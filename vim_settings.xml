@@ -21,12 +21,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" timestamp="1531213288087">
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" timestamp="1531385095410">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="309" column="2" />
-        <mark key="]" line="309" column="2" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="309" column="2" />
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+        <mark key="." line="17" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/stages.php" timestamp="1531376260065">
         <mark key="[" line="2" column="3" />
@@ -47,12 +47,12 @@
         <mark key="." line="8" column="35" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" timestamp="1531376822369">
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" timestamp="1531385090812">
         <mark key="'" line="259" column="0" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="25" />
-        <mark key="." line="8" column="25" />
-        <mark key="^" line="8" column="25" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+        <mark key="^" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/containers/List.tsx" timestamp="1519803483660">
         <mark key="[" line="2" column="61" />
@@ -125,11 +125,18 @@
         <mark key="." line="101" column="32" />
         <mark key="^" line="101" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531381932107">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="68" column="31" />
+      <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate csv" timestamp="1531384548414">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531390565473">
+        <mark key="'" line="24" column="3" />
+        <mark key="[" line="81" column="16" />
+        <mark key="]" line="81" column="36" />
+        <mark key="." line="81" column="36" />
+        <mark key="^" line="81" column="36" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/app.js" timestamp="1519720625847">
         <mark key="[" line="0" column="0" />
@@ -160,11 +167,11 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/Client/Client.php" timestamp="1531381655283">
-        <mark key="[" line="59" column="28" />
-        <mark key="]" line="59" column="28" />
-        <mark key="." line="59" column="28" />
-        <mark key="^" line="60" column="44" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/Client/Client.php" timestamp="1531390479906">
+        <mark key="[" line="65" column="57" />
+        <mark key="]" line="65" column="63" />
+        <mark key="." line="65" column="63" />
+        <mark key="^" line="65" column="63" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/App.tsx" timestamp="1519786360116">
         <mark key="[" line="17" column="36" />
@@ -258,7 +265,7 @@
         <mark key="^" line="121" column="3" />
         <mark key="." line="121" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/get_job_shortcode.php" timestamp="1531306320966">
+      <file name="$USER_HOME$/Develop/workable_transition/src/get_job_shortcode.php" timestamp="1531383695204">
         <mark key="[" line="5" column="3" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
@@ -350,11 +357,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531380450472">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531386124302">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Controller/HelpCenterController.php" timestamp="1515045252418">
         <mark key="'" line="471" column="4" />
@@ -363,12 +370,12 @@
         <mark key="^" line="264" column="88" />
         <mark key="." line="264" column="88" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/Candidate/WorkableCandidate.php" timestamp="1531219877418">
+      <file name="$USER_HOME$/Develop/workable_transition/src/Candidate/WorkableCandidate.php" timestamp="1531388319843">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="38" column="5" />
-        <mark key="]" line="41" column="35" />
-        <mark key="." line="41" column="35" />
-        <mark key="^" line="41" column="35" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
         <mark key="[" line="26" column="51" />
@@ -388,14 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1107" column="23" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="1157" column="42" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="1174" column="50" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="1295" column="37" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="1296" column="55" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="1302" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="1303" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
-      <jump line="1304" column="47" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="1307" column="28" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="1309" column="43" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="1319" column="13" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
@@ -488,10 +487,18 @@
       <jump line="9" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="16" column="57" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="55" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="84" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="86" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="91" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="81" column="4" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="28" column="15" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="24" column="3" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -554,57 +561,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyRjbGllbnQtPnBvc3QoJGVuZHBvaW50IC4gJz9zdGFnZT0nIC4gJHN0YWdlLCAkV29ya2FibGVDYW5kaWRhdGUtPnRvQXJyYXkoKSk7Cg==</text>
+        <text encoding="base64">ZmNsb3NlKCRmcCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlzX25vdF9kb25lID0gZmFsc2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZWkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRsYXN0X3N0YWdlX2lkKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCR0YWxlbnRpb19zdGFnZV9pZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGNvZGUgPT09IDQyOSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGFsZW50aW9fa2V5KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkayk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRzdGFnZSA9ICdBcHBsaWVkJzsK</text>
+        <text encoding="base64">ICAgIGlmICgkY250ICUgNSA9PT0gMCkgc2xlZXAoMik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHYpO2V4aXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search encoding="base64">XDw1XD4=</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern encoding="base64">XDw1XD4=</last-pattern>
       <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>r</entry>
         <entry>\/r\/</entry>
         <entry>form</entry>
         <entry>sendInquiry</entry>
@@ -624,11 +630,11 @@
         <entry>',$</entry>
         <entry>^</entry>
         <entry>$</entry>
+        <entry encoding="base64">XDw1XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
         <entry>%s/Footer/Lists/g</entry>
-        <entry>e</entry>
         <entry>%s/Lists/ScautoListRows/g</entry>
         <entry>%s/ScautoListRows/ScautoListRow/g</entry>
         <entry>%s/(.*)/'$1'/g</entry>
@@ -644,6 +650,7 @@
         <entry>%s/$/',/g</entry>
         <entry>&quot;w</entry>
         <entry>Wq</entry>
+        <entry>e</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
