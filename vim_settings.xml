@@ -286,7 +286,7 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531834407800">
+      <file name="/Dummy.txt" timestamp="1531838149991">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/footer.php" timestamp="1531827483486">
@@ -360,12 +360,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1531830779132">
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1531838909163">
         <mark key="'" line="103" column="21" />
-        <mark key="[" line="103" column="6" />
-        <mark key="]" line="103" column="6" />
-        <mark key="." line="103" column="6" />
-        <mark key="^" line="94" column="23" />
+        <mark key="[" line="45" column="22" />
+        <mark key="]" line="45" column="49" />
+        <mark key="^" line="45" column="49" />
+        <mark key="." line="45" column="49" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate" timestamp="1531207261734">
         <mark key="[" line="0" column="0" />
@@ -522,8 +522,8 @@
       <jump line="103" column="21" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -586,49 +586,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>page-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkam9icyBhcyAkdikgewogICAgICAgICAgaWYgKCR2Wydsb2NhdGlvbiddID09PSAkbG9jYXRpb24gJiYgJHZbJ3R5cGUnXSA9PT0gJHR5cGUpIHsKICAgICAgICAgICAgJHNlYXJjaFtdID0gJHY7CiAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJGpvYnMpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICRqb2JzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkam9icyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJGpvYnMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXJfZHVtcCgkdik7Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyX2R1bXAoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIF07Cg==</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAnbG9jYXRpb24nID0+ICR2Wydsb2NhdGlvbiddWydyZWdpb24nXSwK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAndHlwZScgPT4gJHZbJ2RlcGFydG1lbnQnXSwK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAnbmFtZScgPT4gJHZbJ3RpdGxlJ10sCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAndXJsJyAgPT4gJycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>page-</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>page-</last-pattern>
       <last-replace>location</last-replace>
       <last-substitute>type</last-substitute>
       <last-dir>1</last-dir>
@@ -636,7 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sendInquiry</entry>
         <entry>findOneBy</entry>
         <entry>cms</entry>
         <entry>env</entry>
@@ -656,6 +655,7 @@
         <entry encoding="base64">XDw1XD4=</entry>
         <entry>url</entry>
         <entry>type</entry>
+        <entry>page-</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Footer/Lists/g</entry>
@@ -676,8 +676,8 @@
         <entry>Wq</entry>
         <entry>e</entry>
         <entry encoding="base64">JzwsJz5zL3R5cGUvbG9jYXRpb24vZw==</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
