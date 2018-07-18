@@ -407,12 +407,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1531905037753">
-        <mark key="'" line="103" column="21" />
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="26" column="27" />
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1531907564866">
+        <mark key="'" line="48" column="22" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="175" column="72" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate" timestamp="1531207261734">
         <mark key="[" line="0" column="0" />
@@ -474,16 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="17" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_conduct_policy.html.twig" />
-      <jump line="16" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_conduct_policy.html.twig" />
-      <jump line="154" column="2" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
-      <jump line="373" column="4" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
-      <jump line="224" column="390" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
-      <jump line="238" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/tos.html.twig" />
-      <jump line="36" column="33" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_items.html.twig" />
-      <jump line="58" column="149" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_items.html.twig" />
-      <jump line="19" column="0" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/common_footer.html.twig" />
-      <jump line="69" column="39" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/CategoryService.php" />
       <jump line="250" column="7" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/CategoryService.php" />
       <jump line="262" column="20" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/CategoryService.php" />
       <jump line="101" column="32" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/privacy.html.twig" />
@@ -574,10 +564,20 @@
       <jump line="21" column="8" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/template-parts/archive-front-page-job-list.php" />
       <jump line="103" column="21" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/.gitignore" />
+      <jump line="160" column="3" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="159" column="29" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="59" column="22" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="167" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="163" column="36" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="168" column="12" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
+      <jump line="48" column="22" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -640,40 +640,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>page-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlYygnbm9odXAgcGhwICcgLiBfX0RJUl9fIC4gICcvLi4vJyAuIFVQREFURV9CQVRDSF9QQVRIIC4gJz4gL2Rldi9udWxsICYnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluX2FycmF5KCR0aGlzLT5sb2NhbGUsIHNlbGY6OkxPQ0FMRVNbJHJvd1snY29kZSddXSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKHRydWUpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoaW5fYXJyYXkoJHRoaXMtPmxvY2FsZSwgc2VsZjo6TE9DQUxFU1skcm93Wydjb2RlJ11dKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ25vaHVwIHBocCAnIC4gX19ESVJfXyAuICAnLy4uLycgLiBzZWxmOjpVUERBVEVfQkFUQ0hfUEFUSCAuICcgPiAvZGV2L251bGwgJicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRmaWx0ZXJlZF9kYXRhW10gPSAkcm93Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgKGZpbGVfZXhpc3RzKHNlbGY6OkNBQ0hFX0ZJTEVfUEFUSCkgJiYgKHRpbWUoKSAtIGZpbGVtdGltZShzZWxmOjpDQUNIRV9GSUxFX1BBVEgpKSA+IHNlbGY6OkNBQ0hFX1RJTUVfU0VDKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgKGZpbGVfZXhpc3RzKHNlbGY6OkNBQ0hFX0ZJTEVfUEFUSCkgJiYgKHRpbWUoKSAtIGZpbGVtdGltZShzZWxmOjpDQUNIRV9GSUxFX1BBVEgpKSA+IHNlbGY6OkNBQ0hFX1RJTUVfU0VDKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChfX0RJUl9fKTtleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
