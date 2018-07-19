@@ -53,12 +53,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" timestamp="1531986246350">
+      <file name="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" timestamp="1531990142564">
         <mark key="'" line="261" column="0" />
-        <mark key="[" line="3" column="24" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="32" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/template-parts/archive-front-page-job-list.php" timestamp="1531828115419">
         <mark key="[" line="6" column="0" />
@@ -149,11 +149,12 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531987750088">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1531990242854">
+        <mark key="'" line="81" column="22" />
+        <mark key="[" line="81" column="87" />
+        <mark key="]" line="82" column="50" />
+        <mark key="." line="82" column="50" />
+        <mark key="^" line="82" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/app.js" timestamp="1519720625847">
         <mark key="[" line="0" column="0" />
@@ -463,7 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="30" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="215" column="46" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="218" column="56" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
       <jump line="222" column="28" filename="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Application.php" />
@@ -563,10 +563,11 @@
       <jump line="46" column="55" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="47" column="29" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="48" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="74" column="22" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -629,7 +630,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>',</text>
@@ -638,31 +639,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGluX2FycmF5KCR0aGlzLT5sb2NhbGUsIHNlbGY6OkxPQ0FMRVNbJHJvd1snY29kZSddXSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">JHRhbGVuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGVjaG8gUEhQX0VPTDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRzaG9ydF9jb2RlICE9PSBBTk9OWU1PVVNfSk9CX1NIT1JUX0NPREUpIHsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRlc3RfY291bnRbJHZdKys7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRzaG9ydF9jb2RlICE9PSBBTk9OWU1PVVNfSk9CX1NIT1JUX0NPREUpIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRlc3RfY291bnRbJHZdKys7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRzaG9ydF9jb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
