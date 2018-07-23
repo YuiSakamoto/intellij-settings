@@ -165,12 +165,11 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1532332560244">
-        <mark key="'" line="70" column="15" />
-        <mark key="[" line="102" column="54" />
-        <mark key="]" line="102" column="54" />
-        <mark key="^" line="24" column="63" />
-        <mark key="." line="102" column="54" />
+      <file name="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" timestamp="1532335933616">
+        <mark key="'" line="54" column="61" />
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/app.js" timestamp="1519720625847">
         <mark key="[" line="0" column="0" />
@@ -499,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="11" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
       <jump line="105" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
       <jump line="225" column="17" filename="$USER_HOME$/Develop/workable_transition/src/config/talentio_candidate_keys.php" />
       <jump line="11" column="6" filename="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" />
@@ -599,10 +597,11 @@
       <jump line="88" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="52" column="4" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
+      <jump line="54" column="61" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -665,49 +664,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>sleep</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JENsaWVudENvbmZpZyA9IG5ldyBDb25maWd1cmUoX19ESVJfXyAuICcvY29uZmlnJywgJ2NsaWVudCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NjA0NSA9PiAnRjQ2RkExQTAwNicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MTk3NyA9PiAnODEwMDVENTNEMycsCg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRlbmRwb2ludCAuICc/c3RhZ2U9JyAuICRzdGFnZSwgJFdvcmthYmxlQ2FuZGlkYXRlLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MTk4NCA9PiAnMjY3MzVDNTkwNScsCg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ODEyMiA9PiAnNUUyODhFNUE2NScsCg==</text>
+        <text encoding="base64">ICAgICAgICB0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">NTI0MyA9PiAnQzA2RUZGOUFEMicsCg==</text>
+        <text encoding="base64">YWdlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">MTk3OCA9PiAnRUM0RUNEQjdGMCcsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NzU1MyA9PiAnNjJFMkQ2RDkzMycsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTk5MSA9PiAnM0E2RDg5RkNGNicsCg==</text>
+        <text encoding="base64">ICAgIGlmKCRzaG9ydF9jb2RlID09PSBudWxsKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MTk4OCA9PiAnOTIzNDQ3NTFGQScsCg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRjbnQsICRzaG9ydF9jb2RlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>sleep</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
+      <last-pattern>sleep</last-pattern>
       <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -715,7 +714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>',$</entry>
         <entry>^</entry>
         <entry encoding="base64">XDw1XD4=</entry>
         <entry>url</entry>
@@ -735,6 +733,7 @@
         <entry>Accountant</entry>
         <entry>\t</entry>
         <entry>$</entry>
+        <entry>sleep</entry>
       </history-search>
       <history-cmd>
         <entry>%s/(\d,)/$1\n/g</entry>
@@ -755,8 +754,8 @@
         <entry>wp</entry>
         <entry encoding="base64">JXMvXHQvID0+ICcvZw==</entry>
         <entry>%s/$/',/g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
