@@ -34,6 +34,12 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-corporate/recruit/newgrads/index.html" timestamp="1532492306256">
+        <mark key="[" line="529" column="33" />
+        <mark key="]" line="529" column="73" />
+        <mark key="." line="529" column="73" />
+        <mark key="^" line="529" column="73" />
+      </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/Configure.php" timestamp="1531204219056">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="3" column="0" />
@@ -385,9 +391,6 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/response.json" timestamp="1532330811840">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="61" />
@@ -561,8 +564,8 @@
       <jump line="87" column="44" filename="$USER_HOME$/Develop/workable_transition/src/transit_talentpool.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChmaWxlbXRpbWUoc2VsZjo6Q0FDSEVfRklMRV9QQVRIKSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -625,7 +628,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>domain</text>
