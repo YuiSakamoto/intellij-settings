@@ -326,6 +326,11 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/config.php" timestamp="1532572833795">
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/credentials.php" timestamp="1532342912088">
         <mark key="[" line="2" column="97" />
         <mark key="]" line="2" column="99" />
@@ -356,6 +361,9 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1532572803454">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/footer.php" timestamp="1531827483486">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="52" />
@@ -368,7 +376,7 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/config.php" timestamp="1532332217624">
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/config.php" timestamp="1532571583428">
         <mark key="[" line="1" column="93" />
         <mark key="]" line="1" column="93" />
         <mark key="." line="1" column="93" />
@@ -416,12 +424,12 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1532489756455">
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1532573193667">
         <mark key="'" line="15" column="38" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="63" column="93" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate" timestamp="1531207261734">
         <mark key="[" line="0" column="0" />
@@ -629,7 +637,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>domain</text>
@@ -641,28 +649,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdXT1JLQUJMRV9VUkwnLCAnaHR0cHM6Ly9tZXJjYXJpLndvcmthYmxlLmNvbS9qLycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d29yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChmaWxlbXRpbWUoc2VsZjo6Q0FDSEVfRklMRV9QQVRIKSkpCg==</text>
+        <text encoding="base64">ICAgIGV4aXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG91dHB1dCwgJHJlKQo=</text>
+        <text encoding="base64">d29yCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG91dHB1dCwgJHJlKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChmaWxlbXRpbWUoc2VsZjo6Q0FDSEVfRklMRV9QQVRIKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhlYygnbm9odXAgcGhwICcgLiBfX0RJUl9fIC4gICcvLi4vJyAuIHNlbGY6OlVQREFURV9CQVRDSF9QQVRIIC4gJyA+IC90bXAvcGhwLmxvZyAmJywgJG91dHB1dCwgJHJldHVybl92YXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG91dHB1dCwgJHJlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG91dHB1dCwgJHJldHVybl92YXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG91dHB1dCwgJHJlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCh0aW1lKCkgLSBmaWxlbXRpbWUoc2VsZjo6Q0FDSEVfRklMRV9QQVRIKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhlYygnbm9odXAgcGhwICcgLiBfX0RJUl9fIC4gICcvLi4vJyAuIHNlbGY6OlVQREFURV9CQVRDSF9QQVRIIC4gJyA+IC90bXAvcGhwLmxvZyAmJywgJG91dHB1dCwgJHJldHVybl92YXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
