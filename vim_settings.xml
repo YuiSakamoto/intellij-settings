@@ -404,11 +404,11 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/front-page.php" timestamp="1533019780737">
-        <mark key="[" line="29" column="67" />
-        <mark key="]" line="29" column="69" />
-        <mark key="." line="29" column="69" />
-        <mark key="^" line="29" column="69" />
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/front-page.php" timestamp="1533020449704">
+        <mark key="[" line="29" column="79" />
+        <mark key="]" line="29" column="79" />
+        <mark key="." line="29" column="79" />
+        <mark key="^" line="29" column="79" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/getting_started/prohibited_conduct.html.twig" timestamp="1511165113273">
         <mark key="[" line="40" column="86" />
@@ -719,8 +719,8 @@
         <entry>%s/applied/sourced/g</entry>
         <entry>%s/WorkableCandidate/WorkableTalentpool/g</entry>
         <entry>Q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
