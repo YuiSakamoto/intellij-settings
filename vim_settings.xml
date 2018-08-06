@@ -120,11 +120,11 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/Dockerfile" timestamp="1533543444922">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/Develop/recun/Dockerfile" timestamp="1533544215915">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/README.md" timestamp="1532342850392">
         <mark key="[" line="7" column="39" />
@@ -726,8 +726,8 @@
         <entry>%s/applied/sourced/g</entry>
         <entry>%s/WorkableCandidate/WorkableTalentpool/g</entry>
         <entry>Q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
