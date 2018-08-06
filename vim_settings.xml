@@ -120,11 +120,11 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/Dockerfile" timestamp="1533544215915">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="33" />
-        <mark key="^" line="17" column="33" />
-        <mark key="." line="17" column="33" />
+      <file name="$USER_HOME$/Develop/recun/Dockerfile" timestamp="1533544829194">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/README.md" timestamp="1532342850392">
         <mark key="[" line="7" column="39" />
@@ -573,7 +573,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8.11.3-jessie</text>
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -636,7 +636,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8.11.3-jessie</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>disqua</text>
