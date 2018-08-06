@@ -60,6 +60,7 @@
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
       </file>
+      <file name="$USER_HOME$/Develop/recun/README.md" timestamp="1533538002262" />
       <file name="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" timestamp="1532420202261">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="28" />
@@ -118,6 +119,12 @@
         <mark key="]" line="4" column="43" />
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
+      </file>
+      <file name="$USER_HOME$/Develop/recun/Dockerfile" timestamp="1533538565515">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/README.md" timestamp="1532342850392">
         <mark key="[" line="7" column="39" />
@@ -354,7 +361,7 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533019802652">
+      <file name="/Dummy.txt" timestamp="1533537962355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/footer.php" timestamp="1532928891387">
@@ -428,13 +435,13 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions.php" timestamp="1532930034772" />
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1533537980712" />
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="17" column="6" />
@@ -566,7 +573,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>latest</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -629,7 +636,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>latest</text>
       </register>
       <register name="/" type="4">
         <text>disqua</text>
@@ -719,8 +726,8 @@
         <entry>%s/applied/sourced/g</entry>
         <entry>%s/WorkableCandidate/WorkableTalentpool/g</entry>
         <entry>Q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
