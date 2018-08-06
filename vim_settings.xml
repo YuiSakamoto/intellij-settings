@@ -120,8 +120,11 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/Dockerfile" timestamp="1533542313356">
-        <mark key="^" line="0" column="22" />
+      <file name="$USER_HOME$/Develop/recun/Dockerfile" timestamp="1533543444922">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/README.md" timestamp="1532342850392">
         <mark key="[" line="7" column="39" />
@@ -569,8 +572,8 @@
       <jump line="65" column="13" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAicHJlaG9vayIsICJucG0gc3RhcnQiLCAiLS0iXQo=</text>
+      <register name="&quot;" type="4">
+        <text>8.11.3-jessie</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -633,7 +636,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8.11.3-alpine</text>
+        <text>8.11.3-jessie</text>
       </register>
       <register name="/" type="4">
         <text>disqua</text>
@@ -723,8 +726,8 @@
         <entry>%s/applied/sourced/g</entry>
         <entry>%s/WorkableCandidate/WorkableTalentpool/g</entry>
         <entry>Q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
