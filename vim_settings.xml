@@ -89,12 +89,12 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533639829336">
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533642397403">
         <mark key="'" line="301" column="15" />
-        <mark key="[" line="301" column="26" />
-        <mark key="]" line="301" column="27" />
-        <mark key="^" line="301" column="24" />
-        <mark key="." line="301" column="27" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="43" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/transit_talentpool.php" timestamp="1532422812256">
         <mark key="[" line="109" column="0" />
@@ -602,8 +602,8 @@
       <jump line="100" column="2" filename="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUsIHJlcG9EaXIpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -675,31 +675,31 @@
         <text encoding="base64">Y29uc3QgYXRzVXJscyA9IHJlcXVpcmUoJy4uLy4uLy4uL2NvbmZpZy91cmwudG9tbCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYXRzVXJscyA9IHJlcXVpcmUoJy4uLy4uLy4uL2NvbmZpZy91cmwudG9tbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhfX2Rpcm5hbWUsIHJlcG9EaXIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXRzQ2FuZGlkYXRlVXJsCg==</text>
+        <text encoding="base64">Y29uc3QgYXRzVXJscyA9IHJlcXVpcmUoJy4uLy4uLy4uL2NvbmZpZy91cmwudG9tbCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdodHRwczovL3RhbGVudGlvLmNvbS9hdHMvY2FuZGlkYXRlLycsCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYXRzQ2FuZGlkYXRlVXJsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGFsZW50aW8gPSAK</text>
+        <text encoding="base64">ICAgICdodHRwczovL3RhbGVudGlvLmNvbS9hdHMvY2FuZGlkYXRlLycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYXRzTmFtZSk7Cg==</text>
+        <text encoding="base64">dGFsZW50aW8gPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocmVkaXNTdG9yYWdlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYXRzTmFtZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWw6ICdHNEZBNlNZOFAnLCAvLyAjcGotcmVjLXNraWxsLXRlc3QK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocmVkaXNTdG9yYWdlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIi9iaW4vYmFzaCIsICItYyIsICJzbGVlcCA2MDAwIl0K</text>
+        <text encoding="base64">ICAgIGNoYW5uZWw6ICdHNEZBNlNZOFAnLCAvLyAjcGotcmVjLXNraWxsLXRlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRsCg==</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbIi9iaW4vYmFzaCIsICItYyIsICJzbGVlcCA2MDAwIl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
