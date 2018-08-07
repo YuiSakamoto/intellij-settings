@@ -89,6 +89,9 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533627514815">
+        <mark key="'" line="17" column="21" />
+      </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/transit_talentpool.php" timestamp="1532422812256">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -360,7 +363,7 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533626070371">
+      <file name="/Dummy.txt" timestamp="1533627810199">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/footer.php" timestamp="1532928891387">
@@ -440,11 +443,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1533625637952">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="16" column="71" />
-        <mark key="^" line="16" column="71" />
-        <mark key="." line="16" column="71" />
+      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1533627937079">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -458,6 +461,12 @@
         <mark key="]" line="264" column="88" />
         <mark key="^" line="264" column="88" />
         <mark key="." line="264" column="88" />
+      </file>
+      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1533627507994">
+        <mark key="[" line="56" column="30" />
+        <mark key="]" line="56" column="44" />
+        <mark key="." line="56" column="44" />
+        <mark key="^" line="56" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/Candidate/WorkableCandidate.php" timestamp="1532933571892">
         <mark key="'" line="2" column="0" />
@@ -474,8 +483,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
-      <jump line="159" column="29" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="59" column="22" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="10" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="167" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
@@ -574,10 +581,12 @@
       <jump line="46" column="27" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="64" column="31" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="65" column="13" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
+      <jump line="17" column="21" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="1" column="80" filename="$USER_HOME$/Develop/recun/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIi9iaW4vYmFzaCIsICItYyIsICJzbGVlcCA2MDAwIl0K</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -640,40 +649,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>disqua</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDEwNCA9PiAnYXBwbGllZCcsIC8vIOOCs+ODs+OCv+OCr+ODiOe1kOaenAo=</text>
+        <text encoding="base64">ICAgIGNoYW5uZWw6ICdHNEZBNlNZOFAnLCAvLyAjcGotcmVjLXNraWxsLXRlc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIi9iaW4vYmFzaCIsICItYyIsICJzbGVlcCA2MDAwIl0K</text>
+        <text encoding="base64">ICAgIGNoYW5uZWw6ICdHNEZBNlNZOFAnLCAvLyAjcGotcmVjLXNraWxsLXRlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGRsCg==</text>
+        <text encoding="base64">RU5UUllQT0lOVCBbIi9iaW4vYmFzaCIsICItYyIsICJzbGVlcCA2MDAwIl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicHJlaG9vayIsICJucG0gc3RhcnQiLCAiLS0iXQo=</text>
+        <text encoding="base64">ZGRsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAicHJlaG9vayIsICJucG0gaW5zdGFsbCIsICItLSIsIFwK</text>
+        <text encoding="base64">ICAicHJlaG9vayIsICJucG0gc3RhcnQiLCAiLS0iXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAicHJlaG9vayIsIm5wbSBzdGFydCIsICItLSJdCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAicHJlaG9vayIsICJucG0gaW5zdGFsbCIsICItLSIsIFwK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAicHJlaG9vayIsIm5wbSBzdGFydCIsICItLSJdCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5UUllQT0lOVCBbIFwK</text>
+        <text encoding="base64">ICAicHJlaG9vayIsICJucG0gaW5zdGFsbCIsICItLSIsIFwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
