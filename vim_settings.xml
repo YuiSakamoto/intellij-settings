@@ -89,12 +89,12 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533638857641">
-        <mark key="'" line="241" column="4" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="5" />
-        <mark key="^" line="19" column="5" />
-        <mark key="." line="19" column="5" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533639829336">
+        <mark key="'" line="301" column="15" />
+        <mark key="[" line="301" column="26" />
+        <mark key="]" line="301" column="27" />
+        <mark key="^" line="301" column="24" />
+        <mark key="." line="301" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/transit_talentpool.php" timestamp="1532422812256">
         <mark key="[" line="109" column="0" />
@@ -290,7 +290,9 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" timestamp="1533634674476" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" timestamp="1533639884747">
+        <mark key="'" line="100" column="2" />
+      </file>
       <file name="$USER_HOME$/Develop/scauto/tslint.json" timestamp="1519785485673">
         <mark key="'" line="18" column="9" />
         <mark key="[" line="65" column="22" />
@@ -498,9 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="1" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="151" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="39" column="34" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="47" column="29" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
@@ -598,10 +597,13 @@
       <jump line="258" column="25" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="58" column="5" filename="$USER_HOME$/Develop/recun/index.js" />
       <jump line="241" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="142" column="11" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="301" column="15" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="100" column="2" filename="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>o</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -664,7 +666,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>talentio</text>
@@ -707,8 +709,8 @@
       <last-search>talentio</last-search>
       <last-offset />
       <last-pattern>talentio</last-pattern>
-      <last-replace>atsCandidateId</last-replace>
-      <last-substitute>talentioId</last-substitute>
+      <last-replace>ats</last-replace>
+      <last-substitute>talentio</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -752,9 +754,9 @@
         <entry>%s/applied/sourced/g</entry>
         <entry>%s/WorkableCandidate/WorkableTalentpool/g</entry>
         <entry>Q</entry>
-        <entry>%s/talentio/ats/g</entry>
         <entry>%s/talentioId/atsCandidateId/g</entry>
         <entry>W</entry>
+        <entry>%s/talentio/ats/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
