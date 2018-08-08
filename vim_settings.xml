@@ -76,12 +76,12 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533647541169">
-        <mark key="'" line="150" column="42" />
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="18" column="5" />
-        <mark key="." line="19" column="4" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533695684606">
+        <mark key="'" line="180" column="29" />
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="19" column="5" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -421,10 +421,10 @@
         <mark key="^" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1533648147087">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="9" />
-        <mark key="^" line="18" column="13" />
-        <mark key="." line="19" column="9" />
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="9" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="23" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -438,12 +438,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1533647335060">
+      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1533695672553">
         <mark key="'" line="32" column="26" />
-        <mark key="[" line="58" column="3" />
-        <mark key="]" line="58" column="3" />
-        <mark key="." line="58" column="3" />
-        <mark key="^" line="58" column="3" />
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="4" />
+        <mark key="." line="58" column="4" />
+        <mark key="^" line="57" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
         <mark key="[" line="26" column="51" />
@@ -453,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="74" column="22" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="124" column="17" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="102" column="19" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
@@ -553,10 +552,11 @@
       <jump line="69" column="22" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="215" column="10" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="150" column="42" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="180" column="29" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -619,7 +619,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
