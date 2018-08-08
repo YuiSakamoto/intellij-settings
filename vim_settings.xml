@@ -76,12 +76,12 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533713397168">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="202" column="36" />
-        <mark key="]" line="202" column="36" />
-        <mark key="^" line="202" column="36" />
-        <mark key="." line="202" column="36" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533714739704">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="202" column="33" />
+        <mark key="]" line="202" column="35" />
+        <mark key="^" line="202" column="35" />
+        <mark key="." line="202" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -420,11 +420,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1533709374886">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="21" column="13" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1533714887167">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -438,12 +438,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1533713378483">
+      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1533714750714">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="58" column="4" />
-        <mark key="." line="58" column="4" />
-        <mark key="^" line="57" column="5" />
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="4" />
+        <mark key="." line="57" column="4" />
+        <mark key="^" line="58" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
         <mark key="[" line="26" column="51" />
@@ -453,8 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
-      <jump line="83" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="96" column="5" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="106" column="21" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
@@ -553,10 +551,12 @@
       <jump line="23" column="0" filename="$USER_HOME$/Develop/recun/index.js" />
       <jump line="237" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="18" column="32" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="202" column="36" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>o</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -619,7 +619,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>yuita</text>
