@@ -283,6 +283,13 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/recun-notif/template.yaml" timestamp="1534062086353">
+        <mark key="'" line="16" column="49" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+      </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/Footer.tsx" timestamp="1519795973907">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="50" />
@@ -424,7 +431,7 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1533901404315">
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534061096794">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -466,9 +473,9 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
       </file>
+      <file name="$USER_HOME$/Develop/recun-notif/sam-app/hello_world/app.js" timestamp="1534061093022" />
     </filemarks>
     <jumps>
-      <jump line="106" column="21" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="0" column="4" filename="$USER_HOME$/Develop/workable_transition/src/transit_candidate.php" />
       <jump line="17" column="11" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
@@ -568,10 +575,11 @@
       <jump line="19" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="8" column="29" filename="$USER_HOME$/Develop/recun-notif/sam-app/event_file.json" />
       <jump line="43" column="29" filename="$USER_HOME$/Develop/recun-notif/sam-app/event_file.json" />
+      <jump line="18" column="49" filename="$USER_HOME$/Develop/recun-notif/template.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -634,7 +642,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>Hello</text>
@@ -643,31 +651,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2hhbm5lbDogJyN0ZWFtLWRldi1yZWNydWl0aW5nJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIFNhbXBsZSBTQU0gVGVtcGxhdGUgZm9yIHNhbS1hcHAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB5dWlfdGFuZyBvbiAyMDE4LzA4LzEwLgo=</text>
+        <text encoding="base64">ICAgIEh1YiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29kZVVyaTogaGVsbG9fd29ybGQvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSAubnBtOi9yb290Ly5ucG0K</text>
+        <text encoding="base64">ICAgIEhlbGxvV29ybGRGdW5jdGlvbjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUkVESVNfU0VSVkVSX05BTUU6ICdtcmVjX3JlZGlzXzEnCg==</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU0xBQ0tfQk9UX0FQSV9UT0tFTjogJ3hveGItMjE3NjYyMTA3NC00MTIwNDc3MzkyNTAtSEhjQmR2NjJGSUF0dDl6YVRwTGR6djdJJwo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgR0lUSFVCX0FQSV9BQ0NFU1NfVE9LRU46ICdjMzMxOTg5N2VjODkwMmU3YjFlM2YzOTE5ZDNjZWJiOTc0OTExZmY2Jwo=</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB5dWlfdGFuZyBvbiAyMDE4LzA4LzEwLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAubnBtOi9yb290Ly5ucG0K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -684,7 +692,6 @@
     </search>
     <history>
       <history-search>
-        <entry>applied</entry>
         <entry>stage</entry>
         <entry>disq</entry>
         <entry>WorkableCandidate</entry>
@@ -703,6 +710,7 @@
         <entry>yui_ta</entry>
         <entry>yuita</entry>
         <entry>app</entry>
+        <entry>Hellp</entry>
         <entry>Hello</entry>
       </history-search>
       <history-cmd>
