@@ -75,12 +75,11 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1533714739704">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="202" column="33" />
-        <mark key="]" line="202" column="35" />
-        <mark key="^" line="202" column="35" />
-        <mark key="." line="202" column="35" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534155066267">
+        <mark key="'" line="291" column="16" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -290,7 +289,7 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yaml" timestamp="1534153814721">
+      <file name="$USER_HOME$/Develop/recun-notif/template.yaml" timestamp="1534154952161">
         <mark key="'" line="15" column="5" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -501,8 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="80" filename="$USER_HOME$/Develop/recun/index.js" />
-      <jump line="57" column="22" filename="$USER_HOME$/Develop/recun/index.js" />
       <jump line="10" column="0" filename="$USER_HOME$/Develop/recun/index.js" />
       <jump line="253" column="11" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="286" column="75" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
@@ -601,10 +598,12 @@
       <jump line="3" column="3" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="14" column="30" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="181" column="27" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="291" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>h</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2hhbm5lbDogJyN0bXAtZW90LXNhbmRib3gnLAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -667,49 +666,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>\\n</text>
+        <text>rd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogIlJFRElTX1NFUlZFUl9OQU1FIiwKICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogInt7IG11c3RfZW52IGBSRURJU19TRVJWRVJfTkFNRWAgfX0iCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2hhbm5lbDogJyN0bXAtZW90LXNhbmRib3gnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IEFUU19OQU1FPSIiCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnQzhTNDc3WENZJzsgLy8gI3RtcC1lb3Qtc2FuZGJveAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04ucGFyc2UoZXZlbnQuYm9keSkpOwo=</text>
+        <text encoding="base64">ICAgIC8vcmV0dXJuICdDOFNRMTlEOEInOyAvLyAjdG1wLXl1aV90YW5nLXNhbmRib3gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgWC1IdWItU2lnbmF0dXJlOiBzaGExPTliNDJlZmE2MTAxZTYyMzkwYzViMGZkNjNlOGNlZjZiODkzODRmYzIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgWC1HaXRIdWItRXZlbnQ6IHBpbmcK</text>
+        <text encoding="base64">ZXhwb3J0IEFUU19OQU1FPSIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgWC1HaXRIdWItRGVsaXZlcnk6IDExNmYwNmMwLTljOTEtMTFlOC05YmZhLTE0ZGQ2NjhkYjY2MAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04ucGFyc2UoZXZlbnQuYm9keSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgVXNlci1BZ2VudDogR2l0SHViLUhvb2tzaG90LzdmYjY5ZWUK</text>
+        <text encoding="base64">ICAgICAgWC1IdWItU2lnbmF0dXJlOiBzaGExPTliNDJlZmE2MTAxZTYyMzkwYzViMGZkNjNlOGNlZjZiODkzODRmYzIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRXhwZWN0Ogo=</text>
+        <text encoding="base64">ICAgICAgWC1HaXRIdWItRXZlbnQ6IHBpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudC10eXBlOiBhcHBsaWNhdGlvbi9qc29uCg==</text>
+        <text encoding="base64">ICAgICAgWC1HaXRIdWItRGVsaXZlcnk6IDExNmYwNmMwLTljOTEtMTFlOC05YmZhLTE0ZGQ2NjhkYjY2MAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\\n</last-search>
+      <last-search>rd</last-search>
       <last-offset />
-      <last-pattern>\\n</last-pattern>
+      <last-pattern>rd</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -717,7 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry>domain</entry>
         <entry>disqua</entry>
         <entry>ats</entry>
         <entry>talentioId</entry>
@@ -737,6 +735,7 @@
         <entry>&quot;</entry>
         <entry>\n</entry>
         <entry>\\n</entry>
+        <entry>rd</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycsLy9n</entry>
