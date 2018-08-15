@@ -75,6 +75,12 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Develop/recun-deploy/config-workable.yaml" timestamp="1534301115436">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
       <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534155066267">
         <mark key="'" line="291" column="16" />
         <mark key="[" line="202" column="0" />
@@ -510,6 +516,12 @@
         <mark key="]" line="26" column="59" />
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
+      </file>
+      <file name="$USER_HOME$/Develop/recun-deploy/recun-workable-cluster-task-definition.json" timestamp="1534301157548">
+        <mark key="[" line="4" column="39" />
+        <mark key="]" line="4" column="45" />
+        <mark key="^" line="4" column="45" />
+        <mark key="." line="4" column="45" />
       </file>
     </filemarks>
     <jumps>
