@@ -81,10 +81,10 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/.envrc.workable" timestamp="1534313094734">
+      <file name="$USER_HOME$/Develop/recun-deploy/.envrc.workable" timestamp="1534314229590">
         <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="80" />
-        <mark key="." line="1" column="80" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
         <mark key="^" line="1" column="80" />
       </file>
       <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534155066267">
@@ -166,9 +166,6 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/sam-app/event_file.json" timestamp="1533907590086">
-        <mark key="'" line="43" column="29" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact_from_web_no_login.html.twig" timestamp="1509084823446">
         <mark key="[" line="58" column="33" />
         <mark key="]" line="58" column="33" />
@@ -187,29 +184,23 @@
         <mark key="." line="15" column="1" />
         <mark key="^" line="15" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/recun-deploy/.gitignore" timestamp="1534314138763">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/Candidate/WorkableTalentpool.php" timestamp="1532421362101">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1534152372845">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="9" column="9" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/recun-cluster-task-definition.json" timestamp="1534151272158">
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="60" />
-        <mark key="." line="25" column="60" />
-        <mark key="^" line="25" column="60" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Util/XAccessTokenMarkerInterface.php" timestamp="1508835361709">
         <mark key="[" line="8" column="10" />
@@ -234,6 +225,9 @@
         <mark key="]" line="6" column="31" />
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/Develop/recun-deploy/scripts/m-recun-bot/m-recun-workable-deploy.sh" timestamp="1534314045921">
+        <mark key="[" line="5" column="48" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/bin/update_jobs.php" timestamp="1532489722317">
         <mark key="[" line="5" column="40" />
@@ -399,11 +393,11 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/config.php" timestamp="1534240530479">
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/config.php" timestamp="1534314674007">
         <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/m-ios.md.ejs" timestamp="1533646462395">
         <mark key="[" line="1" column="0" />
@@ -635,7 +629,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>x</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -698,13 +692,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>rd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICJuYW1lIjogIlJFRElTX1NFUlZFUl9OQU1FIiwKICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogInt7IG11c3RfZW52IGBSRURJU19TRVJWRVJfTkFNRWAgfX0iCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">LmVudnJjCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
