@@ -81,6 +81,12 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/recun-deploy/.envrc.workable" timestamp="1534313094734">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="80" />
+        <mark key="." line="1" column="80" />
+        <mark key="^" line="1" column="80" />
+      </file>
       <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534155066267">
         <mark key="'" line="291" column="16" />
         <mark key="[" line="202" column="0" />
@@ -333,10 +339,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/.envrc" timestamp="1534150703563">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Develop/recun-deploy/.envrc" timestamp="1534312906566">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="80" />
+        <mark key="." line="1" column="80" />
+        <mark key="^" line="1" column="80" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/README.md" timestamp="1519723625282">
         <mark key="[" line="8" column="26" />
@@ -517,11 +524,11 @@
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/recun-workable-cluster-task-definition.json" timestamp="1534301157548">
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="45" />
-        <mark key="^" line="4" column="45" />
-        <mark key="." line="4" column="45" />
+      <file name="$USER_HOME$/Develop/recun-deploy/recun-workable-cluster-task-definition.json" timestamp="1534312825030">
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="39" />
+        <mark key="^" line="30" column="39" />
+        <mark key="." line="30" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -628,7 +635,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>E</text>
+        <text>v</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -691,7 +698,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>rd</text>
