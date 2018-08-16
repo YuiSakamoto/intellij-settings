@@ -87,12 +87,12 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534418694727">
-        <mark key="'" line="264" column="10" />
-        <mark key="[" line="210" column="51" />
-        <mark key="]" line="210" column="51" />
-        <mark key="." line="210" column="51" />
-        <mark key="^" line="210" column="50" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534419865316">
+        <mark key="'" line="197" column="33" />
+        <mark key="[" line="213" column="17" />
+        <mark key="]" line="213" column="17" />
+        <mark key="." line="213" column="17" />
+        <mark key="^" line="213" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -522,7 +522,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1534418733079">
+      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1534419759686">
         <mark key="'" line="60" column="2" />
         <mark key="[" line="4" column="38" />
         <mark key="]" line="5" column="0" />
@@ -543,7 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="2" filename="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" />
       <jump line="69" column="22" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="215" column="10" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="150" column="42" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
@@ -643,10 +642,11 @@
       <jump line="149" column="2" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="136" column="5" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="264" column="10" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="198" column="33" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -709,34 +709,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TOKEN = process</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RvcmFnZVNhdmVBc3luYyA9IFByb21pc2UucHJvbWlzaWZ5KHN0b3JhZ2UudGVhbXMuc2F2ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHRoaXMuc3RvcmFnZUdldEFzeW5jKHRlYW1JZCkpCiAgICAgICAgICAgICAgICAudGhlbigocmVzKSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgU0xBQ0tfQk9UX0FQSV9UT0tFTiA9IHByb2Nlc3MuZW52LlNMQUNLX0JPVF9BUElfVE9LRU47CmNvbnN0IEdJVEhVQl9BUElfQUNDRVNTX1RPS0VOID0gcHJvY2Vzcy5lbnYuR0lUSFVCX0FQSV9BQ0NFU1NfVE9LRU47CmNvbnN0IEFUU19OQU1FID0gcHJvY2Vzcy5lbnYuQVRTX05BTUU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKHBheWxvYWQpID0+IHRoaXMuc3RvcmFnZVNhdmVBc3luYyhwYXlsb2FkKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocmUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coe2lkOiB0ZWFtSWQsIHByb2dyZXNzOiBwcm9ncmVzc30pOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgU0xBQ0tfQk9UX0FQSV9UT0tFTiA9IHByb2Nlc3MuZW52LlNMQUNLX0JPVF9BUElfVE9LRU47CmNvbnN0IEdJVEhVQl9BUElfQUNDRVNTX1RPS0VOID0gcHJvY2Vzcy5lbnYuR0lUSFVCX0FQSV9BQ0NFU1NfVE9LRU47CmNvbnN0IEFUU19OQU1FID0gcHJvY2Vzcy5lbnYuQVRTX05BTUU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbigoKSA9PiB0aGlzLnN0b3JhZ2VSZW1vdmVBc3luYygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgU0xBQ0tfQk9UX0FQSV9UT0tFTiA9IHByb2Nlc3MuZW52LlNMQUNLX0JPVF9BUElfVE9LRU47CmNvbnN0IEdJVEhVQl9BUElfQUNDRVNTX1RPS0VOID0gcHJvY2Vzcy5lbnYuR0lUSFVCX0FQSV9BQ0NFU1NfVE9LRU47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbigocmVzKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6ICdob2dlJwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RvcmFnZVJlbW92ZUFzeW5jID0gUHJvbWlzZS5wcm9taXNpZnkoc3RvcmFnZS50ZWFtcy5yZW1vdmUpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
