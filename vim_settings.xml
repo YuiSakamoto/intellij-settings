@@ -87,8 +87,8 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534411924604">
-        <mark key="'" line="100" column="43" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534415265721">
+        <mark key="'" line="149" column="2" />
         <mark key="[" line="115" column="30" />
         <mark key="]" line="115" column="60" />
         <mark key="." line="115" column="60" />
@@ -522,12 +522,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1534411166002">
-        <mark key="'" line="55" column="2" />
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="58" column="4" />
-        <mark key="." line="58" column="4" />
-        <mark key="^" line="57" column="5" />
+      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1534415234624">
+        <mark key="'" line="59" column="2" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
         <mark key="[" line="26" column="51" />
@@ -543,8 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="25" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="241" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="142" column="11" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="301" column="15" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="100" column="2" filename="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" />
@@ -643,10 +641,12 @@
       <jump line="52" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="100" column="43" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="115" column="60" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="185" column="17" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="149" column="2" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -709,49 +709,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Async</text>
+        <text>async</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmVudnJjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IElNQUdFX1VSTD0iOTg1MDUyMjM1ODc0LmRrci5lY3IuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9pbmhvdXNlL20tcmVjL3JlY3VuIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IFJFRElTX1NFUlZFUl9OQU1FPSJpbmhvdXNlLXJlZGlzLXNlcnZlci5wYnNvZHouMDAwMS5hcG5lMS5jYWNoZS5hbWF6b25hd3MuY29tIgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IEdJVEhVQl9BUElfQUNDRVNTX1RPS0VOPSJmMjk1OGY5OTg3Njc2NTQ1ZGEyNDhkNGM3OTZmNjQ0YTc3Yzg5ZWU2Igo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IFNMQUNLX0JPVF9BUElfVE9LRU49InhveGItMjE3NjYyMTA3NC00MTY4NDE1NDMxMDYtMWhHZkhrZks5dll5UGp3THdVWWljWHNPIgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgU0xBQ0tfQk9UX0FQSV9UT0tFTiA9IHByb2Nlc3MuZW52LlNMQUNLX0JPVF9BUElfVE9LRU47CmNvbnN0IEdJVEhVQl9BUElfQUNDRVNTX1RPS0VOID0gcHJvY2Vzcy5lbnYuR0lUSFVCX0FQSV9BQ0NFU1NfVE9LRU47CmNvbnN0IEFUU19OQU1FID0gcHJvY2Vzcy5lbnYuQVRTX05BTUU7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IElNQUdFX1VSTD0iOTg1MDUyMjM1ODc0LmRrci5lY3IuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9pbmhvdXNlL20tcmVjL3JlY3VuIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0IFJFRElTX1NFUlZFUl9OQU1FPSJpbmhvdXNlLXJlZGlzLXNlcnZlci5wYnNvZHouMDAwMS5hcG5lMS5jYWNoZS5hbWF6b25hd3MuY29tIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IEdJVEhVQl9BUElfQUNDRVNTX1RPS0VOPSJmMjk1OGY5OTg3Njc2NTQ1ZGEyNDhkNGM3OTZmNjQ0YTc3Yzg5ZWU2Igo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtZXJjYXJpCg==</text>
+        <text encoding="base64">ZXhwb3J0IFNMQUNLX0JPVF9BUElfVE9LRU49InhveGItMjE3NjYyMTA3NC00MTY4NDE1NDMxMDYtMWhHZkhrZks5dll5UGp3THdVWWljWHNPIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyb3cpOwo=</text>
+        <text encoding="base64">ICBtZXJjYXJpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyb3dbJ3Nob3J0Y29kZSddKTsK</text>
+        <text encoding="base64">ICBhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Async</last-search>
+      <last-search>async</last-search>
       <last-offset />
-      <last-pattern>Async</last-pattern>
+      <last-pattern>async</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -759,8 +759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dev</entry>
-        <entry encoding="base64">XDxjb250cm9sbGVyXD4=</entry>
         <entry>yui_ta</entry>
         <entry>yuita</entry>
         <entry>Hellp</entry>
@@ -779,6 +777,8 @@
         <entry>SaveAsync</entry>
         <entry>recruiting</entry>
         <entry>Async</entry>
+        <entry>review</entry>
+        <entry>async</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycsLy9n</entry>
