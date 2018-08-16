@@ -87,11 +87,12 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534155066267">
-        <mark key="'" line="291" column="16" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534411277773">
+        <mark key="'" line="289" column="6" />
+        <mark key="[" line="203" column="49" />
+        <mark key="]" line="203" column="49" />
+        <mark key="." line="203" column="49" />
+        <mark key="^" line="203" column="49" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -521,12 +522,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1533714750714">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="57" column="4" />
-        <mark key="]" line="57" column="4" />
-        <mark key="." line="57" column="4" />
-        <mark key="^" line="58" column="5" />
+      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1534411166002">
+        <mark key="'" line="55" column="2" />
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="58" column="4" />
+        <mark key="." line="58" column="4" />
+        <mark key="^" line="57" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
         <mark key="[" line="26" column="51" />
@@ -542,22 +543,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="0" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="22" column="125" filename="$USER_HOME$/Develop/recun/index.js" />
-      <jump line="138" column="6" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="78" column="26" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="104" column="27" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Develop/recun/config/help.toml" />
-      <jump line="160" column="37" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="288" column="34" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="191" column="0" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="32" column="26" filename="$USER_HOME$/Develop/recun/index.js" />
       <jump line="23" column="21" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="8" column="45" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="355" column="0" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="258" column="25" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="58" column="5" filename="$USER_HOME$/Develop/recun/index.js" />
       <jump line="241" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="142" column="11" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="301" column="15" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
@@ -642,10 +631,22 @@
       <jump line="70" column="9" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="68" column="14" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/footer.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/footer.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Develop/recun/index.js" />
+      <jump line="11" column="11" filename="$USER_HOME$/Develop/recun/index.js" />
+      <jump line="1" column="45" filename="$USER_HOME$/Develop/recun/index.js" />
+      <jump line="0" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="10" column="26" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="131" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="12" column="58" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="13" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="58" column="4" filename="$USER_HOME$/Develop/recun/index.js" />
+      <jump line="55" column="2" filename="$USER_HOME$/Develop/recun/index.js" />
+      <jump line="186" column="13" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="288" column="6" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -708,10 +709,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text>recruiting</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmVudnJjCg==</text>
@@ -748,21 +749,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search>recruiting</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern>recruiting</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>talentioId</entry>
-        <entry>redis</entry>
-        <entry>help</entry>
-        <entry>toml</entry>
-        <entry>talentio</entry>
         <entry>review</entry>
         <entry>dev</entry>
         <entry encoding="base64">XDxjb250cm9sbGVyXD4=</entry>
@@ -778,6 +774,11 @@
         <entry>rd</entry>
         <entry>evn</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>redis</entry>
+        <entry>storage</entry>
+        <entry>GetAsync</entry>
+        <entry>SaveAsync</entry>
+        <entry>recruiting</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycsLy9n</entry>
