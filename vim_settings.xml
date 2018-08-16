@@ -81,10 +81,10 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/.envrc.workable" timestamp="1534314229590">
+      <file name="$USER_HOME$/Develop/recun-deploy/.envrc.workable" timestamp="1534401561892">
         <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
+        <mark key="]" line="1" column="80" />
+        <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
       <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534155066267">
@@ -193,6 +193,12 @@
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1534401372607">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="47" />
+        <mark key="." line="36" column="47" />
+        <mark key="^" line="36" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
@@ -639,7 +645,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log();</text>
+        <text>O</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -702,7 +708,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>log();</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -711,31 +717,31 @@
         <text encoding="base64">LmVudnJjCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtZXJjYXJpCg==</text>
+        <text encoding="base64">ZXhwb3J0IElNQUdFX1VSTD0iOTg1MDUyMjM1ODc0LmRrci5lY3IuYXAtbm9ydGhlYXN0LTEuYW1hem9uYXdzLmNvbS9pbmhvdXNlL20tcmVjL3JlY3VuIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
+        <text encoding="base64">ZXhwb3J0IFJFRElTX1NFUlZFUl9OQU1FPSJpbmhvdXNlLXJlZGlzLXNlcnZlci5wYnNvZHouMDAwMS5hcG5lMS5jYWNoZS5hbWF6b25hd3MuY29tIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyb3cpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IEdJVEhVQl9BUElfQUNDRVNTX1RPS0VOPSJmMjk1OGY5OTg3Njc2NTQ1ZGEyNDhkNGM3OTZmNjQ0YTc3Yzg5ZWU2Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyb3dbJ3Nob3J0Y29kZSddKTsK</text>
+        <text encoding="base64">ZXhwb3J0IFNMQUNLX0JPVF9BUElfVE9LRU49InhveGItMjE3NjYyMTA3NC00MTY4NDE1NDMxMDYtMWhHZkhrZks5dll5UGp3THdVWWljWHNPIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">L3NjcmlwdHMvbS1yZWN1bi1ib3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IS9zY3JpcHRzL20tcmVjdW4tYm90L20tcmVjdW4qLnNoCg==</text>
+        <text encoding="base64">ICBtZXJjYXJpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IS9zY3JpcHRzL20tcmVjdW4tYm90LyoK</text>
+        <text encoding="base64">ICBhYWFhYWFhYWFhYWFhYWFhYWFhYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">L3NjcmlwdHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyb3cpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRyb3dbJ3Nob3J0Y29kZSddKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
