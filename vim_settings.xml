@@ -87,12 +87,12 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534411277773">
-        <mark key="'" line="289" column="6" />
-        <mark key="[" line="203" column="49" />
-        <mark key="]" line="203" column="49" />
-        <mark key="." line="203" column="49" />
-        <mark key="^" line="203" column="49" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534411924604">
+        <mark key="'" line="100" column="43" />
+        <mark key="[" line="115" column="30" />
+        <mark key="]" line="115" column="60" />
+        <mark key="." line="115" column="60" />
+        <mark key="^" line="115" column="60" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -543,8 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="21" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="8" column="45" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="355" column="0" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="258" column="25" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="241" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
@@ -643,6 +641,8 @@
       <jump line="55" column="2" filename="$USER_HOME$/Develop/recun/index.js" />
       <jump line="186" column="13" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="288" column="6" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="100" column="43" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -712,7 +712,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>recruiting</text>
+        <text>Async</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmVudnJjCg==</text>
@@ -749,9 +749,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recruiting</last-search>
+      <last-search>Async</last-search>
       <last-offset />
-      <last-pattern>recruiting</last-pattern>
+      <last-pattern>Async</last-pattern>
       <last-replace />
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -759,7 +759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>review</entry>
         <entry>dev</entry>
         <entry encoding="base64">XDxjb250cm9sbGVyXD4=</entry>
         <entry>yui_ta</entry>
@@ -779,6 +778,7 @@
         <entry>GetAsync</entry>
         <entry>SaveAsync</entry>
         <entry>recruiting</entry>
+        <entry>Async</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLycsLy9n</entry>
