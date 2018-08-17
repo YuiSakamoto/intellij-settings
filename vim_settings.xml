@@ -87,12 +87,12 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534473848184">
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534474922365">
         <mark key="'" line="199" column="33" />
-        <mark key="[" line="214" column="28" />
-        <mark key="]" line="214" column="32" />
-        <mark key="." line="214" column="32" />
-        <mark key="^" line="214" column="32" />
+        <mark key="[" line="215" column="14" />
+        <mark key="]" line="215" column="14" />
+        <mark key="^" line="213" column="85" />
+        <mark key="." line="215" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -645,8 +645,8 @@
       <jump line="198" column="33" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29tcGFueSwgbmFtZSB9ID0gdGhpcy5wYXJzZVBvc2l0aW9uKHBvc2l0aW9uKTsKICAgIGNvbnN0IHRlYW1JZCA9IGBza2lsbC10ZXN0OiR7Y29tcGFueX06JHtuYW1lfWA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -709,7 +709,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -718,31 +718,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHsgY29tcGFueSwgbmFtZSB9ID0gdGhpcy5wYXJzZVBvc2l0aW9uKHBvc2l0aW9uKTsKICAgIGNvbnN0IHRlYW1JZCA9IGBza2lsbC10ZXN0OiR7Y29tcGFueX06JHtuYW1lfWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5wcm9ncmVzcy5maWx0ZXIoZWxlbSA9PiBlbGVtLmF0c0lkICE9PSBhdHNJZCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGF0c0lkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5wcm9ncmVzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKHBheWxvYWQpID0+IHRoaXMuc3RvcmFnZVNhdmVBc3luYyhwYXlsb2FkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbigoKSA9PiB0aGlzLnN0b3JhZ2VSZW1vdmVBc3luYygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKHBheWxvYWQpID0+IHRoaXMuc3RvcmFnZVNhdmVBc3luYyhwYXlsb2FkKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbigocmVzKSA9PiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
