@@ -87,12 +87,12 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534474922365">
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534492302391">
         <mark key="'" line="199" column="33" />
-        <mark key="[" line="215" column="14" />
-        <mark key="]" line="215" column="14" />
-        <mark key="^" line="213" column="85" />
-        <mark key="." line="215" column="14" />
+        <mark key="[" line="213" column="81" />
+        <mark key="]" line="214" column="26" />
+        <mark key="^" line="214" column="26" />
+        <mark key="." line="214" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -646,7 +646,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -709,7 +709,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
