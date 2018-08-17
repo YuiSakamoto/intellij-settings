@@ -87,12 +87,12 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534419865316">
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534472559303">
         <mark key="'" line="197" column="33" />
-        <mark key="[" line="213" column="17" />
-        <mark key="]" line="213" column="17" />
-        <mark key="." line="213" column="17" />
-        <mark key="^" line="213" column="18" />
+        <mark key="[" line="211" column="28" />
+        <mark key="]" line="211" column="30" />
+        <mark key="." line="211" column="30" />
+        <mark key="^" line="211" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -715,34 +715,34 @@
         <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHRoaXMuc3RvcmFnZUdldEFzeW5jKHRlYW1JZCkpCiAgICAgICAgICAgICAgICAudGhlbigocmVzKSA9PiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXMuZmlsdGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKHBheWxvYWQpID0+IHRoaXMuc3RvcmFnZVNhdmVBc3luYyhwYXlsb2FkKSkK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbigoKSA9PiB0aGlzLnN0b3JhZ2VSZW1vdmVBc3luYygpKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbigocmVzKSA9PiB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RvcmFnZVJlbW92ZUFzeW5jID0gUHJvbWlzZS5wcm9taXNpZnkoc3RvcmFnZS50ZWFtcy5yZW1vdmUpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKHBheWxvYWQpID0+IHRoaXMuc3RvcmFnZVNhdmVBc3luYyhwYXlsb2FkKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbigoKSA9PiB0aGlzLnN0b3JhZ2VSZW1vdmVBc3luYygpKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgU0xBQ0tfQk9UX0FQSV9UT0tFTiA9IHByb2Nlc3MuZW52LlNMQUNLX0JPVF9BUElfVE9LRU47CmNvbnN0IEdJVEhVQl9BUElfQUNDRVNTX1RPS0VOID0gcHJvY2Vzcy5lbnYuR0lUSFVCX0FQSV9BQ0NFU1NfVE9LRU47CmNvbnN0IEFUU19OQU1FID0gcHJvY2Vzcy5lbnYuQVRTX05BTUU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAudGhlbigocmVzKSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
