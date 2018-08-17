@@ -87,12 +87,12 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534472559303">
-        <mark key="'" line="197" column="33" />
-        <mark key="[" line="211" column="28" />
-        <mark key="]" line="211" column="30" />
-        <mark key="." line="211" column="30" />
-        <mark key="^" line="211" column="30" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534473848184">
+        <mark key="'" line="199" column="33" />
+        <mark key="[" line="214" column="28" />
+        <mark key="]" line="214" column="32" />
+        <mark key="." line="214" column="32" />
+        <mark key="^" line="214" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -645,8 +645,8 @@
       <jump line="198" column="33" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgY29tcGFueSwgbmFtZSB9ID0gdGhpcy5wYXJzZVBvc2l0aW9uKHBvc2l0aW9uKTsKICAgIGNvbnN0IHRlYW1JZCA9IGBza2lsbC10ZXN0OiR7Y29tcGFueX06JHtuYW1lfWA7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -715,7 +715,7 @@
         <text>async</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXMuZmlsdGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgY29tcGFueSwgbmFtZSB9ID0gdGhpcy5wYXJzZVBvc2l0aW9uKHBvc2l0aW9uKTsKICAgIGNvbnN0IHRlYW1JZCA9IGBza2lsbC10ZXN0OiR7Y29tcGFueX06JHtuYW1lfWA7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
