@@ -309,12 +309,12 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yaml" timestamp="1534154952161">
-        <mark key="'" line="15" column="5" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Develop/recun-notif/template.yaml" timestamp="1534746024145">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="30" />
+        <mark key="^" line="26" column="38" />
+        <mark key="." line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/recun-notif/tests/unit/test_handler.js" timestamp="1534063342537">
         <mark key="[" line="2" column="27" />
@@ -645,7 +645,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -708,7 +708,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -717,31 +717,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHsgY29tcGFueSwgbmFtZSB9ID0gdGhpcy5wYXJzZVBvc2l0aW9uKHBvc2l0aW9uKTsKICAgIGNvbnN0IHRlYW1JZCA9IGBza2lsbC10ZXN0OiR7Y29tcGFueX06JHtuYW1lfWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vY2hhbm5lbDogJ0M4UzQ3N1hDWScsIC8vICN0bXAtZW90LXNhbmRib3gK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICA=</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIC8vY2hhbm5lbDogJ0M4UzQ3N1hDWScsIC8vICN0bXAtZW90LXNhbmRib3gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWw6ICdDOFNRMTlEOEInLCAvLyAjdG1wLXl1aV90YW5nLXNhbmRib3gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vcmV0dXJuICdDOFNRMTlEOEInOyAvLyAjdG1wLXl1aV90YW5nLXNhbmRib3gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vcmV0dXJuICdDOFM0NzdYQ1knOyAvLyAjdG1wLWVvdC1zYW5kYm94Cg==</text>
+        <text encoding="base64">ICAgIC8vY2hhbm5lbDogJ0M4UzQ3N1hDWScsIC8vICN0bXAtZW90LXNhbmRib3gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2hhbm5lbDogJyN0bXAteXVpdGFuZy1zYW5kYm94JywK</text>
+        <text encoding="base64">ICAgIGNoYW5uZWw6ICdDOFNRMTlEOEInLCAvLyAjdG1wLXl1aV90YW5nLXNhbmRib3gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy9jaGFubmVsOiAnI3RtcC1lb3Qtc2FuZGJveCcsCg==</text>
+        <text encoding="base64">ICAgIC8vcmV0dXJuICdDOFNRMTlEOEInOyAvLyAjdG1wLXl1aV90YW5nLXNhbmRib3gK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -780,7 +780,6 @@
         <entry>async</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycsLy9n</entry>
         <entry>wp</entry>
         <entry encoding="base64">JXMvXHQvID0+ICcvZw==</entry>
         <entry>%s/$/',/g</entry>
@@ -799,6 +798,7 @@
         <entry encoding="base64">JzwsJz5zL1xuL1xcbi9n</entry>
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
         <entry>W</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
