@@ -111,6 +111,7 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534752378327" />
       <file name="$USER_HOME$/Develop/m-career-wp-content-prd/wp-content/themes/mercari-recruit/functions/JobAPI.php" timestamp="1529998680114">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="15" column="5" />
@@ -339,8 +340,8 @@
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/event.json" timestamp="1534073128999">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Develop/recun-notif/event.json" timestamp="1534752389353">
+        <mark key="'" line="1" column="1829" />
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="12" />
         <mark key="." line="1" column="12" />
@@ -448,6 +449,12 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
+      <file name="$USER_HOME$/Develop/recun-notif/README.md" timestamp="1534751754129">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="8" column="67" />
+        <mark key="^" line="8" column="67" />
+        <mark key="." line="8" column="67" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="61" />
@@ -497,11 +504,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534744539819">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="2" column="4" />
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534752869489">
+        <mark key="[" line="7" column="2" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -590,7 +597,6 @@
       <jump line="23" column="100" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="24" column="89" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="25" column="98" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="26" column="95" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="27" column="86" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="28" column="79" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="29" column="91" filename="$USER_HOME$/Develop/recun-notif/event.json" />
@@ -612,7 +618,6 @@
       <jump line="202" column="8" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="203" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="3" column="3" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="14" column="30" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="181" column="27" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="291" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
@@ -648,10 +653,12 @@
       <jump line="264" column="10" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="198" column="33" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="17" column="2" filename="$USER_HOME$/Develop/recun/index.js" />
+      <jump line="26" column="23" filename="$USER_HOME$/Develop/recun-notif/event.json" />
+      <jump line="1" column="1829" filename="$USER_HOME$/Develop/recun-notif/event.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -714,7 +721,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -725,29 +732,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB9Owo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgICAgICAgCiAgICAgICAgIAogICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJrZXkxIjogInZhbHVlMSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vY2hhbm5lbDogJ0M4UzQ3N1hDWScsIC8vICN0bXAtZW90LXNhbmRib3gK</text>
+        <text encoding="base64">ICAgICJrZXkyIjogInZhbHVlMiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJrZXkzIjogInZhbHVlMyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgcmVzcG9uc2VCb2R5ID0gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vY2hhbm5lbDogJ0M4UzQ3N1hDWScsIC8vICN0bXAtZW90LXNhbmRib3gK</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWw6ICdDOFNRMTlEOEInLCAvLyAjdG1wLXl1aV90YW5nLXNhbmRib3gK</text>
+        <text encoding="base64">ICAgICJrZXkxIjogInZhbHVlMSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vcmV0dXJuICdDOFNRMTlEOEInOyAvLyAjdG1wLXl1aV90YW5nLXNhbmRib3gK</text>
+        <text encoding="base64">ICAgICJrZXkyIjogInZhbHVlMiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
