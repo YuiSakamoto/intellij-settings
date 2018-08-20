@@ -111,7 +111,12 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534752378327" />
+      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534755145520">
+        <mark key="[" line="22" column="302" />
+        <mark key="]" line="22" column="302" />
+        <mark key="." line="22" column="302" />
+        <mark key="^" line="22" column="302" />
+      </file>
       <file name="$USER_HOME$/Develop/m-career-wp-content-prd/wp-content/themes/mercari-recruit/functions/JobAPI.php" timestamp="1529998680114">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="15" column="5" />
@@ -195,7 +200,7 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1534402280511">
+      <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1534754429739">
         <mark key="[" line="34" column="45" />
         <mark key="]" line="34" column="45" />
         <mark key="." line="34" column="45" />
@@ -658,7 +663,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>2a08471df7fac52cb4fe61df1709e4067a583cf0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -721,7 +726,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>2a08471df7fac52cb4fe61df1709e4067a583cf0</text>
       </register>
       <register name="/" type="4">
         <text>async</text>
@@ -810,8 +815,8 @@
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xuL1xcbi9n</entry>
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
-        <entry>W</entry>
         <entry>qw</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
