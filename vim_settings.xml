@@ -509,12 +509,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534775751549">
-        <mark key="'" line="77" column="2" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="76" column="62" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534824279550">
+        <mark key="'" line="60" column="2" />
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="26" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -561,7 +561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="29" filename="$USER_HOME$/Develop/recun-notif/sam-app/event_file.json" />
       <jump line="43" column="29" filename="$USER_HOME$/Develop/recun-notif/sam-app/event_file.json" />
       <jump line="18" column="49" filename="$USER_HOME$/Develop/recun-notif/template.yaml" />
       <jump line="15" column="5" filename="$USER_HOME$/Develop/recun-notif/template.yaml" />
@@ -661,10 +660,11 @@
       <jump line="35" column="8" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="41" column="31" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="72" column="2" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="58" column="2" filename="$USER_HOME$/Develop/recun-notif/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>arn:aws:iam::985052235874:role/lambda_in_house_execution'</text>
+        <text>y</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -727,7 +727,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>arn:aws:iam::985052235874:role/lambda_in_house_execution'</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>org</text>
@@ -736,7 +736,7 @@
         <text encoding="base64">ICAgIC8vIFBvc3QgdG8gc2xhY2sK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
