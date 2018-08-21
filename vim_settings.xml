@@ -510,12 +510,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534831274730">
-        <mark key="'" line="61" column="2" />
-        <mark key="[" line="21" column="81" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534832029555">
+        <mark key="'" line="60" column="2" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -664,8 +664,8 @@
       <jump line="178" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWNyeXB0ZWRUb2tlbik7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -728,7 +728,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>org</text>
@@ -737,28 +737,28 @@
         <text encoding="base64">ICAgIC8vIFBvc3QgdG8gc2xhY2sK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBobWFjID0gY3J5cHRvLmNyZWF0ZUhtYWMoJ3NoYTEnLCBkZWNyeXB0ZWRUb2tlbik7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWNyeXB0ZWRUb2tlbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZWNyeXB0ZWRUb2tlbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBobWFjLnVwZGF0ZShKU09OLnN0cmluZ2lmeShldmVudC5ib2R5KSwgJ3V0ZjgnKTsK</text>
+        <text encoding="base64">ICBjb25zdCBobWFjID0gY3J5cHRvLmNyZWF0ZUhtYWMoJ3NoYTEnLCBkZWNyeXB0ZWRUb2tlbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgeGh1YiA9IHJlcXVpcmUoJ2V4cHJlc3MteC1odWInKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC5oZWFkZXJzKTsK</text>
+        <text encoding="base64">ICBobWFjLnVwZGF0ZShKU09OLnN0cmluZ2lmeShldmVudC5ib2R5KSwgJ3V0ZjgnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgeGh1YiA9IHJlcXVpcmUoJ2V4cHJlc3MteC1odWInKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC5oZWFkZXJzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
