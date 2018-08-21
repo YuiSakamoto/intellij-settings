@@ -510,11 +510,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534853285203">
-        <mark key="'" line="60" column="2" />
-        <mark key="[" line="21" column="21" />
-        <mark key="]" line="21" column="21" />
-        <mark key="." line="21" column="21" />
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534855571488">
+        <mark key="'" line="108" column="1" />
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -561,8 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="8" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="157" column="12" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="163" column="12" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="197" column="12" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
@@ -661,10 +660,12 @@
       <jump line="6" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="174" column="3" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="178" column="3" filename="$USER_HOME$/Develop/recun-notif/event.json" />
+      <jump line="22" column="49" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="107" column="1" filename="$USER_HOME$/Develop/recun-notif/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>T</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -727,10 +728,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>org</text>
+        <text>decrypted</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJzdGF0dXNDb2RlIjogMjAwLAogICAgImhlYWRlcnMiOiB7fSwKICAgICJib2R5IjogSlNPTi5zdHJpbmdpZnkoewogICAgICAibWVzc2FnZSI6ICJOb3RoaW5nIHRvIGRvLiIKICAgIH0pLAogICAgImlzQmFzZTY0RW5jb2RlZCI6IGZhbHNlCg==</text>
@@ -767,9 +768,9 @@
       </register>
     </registers>
     <search>
-      <last-search>org</last-search>
+      <last-search>decrypted</last-search>
       <last-offset />
-      <last-pattern>org</last-pattern>
+      <last-pattern>decrypted</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -777,7 +778,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Hello</entry>
         <entry>app</entry>
         <entry>\&quot;</entry>
         <entry>&quot;</entry>
@@ -797,6 +797,7 @@
         <entry>'</entry>
         <entry>url</entry>
         <entry>org</entry>
+        <entry>decrypted</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXHQvID0+ICcvZw==</entry>
@@ -817,8 +818,8 @@
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
