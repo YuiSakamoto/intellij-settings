@@ -510,12 +510,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534855571488">
-        <mark key="'" line="108" column="1" />
-        <mark key="[" line="42" column="30" />
-        <mark key="]" line="42" column="30" />
-        <mark key="." line="42" column="30" />
-        <mark key="^" line="42" column="30" />
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534862515479">
+        <mark key="[" line="114" column="36" />
+        <mark key="]" line="114" column="42" />
+        <mark key="." line="114" column="42" />
+        <mark key="^" line="114" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -562,19 +561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="12" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="197" column="12" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="4" column="84" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="5" column="86" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="7" column="102" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="8" column="98" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="9" column="79" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="10" column="17" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="11" column="52" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="12" column="21" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="13" column="59" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="14" column="19" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="15" column="40" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="16" column="21" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="17" column="52" filename="$USER_HOME$/Develop/recun-notif/event.json" />
@@ -650,9 +636,7 @@
       <jump line="134" column="17" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="4" column="21" filename="$USER_HOME$/Develop/recun-notif/index.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="35" column="8" filename="$USER_HOME$/Develop/recun-notif/index.js" />
-      <jump line="41" column="31" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="72" column="2" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="58" column="2" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="22" column="301" filename="$USER_HOME$/Develop/recun-notif/template.yml" />
@@ -660,12 +644,27 @@
       <jump line="6" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="174" column="3" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="178" column="3" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="22" column="49" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="107" column="1" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="65" column="40" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="51" column="41" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="41" column="2" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="42" column="2" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="43" column="2" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="21" column="4" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="133" column="23" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="38" column="24" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="39" column="13" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="40" column="18" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="70" column="15" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="79" column="13" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="109" column="13" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="97" column="10" filename="$USER_HOME$/Develop/recun-notif/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -728,49 +727,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>decrypted</text>
+        <text>event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGF0dXNDb2RlIjogMjAwLAogICAgImhlYWRlcnMiOiB7fSwKICAgICJib2R5IjogSlNPTi5zdHJpbmdpZnkoewogICAgICAibWVzc2FnZSI6ICJOb3RoaW5nIHRvIGRvLiIKICAgIH0pLAogICAgImlzQmFzZTY0RW5jb2RlZCI6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZXJyb3InKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJpc0Jhc2U2NEVuY29kZWQiOiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJib2R5IjogSlNPTi5zdHJpbmdpZnkoYm9keSksCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXV0aG9yaXplZC4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJoZWFkZXJzIjoge30sCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdxdWVzdGlvbi4nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzdGF0dXNDb2RlIjogMjAwLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAog</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7CiAgICAic3RhdHVzQ29kZSI6IDIwMCwKICAgICJoZWFkZXJzIjoge30sCiAgICAiYm9keSI6IEpTT04uc3RyaW5naWZ5KHBheWxvYWQpLAogICAgImlzQmFzZTY0RW5jb2RlZCI6IGZhbHNlCiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlbmQuJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIm1lc3NhZ2UiOiBKU09OLnN0cmluZ2lmeSgpCg==</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>decrypted</last-search>
+      <last-search>event</last-search>
       <last-offset />
-      <last-pattern>decrypted</last-pattern>
+      <last-pattern>event</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -778,10 +777,6 @@
     </search>
     <history>
       <history-search>
-        <entry>app</entry>
-        <entry>\&quot;</entry>
-        <entry>&quot;</entry>
-        <entry>\n</entry>
         <entry>\\n</entry>
         <entry>rd</entry>
         <entry>evn</entry>
@@ -798,6 +793,10 @@
         <entry>url</entry>
         <entry>org</entry>
         <entry>decrypted</entry>
+        <entry>login</entry>
+        <entry>done</entry>
+        <entry>console.log</entry>
+        <entry>event</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvXHQvID0+ICcvZw==</entry>
@@ -818,8 +817,8 @@
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
