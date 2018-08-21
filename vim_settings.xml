@@ -111,11 +111,11 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534775328634">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
+      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534821116611">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+        <mark key="." line="13" column="74" />
       </file>
       <file name="$USER_HOME$/Develop/m-career-wp-content-prd/wp-content/themes/mercari-recruit/functions/JobAPI.php" timestamp="1529998680114">
         <mark key="[" line="14" column="3" />
@@ -663,8 +663,8 @@
       <jump line="72" column="2" filename="$USER_HOME$/Develop/recun-notif/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>arn:aws:iam::985052235874:role/lambda_in_house_execution'</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -727,7 +727,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>arn:aws:iam::985052235874:role/lambda_in_house_execution'</text>
       </register>
       <register name="/" type="4">
         <text>org</text>
