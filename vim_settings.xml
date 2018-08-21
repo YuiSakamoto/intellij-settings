@@ -510,12 +510,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534829532061">
-        <mark key="'" line="60" column="2" />
-        <mark key="[" line="78" column="63" />
-        <mark key="]" line="78" column="66" />
-        <mark key="." line="78" column="66" />
-        <mark key="^" line="78" column="66" />
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534830629279">
+        <mark key="'" line="61" column="2" />
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="13" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -665,7 +665,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -728,7 +728,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>org</text>
@@ -818,8 +818,8 @@
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
