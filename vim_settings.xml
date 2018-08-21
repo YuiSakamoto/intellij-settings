@@ -111,12 +111,12 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534825360404">
+      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534834876507">
         <mark key="'" line="22" column="301" />
         <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="301" />
-        <mark key="^" line="22" column="301" />
-        <mark key="." line="22" column="301" />
+        <mark key="]" line="22" column="286" />
+        <mark key="^" line="22" column="286" />
+        <mark key="." line="22" column="286" />
       </file>
       <file name="$USER_HOME$/Develop/m-career-wp-content-prd/wp-content/themes/mercari-recruit/functions/JobAPI.php" timestamp="1529998680114">
         <mark key="[" line="14" column="3" />
@@ -346,12 +346,11 @@
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/event.json" timestamp="1534833188629">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="221" column="70" />
-        <mark key="]" line="221" column="70" />
-        <mark key="^" line="221" column="70" />
-        <mark key="." line="221" column="70" />
+      <file name="$USER_HOME$/Develop/recun-notif/event.json" timestamp="1534835209756">
+        <mark key="[" line="221" column="24" />
+        <mark key="]" line="221" column="68" />
+        <mark key="^" line="221" column="68" />
+        <mark key="." line="221" column="68" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/mp-ios.md.ejs" timestamp="1533646486212">
         <mark key="[" line="2" column="0" />
@@ -665,7 +664,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>8</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -728,7 +727,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>org</text>
