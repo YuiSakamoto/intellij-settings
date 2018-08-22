@@ -88,7 +88,6 @@
         <mark key="^" line="1" column="80" />
       </file>
       <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534493089480">
-        <mark key="'" line="199" column="33" />
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="4" />
         <mark key="." line="18" column="4" />
@@ -455,11 +454,11 @@
         <mark key="." line="23" column="34" />
         <mark key="^" line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/README.md" timestamp="1534751754129">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="8" column="67" />
-        <mark key="^" line="8" column="67" />
-        <mark key="." line="8" column="67" />
+      <file name="$USER_HOME$/Develop/recun-notif/README.md" timestamp="1534918655310">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="80" />
+        <mark key="." line="10" column="80" />
+        <mark key="^" line="10" column="80" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
         <mark key="[" line="16" column="25" />
@@ -510,12 +509,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534907403822">
-        <mark key="'" line="92" column="41" />
-        <mark key="[" line="72" column="22" />
-        <mark key="]" line="72" column="19" />
-        <mark key="^" line="72" column="19" />
-        <mark key="." line="72" column="19" />
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534917483989">
+        <mark key="'" line="102" column="41" />
+        <mark key="[" line="126" column="114" />
+        <mark key="]" line="126" column="128" />
+        <mark key="." line="126" column="128" />
+        <mark key="^" line="126" column="128" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -524,10 +523,10 @@
         <mark key="^" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1534149883657">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="16" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -540,13 +539,6 @@
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/index.js" timestamp="1534493172778">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="4" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
         <mark key="[" line="26" column="51" />
@@ -665,7 +657,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>]</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -728,40 +720,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>nothing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwsIHJlc3BvbnNlRXJyb3JQb3N0ZWRUb1NsYWNrKTsK</text>
+        <text encoding="base64">ICAgICAgLy8gU29tZXRoaW5nIGhhcHBlbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBvc3RFcnJvclRvU2xhY2soKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBvc3RFcnJvclRvU2xhY2soKTsK</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1Y2Nlc3NmdWxseVBvc3RlZFRvU2xhY2soKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3VjY2Vzc2Z1bGx5UG9zdGVkVG9TbGFjaygpOwo=</text>
+        <text encoding="base64">cGlwIGluc3RhbGwgLS11c2VyIGF3cy1zYW0tY2xpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3VjY2Vzc2Z1bGx5UG9zdGVkVG9TbGFjaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobGFiZWwubmFtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIC8vIEVycm9yCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiaXNCYXNlNjRFbmNvZGVkIjogZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KSwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
