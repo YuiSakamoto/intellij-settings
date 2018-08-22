@@ -242,7 +242,7 @@
         <mark key="^" line="11" column="113" />
         <mark key="." line="11" column="113" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/skill-test-templates/NOTE.md.ejs" timestamp="1534920189310">
+      <file name="$USER_HOME$/Develop/recun/skill-test-templates/NOTE.md.ejs" timestamp="1534921230489">
         <mark key="[" line="8" column="69" />
         <mark key="]" line="8" column="70" />
         <mark key="^" line="8" column="70" />
@@ -528,11 +528,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1534149883657">
-        <mark key="[" line="15" column="9" />
-        <mark key="]" line="15" column="16" />
-        <mark key="^" line="15" column="16" />
-        <mark key="." line="15" column="16" />
+      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1534921562222">
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -663,7 +663,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -726,7 +726,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>nothing</text>
@@ -816,8 +816,8 @@
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
