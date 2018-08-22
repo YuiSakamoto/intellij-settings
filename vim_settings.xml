@@ -515,11 +515,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534932302909">
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534936555065">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="116" column="106" />
+        <mark key="]" line="116" column="114" />
+        <mark key="." line="116" column="114" />
+        <mark key="^" line="116" column="114" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
