@@ -515,12 +515,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534928928210">
-        <mark key="'" line="67" column="3" />
-        <mark key="[" line="125" column="30" />
-        <mark key="]" line="125" column="30" />
-        <mark key="." line="125" column="30" />
-        <mark key="^" line="125" column="30" />
+      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534932302909">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -560,10 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="89" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="25" column="98" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="27" column="86" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="28" column="79" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="29" column="91" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="30" column="99" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="31" column="33" filename="$USER_HOME$/Develop/recun-notif/event.json" />
@@ -660,10 +655,14 @@
       <jump line="178" column="3" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="157" column="1" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="66" column="3" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="111" column="6" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="142" column="17" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/Develop/recun-notif/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb250ZXh0LmNhbGxiYWNrV2FpdHNGb3JFbXB0eUV2ZW50TG9vcCA9IGZhbHNlOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -726,59 +725,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>is coming</text>
+        <text encoding="base64">IGNhbGxiYWNrKA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDb21tZW50IGlzIHBvc3RlZC4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScpOwo=</text>
+        <text encoding="base64">ICBjb250ZXh0LmNhbGxiYWNrV2FpdHNGb3JFbXB0eUV2ZW50TG9vcCA9IGZhbHNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMicpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMicpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlcnJvcikgewo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VybmFtZSk7Cg==</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlcnJvcikgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VybmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>is coming</last-search>
+      <last-search encoding="base64">IGNhbGxiYWNrKA==</last-search>
       <last-offset />
-      <last-pattern>is coming</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern encoding="base64">IGNhbGxiYWNrKA==</last-pattern>
+      <last-replace encoding="base64">IHJldHVybiBjYWxsYmFjayg=</last-replace>
+      <last-substitute encoding="base64">IGNhbGxiYWNrKA==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>evn</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry>redis</entry>
         <entry>storage</entry>
         <entry>GetAsync</entry>
         <entry>SaveAsync</entry>
@@ -796,11 +792,11 @@
         <entry>event</entry>
         <entry>nothing</entry>
         <entry>is coming</entry>
+        <entry>donec</entry>
+        <entry encoding="base64">IGNhbGxiYWNrXCg=</entry>
+        <entry encoding="base64">IGNhbGxiYWNrKA==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JXMvXHQvID0+ICcvZw==</entry>
-        <entry>%s/$/',/g</entry>
-        <entry encoding="base64">JzwsJz5zL1x0LycsXG4nXC9n</entry>
         <entry encoding="base64">JzwsJz5zL1x0LycsJ1wvZw==</entry>
         <entry encoding="base64">JXMvLC8gPT4gbnVsbCwvZw==</entry>
         <entry>%s/applied/sourced/g</entry>
@@ -816,7 +812,10 @@
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
+        <entry>%s/ callback\(/ await callback(/g</entry>
+        <entry>%s/ callback(/ await callback(/g</entry>
         <entry>W</entry>
+        <entry>%s/ callback(/ return callback(/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
