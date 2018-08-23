@@ -51,6 +51,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/recun/skill-test-templates/mercari/android-template/.circleci/config.yml" timestamp="1535017991106">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/workable_transition/.gitignore" timestamp="1532333631753">
         <mark key="[" line="7" column="5" />
         <mark key="]" line="8" column="21" />
@@ -663,7 +669,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>#</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -726,40 +732,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGNhbGxiYWNrKA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdDb21tZW50IGlzIHBvc3RlZC4nKTsK</text>
+        <text encoding="base64">I2N1cmwgLVggUE9TVCAtSCAnWC1SdW5kZWNrLUF1dGgtVG9rZW46IDRqTVB1dGNWOWZid1VlTmdCSFprV0lZN0xtWDlLYkN1JyAiaHR0cDovL3J1bmRlY2subWVyY2FyaS5pbjo0NDQwL2FwaS8xMi9qb2IvZDA3NjViZTItZWI0OC00NmMwLTk1NWMtZjNjZDlhM2ZmNTdkL2V4ZWN1dGlvbnMiCiNjdXJsIC1YIFBPU1QgLUggJ1gtUnVuZGVjay1BdXRoLVRva2VuOiA0ak1QdXRjVjlmYndVZU5nQkhaa1dJWTdMbVg5S2JDdScgImh0dHA6Ly9ydW5kZWNrLm1lcmNhcmkuaW46NDQ0MC9hcGkvMTIvam9iLzhkMTliN2VlLWIyNjItNDIxZC1iN2E2LWMyYmE2MTYxNmM5NC9leGVjdXRpb25zIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb250ZXh0LmNhbGxiYWNrV2FpdHNGb3JFbXB0eUV2ZW50TG9vcCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiaGVsbG8iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBidWlsZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcXVpcmVzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnMScpOwo=</text>
+        <text encoding="base64">ICAgICAgLSBkZXBsb3lfZG9jOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgLSBydW46Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlcnJvcikgewo=</text>
+        <text encoding="base64">ICAgICAgLSBydW46Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VybmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -815,8 +821,8 @@
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>%s/ callback\(/ await callback(/g</entry>
         <entry>%s/ callback(/ await callback(/g</entry>
-        <entry>W</entry>
         <entry>%s/ callback(/ return callback(/g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
