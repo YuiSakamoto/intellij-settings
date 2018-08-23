@@ -242,11 +242,11 @@
         <mark key="^" line="11" column="113" />
         <mark key="." line="11" column="113" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/skill-test-templates/NOTE.md.ejs" timestamp="1534921230489">
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="8" column="70" />
-        <mark key="^" line="8" column="70" />
-        <mark key="." line="8" column="70" />
+      <file name="$USER_HOME$/Develop/recun/skill-test-templates/NOTE.md.ejs" timestamp="1535005903304">
+        <mark key="[" line="31" column="125" />
+        <mark key="]" line="31" column="125" />
+        <mark key="^" line="32" column="62" />
+        <mark key="." line="31" column="125" />
       </file>
       <file name="$USER_HOME$/Develop/recun-deploy/scripts/m-recun-bot/m-recun-workable-deploy.sh" timestamp="1534317726424">
         <mark key="[" line="7" column="62" />
@@ -662,8 +662,8 @@
       <jump line="26" column="0" filename="$USER_HOME$/Develop/recun-notif/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb250ZXh0LmNhbGxiYWNrV2FpdHNGb3JFbXB0eUV2ZW50TG9vcCA9IGZhbHNlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -726,7 +726,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGNhbGxiYWNrKA==</text>
