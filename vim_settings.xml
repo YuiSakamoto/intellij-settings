@@ -110,6 +110,9 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/presentations/webpack.prod.js" timestamp="1535097051933">
+        <mark key="'" line="17" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/transit_talentpool.php" timestamp="1532422812256">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -566,7 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="91" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="30" column="99" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="31" column="33" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="32" column="29" filename="$USER_HOME$/Develop/recun-notif/event.json" />
@@ -666,10 +668,11 @@
       <jump line="111" column="6" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="142" column="17" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="17" column="1" filename="$USER_HOME$/Develop/presentations/webpack.prod.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>&quot;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -732,34 +735,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IGNhbGxiYWNrKA==</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2N1cmwgLVggUE9TVCAtSCAnWC1SdW5kZWNrLUF1dGgtVG9rZW46IDRqTVB1dGNWOWZid1VlTmdCSFprV0lZN0xtWDlLYkN1JyAiaHR0cDovL3J1bmRlY2subWVyY2FyaS5pbjo0NDQwL2FwaS8xMi9qb2IvZDA3NjViZTItZWI0OC00NmMwLTk1NWMtZjNjZDlhM2ZmNTdkL2V4ZWN1dGlvbnMiCiNjdXJsIC1YIFBPU1QgLUggJ1gtUnVuZGVjay1BdXRoLVRva2VuOiA0ak1QdXRjVjlmYndVZU5nQkhaa1dJWTdMbVg5S2JDdScgImh0dHA6Ly9ydW5kZWNrLm1lcmNhcmkuaW46NDQ0MC9hcGkvMTIvam9iLzhkMTliN2VlLWIyNjItNDIxZC1iN2E2LWMyYmE2MTYxNmM5NC9leGVjdXRpb25zIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiaGVsbG8iCg==</text>
+        <text encoding="base64">ICAgIEMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiaGVsbG8iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBidWlsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcXVpcmVzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBidWlsZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBkZXBsb3lfZG9jOgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcXVpcmVzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46Cg==</text>
+        <text encoding="base64">ICAgICAgLSBkZXBsb3lfZG9jOgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgLSBydW46Cg==</text>
@@ -772,9 +775,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IGNhbGxiYWNrKA==</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IGNhbGxiYWNrKA==</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-replace encoding="base64">IHJldHVybiBjYWxsYmFjayg=</last-replace>
       <last-substitute encoding="base64">IGNhbGxiYWNrKA==</last-substitute>
       <last-dir>1</last-dir>
@@ -782,7 +785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>storage</entry>
         <entry>GetAsync</entry>
         <entry>SaveAsync</entry>
         <entry>recruiting</entry>
@@ -802,6 +804,7 @@
         <entry>donec</entry>
         <entry encoding="base64">IGNhbGxiYWNrXCg=</entry>
         <entry encoding="base64">IGNhbGxiYWNrKA==</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1x0LycsJ1wvZw==</entry>
