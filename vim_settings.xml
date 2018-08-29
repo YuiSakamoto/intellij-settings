@@ -232,12 +232,6 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/config.php" timestamp="1534314674007">
-        <mark key="[" line="5" column="5" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="14" />
-      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/m-ios.md.ejs" timestamp="1533646462395">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="20" />
@@ -336,11 +330,6 @@
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534493089480">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="4" />
-      </file>
       <file name="$USER_HOME$/Develop/presentations/webpack.prod.js" timestamp="1535097795633">
         <mark key="'" line="88" column="17" />
         <mark key="[" line="84" column="2" />
@@ -360,11 +349,8 @@
         <mark key="." line="194" column="0" />
         <mark key="^" line="212" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/README.md" timestamp="1532342980893">
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="53" />
-        <mark key="." line="24" column="53" />
-        <mark key="^" line="24" column="53" />
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/README.md" timestamp="1535534894277">
+        <mark key="[" line="3" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/app.tsx" timestamp="1519750093237">
         <mark key="[" line="3" column="0" />
@@ -377,11 +363,6 @@
         <mark key="]" line="101" column="32" />
         <mark key="." line="101" column="32" />
         <mark key="^" line="101" column="32" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/.gitignore" timestamp="1534322516357">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1534754429739">
         <mark key="[" line="34" column="45" />
@@ -412,12 +393,6 @@
         <mark key="]" line="31" column="125" />
         <mark key="^" line="32" column="62" />
         <mark key="." line="31" column="125" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/bin/update_jobs.php" timestamp="1535533496653">
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="39" column="38" />
-        <mark key="." line="39" column="38" />
-        <mark key="^" line="43" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/src/index.ejs" timestamp="1535097323889">
         <mark key="[" line="0" column="0" />
@@ -468,11 +443,6 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/docker-compose.yml" timestamp="1534387298163">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-      </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/Footer.tsx" timestamp="1519795973907">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="50" />
@@ -491,7 +461,7 @@
         <mark key="^" line="13" column="44" />
         <mark key="." line="13" column="44" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/credentials.php" timestamp="1535532610933">
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/credentials.php" timestamp="1535534678792">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="27" />
         <mark key="." line="4" column="27" />
@@ -680,7 +650,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIOODkOODvOOCuOODp+ODs+aMh+WumuOBryB2MyDjgaflv4XpoIjjgavjgarjgaPjgZ8=</text>
+        <text>r</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -872,7 +842,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIOODkOODvOOCuOODp+ODs+aMh+WumuOBryB2MyDjgaflv4XpoIjjgavjgarjgaPjgZ8=</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>CD6898BA61</text>
@@ -881,31 +851,31 @@
         <text encoding="base64">ZGVmaW5lKCdXT1JLQUJMRV9BQ0NFU1NfVE9LRU4nLCAnZDViZGZmYTI1OWIyOWVmZTdiNjBjYWU3ZmYxOGYzN2FlMGU2NGM4NTE4YmU5NmJhMWY5NjY0M2Y4MDY5MDRlNicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGludmFsaWRhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKENBQ0hFX0ZJTEVfUEFUSCwgJGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRwcmV2X3JlcyAhPT0gJGJvZHkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEF3c1xDbG91ZEZyb250XENsb3VkRnJvbnRDbGllbnQ7Cg==</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRwcmV2X3JlcyAhPT0gJGJvZHkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIEF3c1xFYzJcRWMyQ2xpZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGludmFsaWRhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAiaGVsbG8iCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlX3B1dF9jb250ZW50cyhDQUNIRV9GSUxFX1BBVEgsICRib2R5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGludmFsaWRhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6Cg==</text>
+        <text encoding="base64">ICAgIGZpbGVfcHV0X2NvbnRlbnRzKENBQ0hFX0ZJTEVfUEFUSCwgJGJvZHkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
