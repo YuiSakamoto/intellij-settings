@@ -69,6 +69,13 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" timestamp="1535611845781">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/transit_talentpool.php" timestamp="1532422812256">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
@@ -105,6 +112,12 @@
         <mark key="]" line="3" column="91" />
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="91" />
+      </file>
+      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1535611990864">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-frontend.md.ejs" timestamp="1533646502235">
         <mark key="[" line="2" column="0" />
@@ -298,6 +311,19 @@
         <mark key="]" line="22" column="16" />
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" timestamp="1535611852637">
+        <mark key="'" line="9" column="27" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slide.js" timestamp="1535612037325">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+        <mark key="^" line="9" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/index.tsx" timestamp="1519794653093">
         <mark key="[" line="8" column="30" />
@@ -562,11 +588,23 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/presentations/presentations.txt" timestamp="1535609637517">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="68" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
         <mark key="[" line="26" column="51" />
         <mark key="]" line="26" column="59" />
         <mark key="^" line="26" column="59" />
         <mark key="." line="26" column="59" />
+      </file>
+      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slides.js" timestamp="1535610723794">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/bin/scraping_presentations.js" timestamp="1535607504792">
         <mark key="[" line="4" column="7" />
@@ -582,9 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="200" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="211" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="205" column="6" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="207" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="202" column="8" filename="$USER_HOME$/Develop/recun-notif/event.json" />
@@ -682,10 +717,13 @@
       <jump line="77" column="13" filename="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" />
       <jump line="157" column="18" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="47" column="45" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/template-parts/header.php" />
+      <jump line="3" column="27" filename="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.constructor.name;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -877,57 +915,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.constructor.name;</text>
       </register>
       <register name="/" type="4">
-        <text>CD6898BA61</text>
+        <text>SlideShare</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSBfX0RJUl9fIC4gJy8uLi92ZW5kb3IvYXV0b2xvYWQucGhwJzsK</text>
+        <text encoding="base64">ICB0eXBlID0gc2xpZGVfc2hhcmUuZGV0ZWN0VHlwZUJ5RG9tYWluKGlucHV0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobmV3IFNsaWRlU2hhcmUoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gc29ydCAmIGNyZWF0ZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvbGlkZVNoYXJlLmRldGVjdEJ5RG9tYWluKGlucHV0KSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ2hvZ2UnKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJ2hvZ2UnKTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGUgPSAnc2xpZGVzaGFyZSc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRwcmV2X3JlcyAhPT0gJGJvZHkpOwo=</text>
+        <text encoding="base64">ICBpZiAoaW5wdXQuaW5kZXhPZihzbGlkZXNoYXJlX2RvbWFpbikgPT09IDApIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRwcmV2X3JlcyAhPT0gJGJvZHkpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR5cGUgPSAnc3BlYWtlcmRlY2snOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBpZiAobmRleE9mKHNwZWFrZXJkZWNrX2RvbWFpbikgPT09IDApIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CD6898BA61</last-search>
+      <last-search>SlideShare</last-search>
       <last-offset />
-      <last-pattern>CD6898BA61</last-pattern>
-      <last-replace encoding="base64">IHJldHVybiBjYWxsYmFjayg=</last-replace>
-      <last-substitute encoding="base64">IGNhbGxiYWNrKA==</last-substitute>
+      <last-pattern>SlideShare</last-pattern>
+      <last-replace>SpeakerDeck</last-replace>
+      <last-substitute>SlideShare</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>recruiting</entry>
         <entry>Async</entry>
         <entry>review</entry>
         <entry>async</entry>
@@ -947,9 +984,9 @@
         <entry>index</entry>
         <entry>src</entry>
         <entry>CD6898BA61</entry>
+        <entry>SlideShare</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1x0LycsJ1wvZw==</entry>
         <entry encoding="base64">JXMvLC8gPT4gbnVsbCwvZw==</entry>
         <entry>%s/applied/sourced/g</entry>
         <entry>%s/WorkableCandidate/WorkableTalentpool/g</entry>
@@ -967,6 +1004,7 @@
         <entry>%s/ callback\(/ await callback(/g</entry>
         <entry>%s/ callback(/ await callback(/g</entry>
         <entry>%s/ callback(/ return callback(/g</entry>
+        <entry>%s/SlideShare/SpeakerDeck/g</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
