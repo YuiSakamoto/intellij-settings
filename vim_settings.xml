@@ -69,12 +69,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" timestamp="1535617251097">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="8" column="47" />
-        <mark key="]" line="8" column="63" />
-        <mark key="^" line="8" column="63" />
-        <mark key="." line="8" column="63" />
+      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" timestamp="1535620162274">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/transit_talentpool.php" timestamp="1532422812256">
         <mark key="[" line="109" column="0" />
@@ -113,12 +112,12 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1535617296664">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="35" column="26" />
-        <mark key="." line="35" column="26" />
-        <mark key="^" line="35" column="26" />
+      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1535620508095">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="26" column="10" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-frontend.md.ejs" timestamp="1533646502235">
         <mark key="[" line="2" column="0" />
@@ -312,18 +311,18 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" timestamp="1535611852637">
-        <mark key="'" line="9" column="27" />
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" timestamp="1535619798997">
+        <mark key="'" line="7" column="102" />
+        <mark key="[" line="14" column="76" />
+        <mark key="]" line="14" column="76" />
+        <mark key="." line="14" column="76" />
+        <mark key="^" line="14" column="76" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slide.js" timestamp="1535617170284">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="12" column="2" />
+      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slide.js" timestamp="1535618728907">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/index.tsx" timestamp="1519794653093">
         <mark key="[" line="8" column="30" />
@@ -620,8 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="0" filename="$USER_HOME$/Develop/recun-notif/event.json" />
-      <jump line="3" column="3" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="14" column="30" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="181" column="27" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="291" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
@@ -720,10 +717,12 @@
       <jump line="7" column="37" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="15" column="17" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" />
+      <jump line="7" column="102" filename="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGJyb3dzZXIgPSBhd2FpdCBwdXBwZXRlZXIubGF1bmNoKHthcmdzOiBbJy0tbGFuZz1qYSxlbi1VUyxlbiddfSkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -915,57 +914,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>;$</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpZiAoU2xpZGVTaGFyZS5pc1RoaXNUeXBlT2ZTbGlkZShpbnB1dCkpIHsKICAgIHR5cGUgPSBTbGlkZVNoYXJlLmNvbnN0cnVjdG9yLm5hbWU7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJyb3dzZXIgPSBhd2FpdCBwdXBwZXRlZXIubGF1bmNoKHthcmdzOiBbJy0tbGFuZz1qYSxlbi1VUyxlbiddfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHR5cGUucGFnZSA9IHBhZ2U7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJyb3dzZXIgPSBhd2FpdCBwdXBwZXRlZXIubGF1bmNoKHthcmdzOiBbJy0tbGFuZz1qYSxlbi1VUyxlbiddfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNsaWRlX2luZm8pOwo=</text>
+        <text encoding="base64">ICAgIGJyb3dzZXIuY2xvc2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzXQo=</text>
+        <text encoding="base64">ICAgIHBhZ2Uud2FpdEZvck5hdmlnYXRpb24oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzbGlkZV9pbmZvKTsK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzbGlkZV9pbmZvKTsK</text>
+        <text encoding="base64">ICAgICAgLy9yZXR1cm4gdHlwZS5waWNrSW1hZ2VVcmwoZWxlbWVudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlLmNvbnN0cnVjdG9yLm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgLy9yZXR1cm4gdHlwZS5waWNrSW1hZ2VVcmwoZWxlbWVudCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>;$</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
-      <last-replace>;</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>;$</last-pattern>
+      <last-replace />
+      <last-substitute>;$</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'</entry>
         <entry>url</entry>
         <entry>org</entry>
         <entry>decrypted</entry>
@@ -985,9 +983,9 @@
         <entry>;</entry>
         <entry encoding="base64">Jg==</entry>
         <entry>$</entry>
+        <entry>;$</entry>
       </history-search>
       <history-cmd>
-        <entry>Q</entry>
         <entry>%s/talentioId/atsCandidateId/g</entry>
         <entry>%s/talentio/ats/g</entry>
         <entry encoding="base64">JzwsJz5zL1wiL1wiL2c=</entry>
@@ -1002,10 +1000,11 @@
         <entry>%s/ callback(/ await callback(/g</entry>
         <entry>%s/ callback(/ return callback(/g</entry>
         <entry>%s/SlideShare/SpeakerDeck/g</entry>
-        <entry>W</entry>
         <entry>%s/;//g</entry>
         <entry encoding="base64">JXMvJi87L2c=</entry>
         <entry>%s/$/;/g</entry>
+        <entry>%s/;$//g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
