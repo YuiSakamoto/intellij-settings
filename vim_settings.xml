@@ -89,6 +89,12 @@
         <mark key="^" line="22" column="286" />
         <mark key="." line="22" column="286" />
       </file>
+      <file name="$USER_HOME$/Develop/presentations/node_modules/puppeteer/lib/Connection.js" timestamp="1535958919160">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/m-career-wp-content-prd/wp-content/themes/mercari-recruit/functions/JobAPI.php" timestamp="1529998680114">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="15" column="5" />
@@ -113,11 +119,12 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1535634253527">
-        <mark key="[" line="48" column="2" />
-        <mark key="]" line="48" column="3" />
-        <mark key="." line="48" column="3" />
-        <mark key="^" line="48" column="3" />
+      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1535959803390">
+        <mark key="'" line="6" column="15" />
+        <mark key="[" line="54" column="40" />
+        <mark key="]" line="54" column="40" />
+        <mark key="^" line="54" column="40" />
+        <mark key="." line="54" column="40" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-frontend.md.ejs" timestamp="1533646502235">
         <mark key="[" line="2" column="0" />
@@ -239,6 +246,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="0" column="29" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/footer.php" timestamp="1534396570864">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/header.php" timestamp="1535537813529">
         <mark key="[" line="19" column="77" />
@@ -593,10 +606,9 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/presentations.txt" timestamp="1535617345736">
+      <file name="$USER_HOME$/Develop/presentations/presentations.txt" timestamp="1535959326884">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="68" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
@@ -625,9 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="172" column="17" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
-      <jump line="33" column="16" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-corporate/themes/mercari-corporate/inc/config.php" />
       <jump line="45" column="30" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="170" column="38" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="82" column="16" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
@@ -719,16 +728,19 @@
       <jump line="4" column="0" filename="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="7" column="37" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
-      <jump line="15" column="17" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" />
       <jump line="7" column="102" filename="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="44" column="9" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
+      <jump line="20" column="3" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
+      <jump line="15" column="3" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/Develop/presentations/node_modules/puppeteer/lib/Connection.js" />
+      <jump line="6" column="15" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -920,49 +932,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>;$</text>
+        <text>await</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBwYWdlID0gYXdhaXQgYnJvd3Nlci5uZXdQYWdlKCkKICBhd2FpdCBwYWdlLmdvdG8oaW5wdXQpCiAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIGxldCB0eXBlID0gbnVsbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JCBjZCB0aGVtZXMvbWVyY2FyaS1yZWNydWl0CiQgcGhwIGNvbXBvc2VyLnBoYXIgaW5zdGFsbAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtb21lbnQpOwo=</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9tZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSkoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGFzeW5jICgpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIChhc3luYyAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb21lbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSkoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhtb21lbnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codXJsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzbGlkZV9pbmZvcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KS5vbignZW5kJywgKCkgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>;$</last-search>
+      <last-search>await</last-search>
       <last-offset />
-      <last-pattern>;$</last-pattern>
+      <last-pattern>await</last-pattern>
       <last-replace />
       <last-substitute>;$</last-substitute>
       <last-dir>1</last-dir>
@@ -970,7 +982,6 @@
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry>org</entry>
         <entry>decrypted</entry>
         <entry>login</entry>
@@ -990,6 +1001,7 @@
         <entry encoding="base64">Jg==</entry>
         <entry>$</entry>
         <entry>;$</entry>
+        <entry>await</entry>
       </history-search>
       <history-cmd>
         <entry>%s/talentioId/atsCandidateId/g</entry>
