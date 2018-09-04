@@ -82,13 +82,6 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534834876507">
-        <mark key="'" line="22" column="301" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="286" />
-        <mark key="^" line="22" column="286" />
-        <mark key="." line="22" column="286" />
-      </file>
       <file name="$USER_HOME$/Develop/presentations/node_modules/puppeteer/lib/Connection.js" timestamp="1535958919160">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="201" column="0" />
@@ -119,21 +112,18 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1535964111454">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1535967974367">
+        <mark key="'" line="18" column="27" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="^" line="17" column="33" />
+        <mark key="." line="17" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-frontend.md.ejs" timestamp="1533646502235">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/jobs.php" timestamp="1535529861696">
-        <mark key="'" line="77" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact_from_web_no_login.html.twig" timestamp="1509084823446">
         <mark key="[" line="58" column="33" />
@@ -196,13 +186,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" timestamp="1533646427588">
-        <mark key="'" line="100" column="2" />
-        <mark key="[" line="107" column="48" />
-        <mark key="]" line="107" column="56" />
-        <mark key="." line="107" column="56" />
-        <mark key="^" line="107" column="56" />
-      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/m-android.md.ejs" timestamp="1533646438242">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="17" />
@@ -214,13 +197,6 @@
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-notif/event.json" timestamp="1534927887354">
-        <mark key="'" line="2" column="3" />
-        <mark key="[" line="266" column="23" />
-        <mark key="]" line="266" column="35" />
-        <mark key="^" line="266" column="35" />
-        <mark key="." line="266" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/mp-ios.md.ejs" timestamp="1533646486212">
         <mark key="[" line="2" column="0" />
@@ -289,31 +265,23 @@
         <mark key="." line="22" column="27" />
         <mark key="^" line="22" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/presentations/lib/config/accessKeys.json" timestamp="1535965469888">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/Develop/scauto/src/index.pug" timestamp="1519748856853">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1535536506079">
-        <mark key="'" line="157" column="18" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="63" column="84" />
-      </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate" timestamp="1531207261734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="6" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534936555065">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="116" column="106" />
-        <mark key="]" line="116" column="114" />
-        <mark key="." line="116" column="114" />
-        <mark key="^" line="116" column="114" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -333,6 +301,12 @@
         <mark key="]" line="14" column="76" />
         <mark key="." line="14" column="76" />
         <mark key="^" line="14" column="76" />
+      </file>
+      <file name="$USER_HOME$/Develop/presentations/README.md" timestamp="1535967200613">
+        <mark key="[" line="8" column="61" />
+        <mark key="]" line="8" column="61" />
+        <mark key="." line="8" column="61" />
+        <mark key="^" line="8" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/lib/presentations/slide.js" timestamp="1535618728907">
         <mark key="[" line="17" column="0" />
@@ -412,6 +386,12 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/presentations/.gitignore" timestamp="1535966982027">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/privacy.html.twig" timestamp="1511324691512">
         <mark key="[" line="101" column="32" />
         <mark key="]" line="101" column="32" />
@@ -423,14 +403,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1534754429739">
+      <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1535966873035">
         <mark key="[" line="34" column="45" />
         <mark key="]" line="34" column="45" />
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/template-parts/header.php" timestamp="1535537639456">
-        <mark key="'" line="47" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/recun-deploy/recun-cluster-task-definition.json" timestamp="1534402349101">
         <mark key="[" line="25" column="53" />
@@ -498,13 +475,6 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yaml" timestamp="1534746024145">
-        <mark key="'" line="13" column="5" />
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="26" column="38" />
-        <mark key="." line="27" column="30" />
-      </file>
       <file name="$USER_HOME$/Develop/recun-notif/tests/unit/test_handler.js" timestamp="1534063342537">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="31" />
@@ -515,6 +485,12 @@
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/Develop/presentations/lib/config/accessKeys.csv" timestamp="1535966804466">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/Footer.tsx" timestamp="1519795973907">
         <mark key="[" line="10" column="28" />
@@ -637,9 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="30" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
-      <jump line="170" column="38" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
-      <jump line="82" column="16" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="71" column="20" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="174" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" />
@@ -737,10 +710,13 @@
       <jump line="15" column="3" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="23" column="6" filename="$USER_HOME$/Develop/presentations/node_modules/puppeteer/lib/Connection.js" />
       <jump line="6" column="15" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
+      <jump line="28" column="1" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
+      <jump line="18" column="27" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -932,7 +908,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>L</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>await</text>
@@ -941,31 +917,31 @@
         <text encoding="base64">ICAgIGxldCB0eXBlID0gbnVsbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGJhc2U2NHR4dCA9IG5ldyBCdWZmZXIoJ2hvZ2Vob2dlVHh0JykudG9TdHJpbmcoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Y29uc3Qga21zX2lkID0gJzZlZWYxNzBjLWEzMDUtNDk1ZC1iZDYzLWE5ODhhZTYyMTY4ZCc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoKLy9yZWFkVGV4dChyZWFkZXIpLnRoZW4ocmVzID0+IGNvbnNvbGUubG9nKHJlcykpCg==</text>
+        <text encoding="base64">Y29uc3QgYXdzID0gcmVxdWlyZSgnYXdzLXNkaycpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">QWNjZXNzIGtleSBJRCxTZWNyZXQgYWNjZXNzIGtleQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">Li9saWIvY29uZmlnL2FjY2Vzc0tleXMuanNvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzbGlkZV9pbmZvcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fSkub24oJ2VuZCcsICgpID0+IHsK</text>
+        <text encoding="base64">ICBFT0YK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9KSgpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
