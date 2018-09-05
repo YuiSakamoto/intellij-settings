@@ -112,12 +112,12 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="91" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1536068406549">
+      <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1536127727835">
         <mark key="'" line="20" column="43" />
-        <mark key="[" line="20" column="33" />
-        <mark key="]" line="20" column="41" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="41" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-frontend.md.ejs" timestamp="1533646502235">
         <mark key="[" line="2" column="0" />
@@ -715,8 +715,8 @@
       <jump line="20" column="43" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -917,31 +917,31 @@
         <text encoding="base64">Ly9jb25zdCBidWNrZXRfbmFtZSA9IGBtZXJjYXJpdGVjaC0ke2Vudn1gOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXdzLmNvbmZpZy51cGRhdGUoeyJyZWdpb24iOiAiYXAtdGhlYXN0LTEifSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJvY2Nlc3MuZXhpdENvZGUoMSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Ki8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
         <text encoding="base64">fSk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coZXJyKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coZGF0YSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">a21zLmRlY3J5cHQoa21zX3BhcmFtcywgKGVyciwgZGF0YSkgPT4gewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZWdpb246ICdhcC1ub3J0aGVhc3QtMScK</text>
+        <text encoding="base64">ICBDaXBoZXJ0ZXh0QmxvYjogZW5jcnlwdGVkX2tleXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
