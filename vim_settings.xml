@@ -283,11 +283,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/codes/create_repos.php" timestamp="1536205754058">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="50" />
+      <file name="$USER_HOME$/Develop/codes/create_repos.php" timestamp="1536206925187">
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="17" column="60" />
+        <mark key="." line="17" column="60" />
+        <mark key="^" line="17" column="69" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -722,7 +722,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>g</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -914,7 +914,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>open</text>
