@@ -283,12 +283,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/codes/create_repos.php" timestamp="1536215599498">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="1" />
-        <mark key="." line="20" column="1" />
-        <mark key="^" line="20" column="1" />
+      <file name="$USER_HOME$/Develop/codes/create_repos.php" timestamp="1536216634922">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -620,10 +620,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="10" column="26" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="131" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
-      <jump line="12" column="58" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="13" column="16" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="58" column="4" filename="$USER_HOME$/Develop/recun/index.js" />
       <jump line="55" column="2" filename="$USER_HOME$/Develop/recun/index.js" />
@@ -720,10 +716,14 @@
       <jump line="16" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
       <jump line="57" column="25" filename="$USER_HOME$/Develop/codes/create_repos.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
+      <jump line="20" column="1" filename="$USER_HOME$/Develop/codes/create_repos.php" />
+      <jump line="107" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
+      <jump line="76" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y3VybF9jbG9zZSgkY3VybCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -918,48 +918,118 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>$</text>
+        <text>^</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly9jb25zdCBidWNrZXRfbmFtZSA9IGBtZXJjYXJpdGVjaC0ke2Vudn1gOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3VybF9jbG9zZSgkY3VybCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">aHR0cHM6Ly9naXRodWIuY29tL21lcmNhcmktY24taGFja2F0aG9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3prbGdhbWUKL2ItegoveGlhb2p1ZG91Ci90aGlzaXNtYXRhCi9jaGVud2hxbAovY2hvbWltaTEwMQovSmFuZVRha2FuYXNoaQovUWl1WWluZ2p1bgovRnJpZHkyYmVzdAovcGt1Q2FjdHVzCi9ELVctCi9Db21wYXNzSFhNCi9DYWVzYXIxMQovZGFya25lc3MteQovYW5nZWxodW50Ci96eWVyaWMKL3NwbGludGVyc3UKL2xpY3p6egovemhvbmdpam95Ci96aG91aGFveXUKL3poZW55dXhpYW9nZQovbG9nc2hhCi9MZWV0Q29kZU1pbwovbnJvc2tpbGwKL1JvY3VrdQoveWFsZWN5dQovdHlnY3MKL2FzZDQ4NzYKL21yZGluZ2pheQovemhhbmdoeDE3Ci95ckhpcHBvCi9EYW1vbkxpdVRIVQovQ2hhbmNoYW5oYW4KL0Nob2x5Y3kKL3FmYWkKL2tlbm55bWNrb3JtaWNrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3VybF9zZXRvcHQoJGN1cmwsIENVUkxPUFRfUE9TVEZJRUxEUywganNvbl9lbmNvZGUoJHF1ZXJ5KSk7Cg==</text>
+        <text encoding="base64">emtsZ2FtZQpiLXoKeGlhb2p1ZG91CnRoaXNpc21hdGEKY2hlbndocWwKY2hvbWltaTEwMQpKYW5lVGFrYW5hc2hpClFpdVlpbmdqdW4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIC8KICAgIC8KICAgIC8KICAgIC8KICAgIC8KICAgIC8KICAgIC8KICAgIC8=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y3VybF9zZXRvcHQoJGN1cmwsIENVUkxPUFRfUE9TVEZJRUxEUywganNvbl9lbmNvZGUoJHF1ZXJ5KSk7Cg==</text>
+      <register name="7" type="8">
+        <text>https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com
+https://github.com</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="8">
+        <text>https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/
+https://github.com/</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XQo=</text>
+        <text encoding="base64">Y3VybF9jbG9zZSgkY3VybCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>$</last-search>
+      <last-search>^</last-search>
       <last-offset />
-      <last-pattern>$</last-pattern>
-      <last-replace>&quot;,</last-replace>
-      <last-substitute>$</last-substitute>
+      <last-pattern>^</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -983,11 +1053,10 @@
         <entry>;$</entry>
         <entry>await</entry>
         <entry>open</entry>
-        <entry>^</entry>
         <entry>$</entry>
+        <entry>^</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1xuLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xuL1xcbi9n</entry>
@@ -1004,8 +1073,9 @@
         <entry>%s/;$//g</entry>
         <entry>Pw</entry>
         <entry>W</entry>
-        <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
+        <entry>%s/$/&quot;,/g</entry>
         <entry encoding="base64">JzwsJz5zLyQvIiwvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
