@@ -89,13 +89,6 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534834876507">
-        <mark key="'" line="22" column="301" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="286" />
-        <mark key="^" line="22" column="286" />
-        <mark key="." line="22" column="286" />
-      </file>
       <file name="$USER_HOME$/Develop/presentations/node_modules/puppeteer/lib/Connection.js" timestamp="1535958919160">
         <mark key="'" line="23" column="6" />
         <mark key="[" line="201" column="0" />
@@ -200,13 +193,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" timestamp="1533646427588">
-        <mark key="'" line="100" column="2" />
-        <mark key="[" line="107" column="48" />
-        <mark key="]" line="107" column="56" />
-        <mark key="." line="107" column="56" />
-        <mark key="^" line="107" column="56" />
-      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/m-android.md.ejs" timestamp="1533646438242">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="17" />
@@ -218,13 +204,6 @@
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-notif/event.json" timestamp="1534927887354">
-        <mark key="'" line="2" column="3" />
-        <mark key="[" line="266" column="23" />
-        <mark key="]" line="266" column="35" />
-        <mark key="^" line="266" column="35" />
-        <mark key="." line="266" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/mp-ios.md.ejs" timestamp="1533646486212">
         <mark key="[" line="2" column="0" />
@@ -300,25 +279,11 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1535536506079">
-        <mark key="'" line="157" column="18" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="63" column="84" />
-      </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate" timestamp="1531207261734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="6" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1534936555065">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="116" column="106" />
-        <mark key="]" line="116" column="114" />
-        <mark key="." line="116" column="114" />
-        <mark key="^" line="116" column="114" />
       </file>
       <file name="$USER_HOME$/Develop/codes/create_repos.php" timestamp="1536217882697">
         <mark key="'" line="18" column="1" />
@@ -456,12 +421,11 @@
         <mark key="." line="25" column="60" />
         <mark key="^" line="25" column="60" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/src/templates/index.jsx" timestamp="1536230421710">
+      <file name="$USER_HOME$/Develop/presentations/src/templates/index.jsx" timestamp="1536289006920">
         <mark key="'" line="109" column="28" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="17" />
-        <mark key="^" line="21" column="17" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/dmca.html.twig" timestamp="1511322917341">
         <mark key="[" line="2" column="25" />
@@ -522,13 +486,6 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="19" column="10" />
         <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-notif/template.yaml" timestamp="1534746024145">
-        <mark key="'" line="13" column="5" />
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="30" />
-        <mark key="^" line="26" column="38" />
-        <mark key="." line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/recun-notif/tests/unit/test_handler.js" timestamp="1534063342537">
         <mark key="[" line="2" column="27" />
@@ -765,8 +722,8 @@
       <jump line="109" column="28" filename="$USER_HOME$/Develop/presentations/src/templates/index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGhvZ2VnZWdlZ2VnZQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -967,31 +924,31 @@
         <text encoding="base64">ZGVmaW5lKEJBU0VfVVJMLCAnaHR0cHM6Ly9hcGkuZ2l0aHViLmNvbS9vcmdzL21lcmNhcmktY24taGFja2F0aG9uL3JlcG9zJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhvZ2VnZWdlZ2VnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogd29yZHByZXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">ICAgICAgTVlTUUxfUk9PVF9QQVNTV09SRDogd29yZHByZXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gIjMzMDg6MzMwNiIK</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
+        <text encoding="base64">ICAgIC0gIjMzMDg6MzMwNiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gLi9kb2NrZXItZmlsZXMvbXlzcWwvaW5pdGRiLmQ6L2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kCg==</text>
+        <text encoding="base64">ICAgIHBvcnRzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
+        <text encoding="base64">ICAgIC0gLi9kb2NrZXItZmlsZXMvbXlzcWwvaW5pdGRiLmQ6L2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBteXNxbDo1LjcK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBteXNxbDoK</text>
+        <text encoding="base64">ICAgIGltYWdlOiBteXNxbDo1LjcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
