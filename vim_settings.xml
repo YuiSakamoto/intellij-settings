@@ -422,6 +422,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/presentations.txt" timestamp="1539252370551">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="54" column="73" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/recun-deploy/.envrc.workable" timestamp="1539244471457">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="80" />
@@ -813,8 +819,8 @@
       <jump line="4" column="54" filename="$USER_HOME$/Develop/mercari.tech/presentations.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">Vk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1014,32 +1020,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhzbGlkZV9pbmZvcy5zdHJpbmdpZnkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWUubm9kZS51cmwpCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">Vk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIApWTTEzNzA6MSAKVk0xMzcwOjEgClZNMTM3MDoxIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">Vk0xMjk5OjEgClZNMTI5OToxIApWTTEyOTk6MSAKVk0xMjk5OjEgClZNMTI5OToxIApWTTEyOTk6MSAKVk0xMjk5OjEgClZNMTI5OToxIApWTTEyOTk6MSAKVk0xMjk5OjEgClZNMTI5OToxIApWTTEyOTk6MSAKVk0xMjk5OjEgClZNMTI5OToxIApWTTEyOTk6MSAKVk0xMjk5OjEgClZNMTI5OToxIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">Vk0xMjI4OjEgClZNMTIyODoxIApWTTEyMjg6MSAKVk0xMjI4OjEgClZNMTIyODoxIApWTTEyMjg6MSAKVk0xMjI4OjEgClZNMTIyODoxIApWTTEyMjg6MSAKVk0xMjI4OjEgClZNMTIyODoxIApWTTEyMjg6MSAKVk0xMjI4OjEg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFsdWUubm9kZS51cmwpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICApCg==</text>
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KQo=</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
