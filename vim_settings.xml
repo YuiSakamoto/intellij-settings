@@ -141,9 +141,6 @@
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/gatsby-config.js" timestamp="1539331973092">
         <mark key="[" line="5" column="33" />
-        <mark key="]" line="12" column="5" />
-        <mark key="." line="12" column="5" />
-        <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate csv" timestamp="1531384548414">
         <mark key="[" line="15" column="0" />
@@ -158,10 +155,9 @@
         <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1539332065863">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="8" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
@@ -425,16 +421,21 @@
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech.proto/gatsby-config.js" timestamp="1539331958115" />
       <file name="$USER_HOME$/Develop/mercari.tech/presentations.txt" timestamp="1539252370551">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="54" column="73" />
-        <mark key="." line="38" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="22" column="73" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun-deploy/.envrc.workable" timestamp="1539244471457">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="80" />
         <mark key="." line="1" column="80" />
         <mark key="^" line="1" column="80" />
+      </file>
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1534493089480">
+        <mark key="[" line="18" column="4" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/webpack.prod.js" timestamp="1535097795633">
         <mark key="'" line="88" column="17" />
@@ -485,6 +486,11 @@
         <mark key="]" line="101" column="32" />
         <mark key="." line="101" column="32" />
         <mark key="^" line="101" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/recun-deploy/.gitignore" timestamp="1534322516357">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1535966873035">
         <mark key="[" line="34" column="45" />
@@ -578,6 +584,11 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/docker-compose.yml" timestamp="1535605702722">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/Develop/presentations/lib/config/accessKeys.csv" timestamp="1535966804466">
         <mark key="[" line="2" column="1" />
         <mark key="]" line="2" column="15" />
@@ -649,6 +660,11 @@
         <mark key="]" line="2" column="1" />
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/presentations/data/SiteConfig.js" timestamp="1536291571837">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/front-page.php" timestamp="1533020449704">
         <mark key="[" line="29" column="79" />
