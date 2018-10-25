@@ -114,10 +114,10 @@
         <mark key="^" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/searchform.php" timestamp="1540456496622">
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
+      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/searchform.php" timestamp="1540464613704">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/input_email.html.twig" timestamp="1510281352279">
         <mark key="[" line="3" column="91" />
@@ -895,7 +895,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNlbGVjdGVkKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1087,49 +1087,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>&quot;hogehogehogehoge&quot;);</text>
       </register>
       <register name="/" type="4">
-        <text>styled</text>
+        <text>js-select</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyX2R1bXAoImhvZ2Vob2dlIik7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhcl9kdW1wKCRzZWxlY3RlZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGV4aXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNlbGVjdGVkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhcl9kdW1wKCRzZWxlY3RlZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyX2R1bXAoImhvZ2Vob2dlIik7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoImhvZ2Vob2dlaG9nZWhvZ2UiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyX2R1bXAoImhvZ2Vob2dlaG9nZWhvZ2Vob2dlaG9nZWhvZ2Vob2dlISEhISEhIik7Pz4K</text>
+        <text encoding="base64">ICAgICAgZXhpdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCR0eXBlKTsK</text>
+        <text encoding="base64">dmFyX2R1bXAoImhvZ2Vob2dlaG9nZWhvZ2UiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCJob2dlaG9nZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoImhvZ2Vob2dlaG9nZWhvZ2UiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyX2R1bXAoImhvZ2Vob2dlaG9nZWhvZ2UiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaG9nZWhvZzMzMzNlIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHVybCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgiaG9nZWhvZ2UiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhcl9kdW1wKCRzZWxlY3RlZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>styled</last-search>
+      <last-search>js-select</last-search>
       <last-offset />
-      <last-pattern>styled</last-pattern>
+      <last-pattern>js-select</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -1137,7 +1137,6 @@
     </search>
     <history>
       <history-search>
-        <entry>;</entry>
         <entry encoding="base64">Jg==</entry>
         <entry>;$</entry>
         <entry>await</entry>
@@ -1157,6 +1156,7 @@
         <entry>inject</entry>
         <entry>injectGlobal</entry>
         <entry>styled</entry>
+        <entry>js-select</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xuLy9n</entry>
