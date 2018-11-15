@@ -262,11 +262,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1542274192666">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1542276208451">
+        <mark key="'" line="24" column="13" />
+        <mark key="[" line="28" column="10" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542194435908">
         <mark key="'" line="40" column="5" />
@@ -809,7 +810,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="17" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="26" column="0" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="17" column="1" filename="$USER_HOME$/Develop/presentations/webpack.prod.js" />
       <jump line="79" column="4" filename="$USER_HOME$/Develop/presentations/webpack.prod.js" />
@@ -909,10 +909,11 @@
       <jump line="58" column="58" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
       <jump line="134" column="22" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="137" column="14" filename="$USER_HOME$/Develop/recun-notif/index.js" />
+      <jump line="24" column="13" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvTWVudUxpc3Q+Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1104,40 +1105,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">44CA</text>
       </register>
       <register name="/" type="4">
         <text>datetime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsaT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvTWVudUxpc3Q+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9IZWFkZXJMb2dvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpbms+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtsb2dvX3R3aXR0ZXJ9IGFsdD0idHdpdHRlciIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtsb2dvX21lcmNhcmlkZXZ9IGFsdD0ibWVyY2FyaSBERVYiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtsb2dvX3R3aXR0ZXJ9IGFsdD0idHdpdHRlciIgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8TGluayB0bz0iLyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW1nIHNyYz17bG9nb190d2l0dGVyfSBhbHQ9InR3aXR0ZXIiIC8+CiAgICAgICAgPGltZyBzcmM9e2xvZ29fZ2l0aHVifSBhbHQ9ImdpdGh1YiIgLz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEhlYWRlckxvZ28+Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgPC9IZWFkZXJMb2dvPgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8L0xpbms+Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtsb2dvX21lcmNhcmlkZXZ9IGFsdD0ibWVyY2FyaSBERVYiIC8+Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8TGluayB0bz0iLyI+Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgPEhlYWRlckxvZ28+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
