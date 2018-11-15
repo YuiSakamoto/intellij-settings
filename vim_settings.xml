@@ -150,6 +150,12 @@
         <mark key="^" line="58" column="113" />
         <mark key="." line="58" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/gatsby-config.js" timestamp="1542271448010">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate csv" timestamp="1531384548414">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="1" />
@@ -199,9 +205,6 @@
         <mark key="]" line="18" column="21" />
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/package-lock.json" timestamp="1539781080665">
-        <mark key="'" line="6430" column="94" />
       </file>
       <file name="$USER_HOME$/Develop/recun-notif/eot-github-webhook-skilltest.yaml" timestamp="1534749342435">
         <mark key="[" line="9" column="16" />
@@ -259,11 +262,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1539778876510">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="32" column="15" />
-        <mark key="." line="32" column="15" />
-        <mark key="^" line="32" column="15" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1542272052556">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542194435908">
         <mark key="'" line="40" column="5" />
@@ -370,9 +373,6 @@
         <mark key="]" line="75" column="12" />
         <mark key="^" line="75" column="12" />
         <mark key="." line="75" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" timestamp="1539853935244">
-        <mark key="'" line="2143" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
         <mark key="[" line="16" column="0" />
@@ -911,8 +911,8 @@
       <jump line="137" column="14" filename="$USER_HOME$/Develop/recun-notif/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdUaGlzIHJlcXVlc3QgaXMgYnkgcmVjdW4nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1104,7 +1104,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>datetime</text>
