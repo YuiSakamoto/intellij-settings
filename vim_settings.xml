@@ -168,11 +168,12 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1542340385734">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1542343878608">
+        <mark key="'" line="25" column="13" />
+        <mark key="[" line="45" column="11" />
+        <mark key="]" line="45" column="17" />
+        <mark key="." line="45" column="17" />
+        <mark key="^" line="45" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
@@ -269,11 +270,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542339755830">
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542343819524">
         <mark key="'" line="40" column="5" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/README.md" timestamp="1519723625282">
         <mark key="[" line="8" column="26" />
@@ -348,12 +349,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/functions/JobAPI.php" timestamp="1540455847195">
-        <mark key="'" line="157" column="18" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate" timestamp="1531207261734">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="6" />
@@ -402,12 +397,12 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" timestamp="1542193854254">
-        <mark key="'" line="58" column="58" />
-        <mark key="[" line="61" column="39" />
-        <mark key="]" line="61" column="39" />
-        <mark key="." line="61" column="39" />
-        <mark key="^" line="61" column="39" />
+      <file name="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" timestamp="1542342755249">
+        <mark key="'" line="56" column="58" />
+        <mark key="[" line="56" column="34" />
+        <mark key="]" line="56" column="34" />
+        <mark key="^" line="56" column="34" />
+        <mark key="." line="56" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/lib/presentations/slide.js" timestamp="1535618728907">
         <mark key="[" line="17" column="0" />
@@ -457,7 +452,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/const/colors.js" timestamp="1539779197272">
+      <file name="$USER_HOME$/Develop/mercari.tech/src/const/colors.js" timestamp="1542343710119">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="103" column="0" />
@@ -744,12 +739,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/front-page.php" timestamp="1540456333255">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/getting_started/prohibited_conduct.html.twig" timestamp="1511165113273">
         <mark key="[" line="40" column="86" />
         <mark key="]" line="40" column="86" />
@@ -767,6 +756,11 @@
         <mark key="]" line="44" column="1" />
         <mark key="^" line="44" column="1" />
         <mark key="." line="44" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/lib/presentations/speakerdeck.js" timestamp="1542342592397">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-android.md.ejs" timestamp="1533646491876">
         <mark key="[" line="2" column="0" />
@@ -914,8 +908,8 @@
       <jump line="2302" column="9" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YDsK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1107,40 +1101,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>injectGlobal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvL2JhY2tncm91bmQtY29sb3I6ICR7Q09MT1JTLlZFUllfTElHSFRfUElOS307Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudGl0bGVfc2VsZWN0b3IgPSAnYm9keSA+IGRpdi5zZC1tYWluID4gZGl2LmRlY2sgPiBkaXYuZGVjay1oZWFkZXIuZC1ub25lLmQtbWQtYmxvY2sgPiBkaXYgPiBoNCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YDsK</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZWZ0OiAwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIGZpbHRlcjogb3BhY2l0eSg2MCUpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZWxlbWVudC50ZXh0Q29udGVudC5yZXBsYWNlKC9ccysvZywgJycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudGl0bGVfc2VsZWN0b3IgPSAnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXgtaGVpZ2h0OiAxNjMuMTNweDsK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgU2xpZGVJbWdCRyA9IHN0eWxlZC5pbWdgCg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFNsaWRlSW1nQkcgc3JjPXt2YWx1ZS5ub2RlLnNhdmVkX2ltYWdlX3BhdGh9IC8+Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
