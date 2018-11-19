@@ -168,12 +168,12 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1542623267602">
-        <mark key="'" line="25" column="13" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="1" />
-        <mark key="." line="50" column="1" />
-        <mark key="^" line="50" column="1" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1542626932077">
+        <mark key="'" line="26" column="27" />
+        <mark key="k" line="82" column="4" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
@@ -269,7 +269,7 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542343819524">
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542625448473">
         <mark key="'" line="40" column="5" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -395,12 +395,11 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" timestamp="1542342755249">
+      <file name="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" timestamp="1542626513438">
         <mark key="'" line="56" column="58" />
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="56" column="34" />
-        <mark key="^" line="56" column="34" />
-        <mark key="." line="56" column="34" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/lib/presentations/slide.js" timestamp="1535618728907">
         <mark key="[" line="17" column="0" />
@@ -803,8 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" />
       <jump line="7" column="102" filename="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="15" column="3" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
@@ -852,7 +849,6 @@
       <jump line="8" column="49" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
       <jump line="3" column="67" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
       <jump line="57" column="52" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="76" column="4" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
       <jump line="79" column="9" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
       <jump line="32" column="2" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
       <jump line="40" column="10" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
@@ -903,10 +899,13 @@
       <jump line="858" column="72" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
       <jump line="2302" column="9" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
       <jump line="28" column="14" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
+      <jump line="48" column="28" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
+      <jump line="26" column="27" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
+      <jump line="76" column="8" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgaGVpZ2h0OiAyMzNweDsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1098,40 +1097,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>injectGlobal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGl0bGVfc2VsZWN0b3IgPSAnYm9keSA+IGRpdi5zZC1tYWluID4gZGl2LmRlY2sgPiBkaXYuZGVjay1oZWFkZXIuZC1ub25lLmQtbWQtYmxvY2sgPiBkaXYgPiBoNCcK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDE1cHg7IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly8gICAgaGVpZ2h0OiAyMzNweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
+        <text encoding="base64">Ly8gIGhlaWdodDogMTYwcHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICcwMkE3OEY0OEJBJywK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2xpZGVfaW5mby50aW1lc3RhbXApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2xpZGVfaW5mby5zYXZlZF9pbWFnZV9wYXRoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZWxlbWVudC50ZXh0Q29udGVudC5yZXBsYWNlKC9ccysvZywgJycpOwo=</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogMTNweDsKICAgIGxpbmUtaGVpZ2h0OiAxLjYyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMudGl0bGVfc2VsZWN0b3IgPSAnCg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDEzcHg7CiAgbGluZS1oZWlnaHQ6IDEuNjI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsK</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDEzcHg7CiAgbGluZS1oZWlnaHQ6IDEuNjI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
