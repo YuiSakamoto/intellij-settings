@@ -168,7 +168,7 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1542626932077">
+      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1542631127400">
         <mark key="'" line="26" column="27" />
         <mark key="k" line="82" column="4" />
         <mark key="[" line="59" column="0" />
@@ -269,11 +269,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542629549095">
-        <mark key="'" line="41" column="5" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542633285974">
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="63" column="19" />
+        <mark key="^" line="63" column="19" />
+        <mark key="." line="63" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/README.md" timestamp="1519723625282">
         <mark key="[" line="8" column="26" />
@@ -593,6 +593,7 @@
         <mark key="." line="17" column="8" />
         <mark key="^" line="17" column="9" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" timestamp="1542632468301" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/aura/sql/src/ExtendedPdo.php" timestamp="1515039460995">
         <mark key="[" line="484" column="34" />
         <mark key="]" line="484" column="34" />
@@ -802,7 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="102" filename="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="15" column="3" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="23" column="6" filename="$USER_HOME$/Develop/presentations/node_modules/puppeteer/lib/Connection.js" />
@@ -902,10 +902,11 @@
       <jump line="48" column="28" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
       <jump line="26" column="27" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
       <jump line="76" column="8" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
+      <jump line="74" column="3" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1097,57 +1098,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>injectGlobal</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDE1cHg7IAo=</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnZml4ZWQnLAogICAgd2lkdGg6ICczNnB4JywKICAgIGhlaWdodDogJzMwcHgnLAogICAgbGVmdDogJzM2cHgnLAogICAgdG9wOiAnMzZweCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2xpZGUgYXMgTWVudSB9IGZyb20gJ3JlYWN0LWJ1cmdlci1tZW51JzsK</text>
+        <text encoding="base64">ICAuYm0tYnVyZ2VyLWJ1dHRvbiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPC9tYWluPgo=</text>
+        <text encoding="base64">LmJtQnVyZ2VyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPG1haW4gaWQ9InBhZ2Utd3JhcCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgaWQ9Im91dGVyLWNvbnRhaW5lciI+Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPE1lbnUgcGFnZVdyYXBJZD17ICJwYWdlLXdyYXAiIH0gb3V0ZXJDb250YWluZXJJZD17ICJvdXRlci1jb250YWluZXIiIH0gLz4K</text>
+        <text encoding="base64">ICAgIHRvcDogJzM2cHgnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgIGxlZnQ6ICczNnB4JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>injectGlobal</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>injectGlobal</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>;</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>;$</entry>
         <entry>await</entry>
         <entry>open</entry>
         <entry>$</entry>
@@ -1167,9 +1167,9 @@
         <entry>datetime</entry>
         <entry>inject</entry>
         <entry>injectGlobal</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1xuLy9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xuL1xcbi9n</entry>
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
@@ -1187,6 +1187,7 @@
         <entry>%s/$/&quot;,/g</entry>
         <entry encoding="base64">JzwsJz5zLyQvIiwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
+        <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
