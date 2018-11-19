@@ -803,7 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="37" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="38" column="0" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" />
       <jump line="7" column="102" filename="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" />
@@ -903,6 +902,7 @@
       <jump line="848" column="28" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
       <jump line="858" column="72" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
       <jump line="2302" column="9" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
+      <jump line="28" column="14" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
