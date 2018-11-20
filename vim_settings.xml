@@ -271,11 +271,11 @@
         <mark key="^" line="80" column="28" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542636854627">
-        <mark key="[" line="59" column="2" />
-        <mark key="]" line="59" column="2" />
-        <mark key="^" line="59" column="3" />
-        <mark key="." line="59" column="2" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542683374860">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="49" column="3" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/README.md" timestamp="1519723625282">
         <mark key="[" line="8" column="26" />
@@ -494,7 +494,7 @@
         <mark key="." line="18" column="43" />
         <mark key="^" line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/package.json" timestamp="1539331992676">
+      <file name="$USER_HOME$/Develop/mercari.tech/package.json" timestamp="1542683324752">
         <mark key="[" line="6" column="25" />
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
@@ -909,8 +909,8 @@
       <jump line="167" column="6" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgc2xpZGUgYXMgTWVudSB9IGZyb20gJ3JlYWN0LWJ1cmdlci1tZW51JzsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1102,7 +1102,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Nav</text>
@@ -1111,31 +1111,31 @@
         <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgc2xpZGUgYXMgTWVudSB9IGZyb20gJ3JlYWN0LWJ1cmdlci1tZW51JzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L0J1cmdlck1lbnU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAuYm0tYnVyZ2VyLWJ1dHRvbjogewo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGlkPSJjb250YWN0IiBjbGFzc05hbWU9Im1lbnUtaXRlbSIgaHJlZj0iL2NvbnRhY3QiPkNvbnRhY3Q8L2E+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGlkPSJhYm91dCIgY2xhc3NOYW1lPSJtZW51LWl0ZW0iIGhyZWY9Ii9hYm91dCI+QWJvdXQ8L2E+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAke21lZGlhLmxlc3NUaGFuKCdtZWRpdW0nKWAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGlkPSJob21lIiBjbGFzc05hbWU9Im1lbnUtaXRlbSIgaHJlZj0iLyI+SG9tZTwvYT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiByaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICA+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIG91dGVyQ29udGFpbmVySWQ9eyAib3V0ZXItY29udGFpbmVyIiB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRleHQtYWxpZ246IHJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBhZ2VXcmFwSWQ9eyAicGFnZS13cmFwIiB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0eWxlcz17YnVyZ2VyU3R5bGVzfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
