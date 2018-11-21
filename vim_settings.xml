@@ -489,6 +489,13 @@
         <mark key="^" line="84" column="2" />
         <mark key="." line="84" column="2" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" timestamp="1542780314556">
+        <mark key="'" line="68" column="10" />
+        <mark key="[" line="218" column="53" />
+        <mark key="]" line="218" column="53" />
+        <mark key="^" line="218" column="53" />
+        <mark key="." line="218" column="53" />
+      </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/sute.php" timestamp="1531289575907">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="43" />
@@ -808,8 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="1" filename="$USER_HOME$/Develop/codes/create_repos.php" />
-      <jump line="107" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
       <jump line="24" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
       <jump line="76" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
       <jump line="59" column="48" filename="$USER_HOME$/Develop/codes/create_repos.php" />
@@ -908,10 +913,12 @@
       <jump line="45" column="14" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="84" column="12" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="167" column="6" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
+      <jump line="314" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" />
+      <jump line="68" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFNpZGViYXIgZnJvbSAicmVhY3Qtc2lkZWJhciI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1103,7 +1110,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>Nav</text>
