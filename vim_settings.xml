@@ -265,19 +265,20 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1542636231835">
-        <mark key="'" line="88" column="12" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="80" column="28" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1542878690158">
+        <mark key="'" line="91" column="12" />
+        <mark key="[" line="61" column="2" />
+        <mark key="]" line="61" column="3" />
+        <mark key="^" line="61" column="3" />
+        <mark key="." line="61" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542772180486">
-        <mark key="h" line="11" column="10" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="42" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1542879276676">
+        <mark key="'" line="83" column="17" />
+        <mark key="h" line="12" column="10" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="59" column="9" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/README.md" timestamp="1519723625282">
         <mark key="[" line="8" column="26" />
@@ -816,11 +817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
-      <jump line="76" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
-      <jump line="59" column="48" filename="$USER_HOME$/Develop/codes/create_repos.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/codes/create_repos.php" />
-      <jump line="66" column="89" filename="$USER_HOME$/Develop/codes/create_repos.php" />
       <jump line="18" column="1" filename="$USER_HOME$/Develop/codes/create_repos.php" />
       <jump line="63" column="8" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
       <jump line="18" column="40" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
@@ -916,10 +912,15 @@
       <jump line="167" column="6" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
       <jump line="314" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" />
       <jump line="68" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" />
+      <jump line="21" column="5" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
+      <jump line="128" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
+      <jump line="49" column="3" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
+      <jump line="83" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
+      <jump line="59" column="17" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxociAvPgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1111,58 +1112,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Nav</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNzFweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhIGhyZWY9eyIifT5ob2dlPC9hPjwvbGk+Cg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxociAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhPmhvZ2U8L2E+PC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgdGl0bGUgPSB2YWx1ZS5ub2RlLnRpdGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhPmhvZ2U8L2E+PC9saT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aXRsZS5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhPmhvZ2U8L2E+PC9saT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhPmhvZ2U8L2E+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aXRsZSA9IHRpdGxlLnN1YnN0cigwLCA4MCkgKyAnLi4uJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhPmhvZ2U8L2E+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhPmhvZ2U8L2E+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhPmhvZ2U8L2E+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Nav</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>Nav</last-pattern>
-      <last-replace>;</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace />
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$</entry>
-        <entry>^</entry>
         <entry>node</entry>
         <entry>extract-text-webpack-plugin</entry>
         <entry>webpack</entry>
@@ -1181,11 +1180,10 @@
         <entry>,</entry>
         <entry>styles</entry>
         <entry>Nav</entry>
+        <entry>,$</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL1xuL1xcbi9n</entry>
-        <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>%s/ callback\(/ await callback(/g</entry>
@@ -1201,6 +1199,9 @@
         <entry encoding="base64">JzwsJz5zLyQvIiwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zLywkLzsvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
