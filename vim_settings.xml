@@ -150,11 +150,11 @@
         <mark key="^" line="58" column="113" />
         <mark key="." line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/gatsby-config.js" timestamp="1543394178094">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="33" />
-        <mark key="." line="30" column="33" />
-        <mark key="^" line="30" column="33" />
+      <file name="$USER_HOME$/Develop/mercari.tech/gatsby-config.js" timestamp="1543400534069">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate csv" timestamp="1531384548414">
         <mark key="[" line="15" column="0" />
@@ -168,13 +168,13 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1543394681669">
-        <mark key="'" line="32" column="27" />
-        <mark key="k" line="91" column="4" />
-        <mark key="[" line="18" column="40" />
-        <mark key="]" line="18" column="40" />
-        <mark key="." line="18" column="40" />
-        <mark key="^" line="18" column="40" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" timestamp="1543399899882">
+        <mark key="'" line="11" column="0" />
+        <mark key="k" line="90" column="4" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
@@ -265,14 +265,15 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1543394931005">
-        <mark key="'" line="94" column="12" />
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1543401834670">
+        <mark key="'" line="132" column="2" />
+        <mark key="k" line="132" column="3" />
+        <mark key="[" line="132" column="4" />
+        <mark key="]" line="133" column="3" />
+        <mark key="." line="133" column="3" />
+        <mark key="^" line="133" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1543394623944">
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1543398708260">
         <mark key="'" line="83" column="17" />
         <mark key="h" line="12" column="10" />
         <mark key="[" line="88" column="7" />
@@ -400,11 +401,12 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" timestamp="1542626513438">
-        <mark key="'" line="56" column="58" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" timestamp="1543398237428">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+        <mark key="^" line="3" column="47" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/lib/presentations/slide.js" timestamp="1535618728907">
         <mark key="[" line="17" column="0" />
@@ -442,11 +444,11 @@
         <mark key="." line="2" column="3" />
         <mark key="^" line="2" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/menu.json" timestamp="1543394909046">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/menu.json" timestamp="1543397190534">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="1" />
+        <mark key="^" line="13" column="1" />
+        <mark key="." line="13" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/Configure.php" timestamp="1531204219056">
         <mark key="[" line="2" column="20" />
@@ -823,12 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="1" filename="$USER_HOME$/Develop/codes/create_repos.php" />
-      <jump line="63" column="8" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
-      <jump line="18" column="40" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
-      <jump line="64" column="26" filename="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" />
-      <jump line="66" column="17" filename="$USER_HOME$/Develop/presentations/.gitignore" />
-      <jump line="6" column="3" filename="$USER_HOME$/Develop/presentations/.gitignore" />
       <jump line="32" column="2" filename="$USER_HOME$/Develop/presentations/.gitignore" />
       <jump line="35" column="33" filename="$USER_HOME$/Develop/presentations/.gitignore" />
       <jump line="39" column="0" filename="$USER_HOME$/Develop/presentations/.gitignore" />
@@ -923,10 +919,16 @@
       <jump line="49" column="3" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
       <jump line="83" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
       <jump line="59" column="17" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
+      <jump line="14" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
+      <jump line="14" column="23" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
+      <jump line="131" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1118,49 +1120,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>src</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICAibmFtZSI6ICJob2dlIiwKICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cudGVzdC5jb20vIiwKICB9LAo=</text>
+        <text encoding="base64">ICAgICJ1cmwiOiAiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vdGVjaC5tZXJjYXJpLmNvbSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiTWVyY2FyaSBFbmdpbmVlcmluZyBCbG9nIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vdGVjaC5tZXJjYXJpLmNvbSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxociAvPgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhPmhvZ2U8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vdGVjaC5tZXJjYXJpLmNvbSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPjxhPmhvZ2U8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiTWVyY2FyaSBFbmdpbmVlcmluZyBCbG9nIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>src</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>src</last-pattern>
       <last-replace />
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -1168,8 +1170,6 @@
     </search>
     <history>
       <history-search>
-        <entry>node</entry>
-        <entry>extract-text-webpack-plugin</entry>
         <entry>webpack</entry>
         <entry>extract</entry>
         <entry>file_path</entry>
@@ -1188,6 +1188,8 @@
         <entry>Nav</entry>
         <entry>,$</entry>
         <entry>'</entry>
+        <entry>Link</entry>
+        <entry>src</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
