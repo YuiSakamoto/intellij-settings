@@ -150,10 +150,10 @@
         <mark key="^" line="58" column="113" />
         <mark key="." line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/gatsby-config.js" timestamp="1543405375964">
-        <mark key="[" line="19" column="4" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
+      <file name="$USER_HOME$/Develop/mercari.tech/gatsby-config.js" timestamp="1543491314475">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate csv" timestamp="1531384548414">
         <mark key="[" line="15" column="0" />
@@ -193,6 +193,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" timestamp="1543493555067">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="39" column="13" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/recun-deploy/scripts/m-recun-bot/m-recun-workable-deploy.sh" timestamp="1534317726424">
         <mark key="[" line="7" column="62" />
         <mark key="]" line="7" column="70" />
@@ -219,6 +225,12 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/sp_common_menu.js" timestamp="1543489380348">
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="48" column="17" />
+        <mark key="^" line="48" column="17" />
+        <mark key="." line="48" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" timestamp="1533646427588">
         <mark key="'" line="100" column="2" />
@@ -264,21 +276,20 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1543475259386">
-        <mark key="'" line="53" column="12" />
-        <mark key="k" line="155" column="3" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="14" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/header.js" timestamp="1543488807681">
+        <mark key="k" line="35" column="16" />
+        <mark key="[" line="59" column="72" />
+        <mark key="]" line="59" column="77" />
+        <mark key="^" line="59" column="77" />
+        <mark key="." line="59" column="77" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1543474160007">
-        <mark key="'" line="36" column="17" />
-        <mark key="h" line="12" column="10" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="30" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" timestamp="1543491463095">
+        <mark key="'" line="40" column="17" />
+        <mark key="h" line="13" column="10" />
+        <mark key="[" line="11" column="22" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/README.md" timestamp="1519723625282">
         <mark key="[" line="8" column="26" />
@@ -523,7 +534,6 @@
         <mark key="." line="194" column="0" />
         <mark key="^" line="212" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/pages/index.js" timestamp="1543473508425" />
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/README.md" timestamp="1535694669938">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="12" column="0" />
@@ -595,6 +605,12 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="31" column="125" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/README.md" timestamp="1543492386491">
+        <mark key="'" line="9" column="1" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/bin/update_jobs.php" timestamp="1536212924283">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="20" />
@@ -627,11 +643,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" timestamp="1539782504583">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="19" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" timestamp="1543490039980">
+        <mark key="'" line="77" column="6" />
+        <mark key="[" line="149" column="15" />
+        <mark key="]" line="149" column="15" />
+        <mark key="." line="149" column="15" />
+        <mark key="^" line="149" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/recun-notif/.gitignore" timestamp="1534758461711">
         <mark key="[" line="2" column="0" />
@@ -729,11 +746,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/sp_menu.js" timestamp="1543474141245">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="8" />
+      <file name="$USER_HOME$/Develop/mercari.tech/src/components/sp_menu.js" timestamp="1543488976245">
+        <mark key="'" line="54" column="1" />
+        <mark key="[" line="57" column="21" />
+        <mark key="]" line="58" column="18" />
+        <mark key="^" line="58" column="18" />
+        <mark key="." line="58" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_items.html.twig" timestamp="1511323445040">
         <mark key="[" line="46" column="0" />
@@ -837,47 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Develop/presentations/.gitignore" />
-      <jump line="91" column="28" filename="$USER_HOME$/Develop/presentations/package.json" />
-      <jump line="62" column="5" filename="$USER_HOME$/Develop/presentations/package.json" />
-      <jump line="37" column="12" filename="$USER_HOME$/Develop/presentations/package.json" />
-      <jump line="51" column="6" filename="$USER_HOME$/Develop/presentations/package.json" />
-      <jump line="35" column="4" filename="$USER_HOME$/Develop/presentations/package.json" />
-      <jump line="61" column="38" filename="$USER_HOME$/Develop/presentations/package.json" />
-      <jump line="66" column="14" filename="$USER_HOME$/Develop/presentations/package.json" />
-      <jump line="109" column="28" filename="$USER_HOME$/Develop/presentations/src/templates/index.jsx" />
-      <jump line="84" column="14" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="2" column="20" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="8" column="49" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="3" column="67" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="57" column="52" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="79" column="9" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="32" column="2" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="40" column="10" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="25" column="19" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="65" column="16" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="17" column="8" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="18" column="6" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="4" column="54" filename="$USER_HOME$/Develop/mercari.tech/presentations.txt" />
-      <jump line="45" column="44" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="103" column="1" filename="$USER_HOME$/Develop/mercari.tech/src/layouts/index.css" />
-      <jump line="55" column="21" filename="$USER_HOME$/Develop/mercari.tech/src/layouts/index.scss" />
-      <jump line="42" column="5" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
-      <jump line="7" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
-      <jump line="9" column="7" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/const/colors.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/const/colors.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="2394" column="0" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="2171" column="15" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="312" column="60" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="2143" column="4" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="27" column="25" filename="$USER_HOME$/Develop/mercari.tech/package-lock.json" />
-      <jump line="1839" column="18" filename="$USER_HOME$/Develop/mercari.tech/package-lock.json" />
-      <jump line="1841" column="92" filename="$USER_HOME$/Develop/mercari.tech/package-lock.json" />
-      <jump line="6428" column="19" filename="$USER_HOME$/Develop/mercari.tech/package-lock.json" />
-      <jump line="6430" column="94" filename="$USER_HOME$/Develop/mercari.tech/package-lock.json" />
-      <jump line="22" column="13" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/front-page.php" />
       <jump line="9" column="20" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/page-job.php" />
       <jump line="87" column="53" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
@@ -885,7 +862,6 @@
       <jump line="134" column="22" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="137" column="14" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="24" column="13" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="10" column="6" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="2220" column="15" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
       <jump line="2274" column="2" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
@@ -919,7 +895,6 @@
       <jump line="104" column="24" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
       <jump line="28" column="9" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="44" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="45" column="14" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="84" column="12" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="167" column="6" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
       <jump line="314" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" />
@@ -937,10 +912,53 @@
       <jump line="131" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="54" column="12" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="36" column="17" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
+      <jump line="90" column="52" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="10" column="34" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="92" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="33" column="18" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="155" column="1" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="37" column="108" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="45" column="36" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="138" column="17" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="30" column="16" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="53" column="11" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="94" column="41" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="83" column="16" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="69" column="14" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="216" column="3" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="34" column="32" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="187" column="30" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="192" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
+      <jump line="70" column="19" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="17" column="9" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="65" column="19" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="14" column="5" filename="$USER_HOME$/Develop/mercari.tech/src/components/sp_menu.js" />
+      <jump line="7" column="13" filename="$USER_HOME$/Develop/mercari.tech/src/components/sp_common_menu.js" />
+      <jump line="36" column="22" filename="$USER_HOME$/Develop/mercari.tech/src/components/sp_common_menu.js" />
+      <jump line="71" column="1" filename="$USER_HOME$/Develop/mercari.tech/src/components/sp_menu.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="20" column="23" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="64" column="6" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="26" column="126" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="135" column="16" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="24" column="9" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="29" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="35" column="9" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="41" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="47" column="9" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="52" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="107" column="6" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="49" column="47" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="72" column="5" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="77" column="6" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="7" column="1" filename="$USER_HOME$/Develop/mercari.tech/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ2dhdHNieSc7Cg==</text>
+        <text encoding="base64">ICAgICMgc3BlY2lmeSB0aGUgdmVyc2lvbiB5b3UgZGVzaXJlIGhlcmUK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1132,64 +1150,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>h1</text>
+        <text>FooterLogo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLXRvcDogMjBweDsK</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAxNXB4OwogICYgPiBpbWcgewogICAgcGFkZGluZzogMTVweDsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTGluayB9IGZyb20gJ2dhdHNieSc7Cg==</text>
+        <text encoding="base64">ICAgICMgc3BlY2lmeSB0aGUgdmVyc2lvbiB5b3UgZGVzaXJlIGhlcmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDU3cHg7Cg==</text>
+        <text encoding="base64">ICAgICMgcnVuIHRlc3RzIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNTVweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDU3cHg7Cg==</text>
+        <text encoding="base64">WyFbRGVwbG95IHRvIE5ldGxpZnldKGh0dHBzOi8vd3d3Lm5ldGxpZnkuY29tL2ltZy9kZXBsb3kvYnV0dG9uLnN2ZyldKGh0dHBzOi8vYXBwLm5ldGxpZnkuY29tL3N0YXJ0L2RlcGxveT9yZXBvc2l0b3J5PWh0dHBzOi8vZ2l0aHViLmNvbS9nYXRzYnlqcy9nYXRzYnktc3RhcnRlci1kZWZhdWx0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">IyMgRGVwbG95Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDIwcHggMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAyMHB4IDU2cHg7Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>h1</last-search>
+      <last-search>FooterLogo</last-search>
       <last-offset />
-      <last-pattern>h1</last-pattern>
-      <last-replace />
-      <last-substitute>'</last-substitute>
+      <last-pattern>FooterLogo</last-pattern>
+      <last-replace>link_white</last-replace>
+      <last-substitute>link_blue</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>extract</entry>
-        <entry>file_path</entry>
-        <entry>slide_infos</entry>
-        <entry>slide</entry>
-        <entry>bucket</entry>
-        <entry>scrape</entry>
-        <entry>export</entry>
-        <entry>styled</entry>
         <entry>js-select</entry>
         <entry>datetime</entry>
         <entry>inject</entry>
@@ -1202,10 +1212,16 @@
         <entry>Link</entry>
         <entry>src</entry>
         <entry>h1</entry>
+        <entry>hover</entry>
+        <entry>HeaderTitle</entry>
+        <entry>240</entry>
+        <entry>width</entry>
+        <entry>link_blue</entry>
+        <entry>Sub</entry>
+        <entry>SubMenu</entry>
+        <entry>FooterLogo</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>%s/ callback\(/ await callback(/g</entry>
         <entry>%s/ callback(/ await callback(/g</entry>
         <entry>%s/ callback(/ return callback(/g</entry>
@@ -1221,8 +1237,10 @@
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
         <entry encoding="base64">JzwsJz5zLywkLzsvZw==</entry>
         <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>Lw</entry>
+        <entry>%s/link_blue/link_white/g</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
