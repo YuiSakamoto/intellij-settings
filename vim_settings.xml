@@ -686,6 +686,12 @@
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari.tech/src/data/menu.json" timestamp="1543460122141">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/recun-deploy/.envrc" timestamp="1534312906566">
         <mark key="[" line="1" column="28" />
         <mark key="]" line="1" column="80" />
@@ -926,8 +932,8 @@
       <jump line="131" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vdGVjaC5tZXJjYXJpLmNvbSIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1119,7 +1125,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>src</text>
@@ -1128,31 +1134,31 @@
         <text encoding="base64">ICAgICJ1cmwiOiAiIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uczogewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlTmFtZTogJ2lzQXJyYXknLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIF0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vdGVjaC5tZXJjYXJpLmNvbSIK</text>
       </register>
-      <register name="9" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiTWVyY2FyaSBFbmdpbmVlcmluZyBCbG9nIiwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vdGVjaC5tZXJjYXJpLmNvbSIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiTWVyY2FyaSBFbmdpbmVlcmluZyBCbG9nIiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vdGVjaC5tZXJjYXJpLmNvbSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiTWVyY2FyaSBFbmdpbmVlcmluZyBCbG9nIiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAidXJsIjogImh0dHBzOi8vdGVjaC5tZXJjYXJpLmNvbSIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAidGl0bGUiOiAiTWVyY2FyaSBFbmdpbmVlcmluZyBCbG9nIiwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
