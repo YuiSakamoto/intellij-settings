@@ -605,11 +605,12 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="31" column="125" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/README.md" timestamp="1543492386491">
+      <file name="$USER_HOME$/Develop/mercari.tech/README.md" timestamp="1543559919945">
         <mark key="'" line="9" column="1" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/bin/update_jobs.php" timestamp="1536212924283">
         <mark key="[" line="2" column="20" />
