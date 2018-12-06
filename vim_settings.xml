@@ -193,11 +193,12 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" timestamp="1544085932599">
-        <mark key="[" line="40" column="9" />
-        <mark key="]" line="42" column="28" />
-        <mark key="^" line="42" column="28" />
-        <mark key="." line="42" column="28" />
+      <file name="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" timestamp="1544092780907">
+        <mark key="'" line="49" column="7" />
+        <mark key="[" line="39" column="46" />
+        <mark key="]" line="39" column="42" />
+        <mark key="." line="39" column="42" />
+        <mark key="^" line="39" column="42" />
       </file>
       <file name="$USER_HOME$/Develop/recun-deploy/scripts/m-recun-bot/m-recun-workable-deploy.sh" timestamp="1534317726424">
         <mark key="[" line="7" column="62" />
@@ -211,8 +212,8 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/package-lock.json" timestamp="1539781080665">
-        <mark key="'" line="6430" column="94" />
+      <file name="$USER_HOME$/Develop/mercari.tech/package-lock.json" timestamp="1544089228983">
+        <mark key="'" line="6444" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/recun-notif/eot-github-webhook-skilltest.yaml" timestamp="1534749342435">
         <mark key="[" line="9" column="16" />
@@ -605,12 +606,12 @@
         <mark key="^" line="32" column="62" />
         <mark key="." line="31" column="125" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/README.md" timestamp="1543559919945">
+      <file name="$USER_HOME$/Develop/mercari.tech/README.md" timestamp="1544090510131">
         <mark key="'" line="9" column="1" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
-        <mark key="^" line="12" column="4" />
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/bin/update_jobs.php" timestamp="1536212924283">
         <mark key="[" line="2" column="20" />
@@ -856,10 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/front-page.php" />
-      <jump line="9" column="20" filename="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/page-job.php" />
-      <jump line="87" column="53" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="58" column="58" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
       <jump line="134" column="22" filename="$USER_HOME$/Develop/recun-notif/event.json" />
       <jump line="137" column="14" filename="$USER_HOME$/Develop/recun-notif/index.js" />
       <jump line="24" column="13" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
@@ -956,10 +953,14 @@
       <jump line="72" column="5" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
       <jump line="77" column="6" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
       <jump line="7" column="1" filename="$USER_HOME$/Develop/mercari.tech/README.md" />
+      <jump line="34" column="8" filename="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" />
+      <jump line="32" column="7" filename="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" />
+      <jump line="506" column="38" filename="$USER_HOME$/Develop/mercari.tech/package-lock.json" />
+      <jump line="6444" column="9" filename="$USER_HOME$/Develop/mercari.tech/package-lock.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgc3BlY2lmeSB0aGUgdmVyc2lvbiB5b3UgZGVzaXJlIGhlcmUK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1151,49 +1152,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>FooterLogo</text>
+        <text>sharp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwYWRkaW5nOiAxNXB4OwogICYgPiBpbWcgewogICAgcGFkZGluZzogMTVweDsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgc3BlY2lmeSB0aGUgdmVyc2lvbiB5b3UgZGVzaXJlIGhlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgIHN1ZG8gYXB0LWdldCAteSAtcXEgaW5zdGFsbCBweXRob24zLjYgcHl0aG9uMy42LWRldgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcnVuIHRlc3RzIQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN1ZG8gYXB0LWdldCAteSAtcXEgdXBkYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN1ZG8gYWRkLWFwdC1yZXBvc2l0b3J5IHBwYTpqb25hdGhvbmYvcHl0aG9uLTMuNgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN1ZG8gYXB0LWdldCBpbnN0YWxsIHNvZnR3YXJlLXByb3BlcnRpZXMtY29tbW9uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WyFbRGVwbG95IHRvIE5ldGxpZnldKGh0dHBzOi8vd3d3Lm5ldGxpZnkuY29tL2ltZy9kZXBsb3kvYnV0dG9uLnN2ZyldKGh0dHBzOi8vYXBwLm5ldGxpZnkuY29tL3N0YXJ0L2RlcGxveT9yZXBvc2l0b3J5PWh0dHBzOi8vZ2l0aHViLmNvbS9nYXRzYnlqcy9nYXRzYnktc3RhcnRlci1kZWZhdWx0KQo=</text>
+        <text encoding="base64">ICAgICAgICB3b3JraW5nX2RpcmVjdG9yeTogLwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgRGVwbG95Cg==</text>
+        <text encoding="base64">ICAgIC0gcnUK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>FooterLogo</last-search>
+      <last-search>sharp</last-search>
       <last-offset />
-      <last-pattern>FooterLogo</last-pattern>
+      <last-pattern>sharp</last-pattern>
       <last-replace>link_white</last-replace>
       <last-substitute>link_blue</last-substitute>
       <last-dir>1</last-dir>
@@ -1201,7 +1202,6 @@
     </search>
     <history>
       <history-search>
-        <entry>js-select</entry>
         <entry>datetime</entry>
         <entry>inject</entry>
         <entry>injectGlobal</entry>
@@ -1221,6 +1221,7 @@
         <entry>Sub</entry>
         <entry>SubMenu</entry>
         <entry>FooterLogo</entry>
+        <entry>sharp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ callback\(/ await callback(/g</entry>
