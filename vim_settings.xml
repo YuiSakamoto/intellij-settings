@@ -193,7 +193,7 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" timestamp="1544524968664">
+      <file name="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" timestamp="1544583281404">
         <mark key="'" line="39" column="9" />
         <mark key="[" line="87" column="234" />
         <mark key="]" line="87" column="258" />
@@ -1242,8 +1242,8 @@
         <entry>q</entry>
         <entry>Lw</entry>
         <entry>%s/link_blue/link_white/g</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
