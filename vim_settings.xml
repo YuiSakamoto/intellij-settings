@@ -323,6 +323,12 @@
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" timestamp="1550148449340">
+        <mark key="'" line="69" column="21" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/m-ios.md.ejs" timestamp="1533646462395">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="20" />
@@ -854,35 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2220" column="15" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="2274" column="2" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="161" column="343" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="338" column="60" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="341" column="3" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="409" column="59" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="544" column="8" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="553" column="62" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="555" column="8" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="565" column="52" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="848" column="28" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="858" column="72" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="2302" column="9" filename="$USER_HOME$/Develop/mercari.tech/node_modules/styled-components/dist/styled-components.esm.js" />
-      <jump line="28" column="14" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
-      <jump line="48" column="28" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
-      <jump line="26" column="27" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
-      <jump line="76" column="8" filename="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" />
-      <jump line="74" column="3" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
-      <jump line="333" column="42" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="363" column="32" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="365" column="26" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="367" column="4" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="389" column="4" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="42" column="31" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="86" column="31" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="95" column="12" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="96" column="60" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="99" column="12" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
-      <jump line="100" column="66" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
       <jump line="104" column="24" filename="$USER_HOME$/Develop/mercari.tech/node_modules/react-burger-menu/lib/menuFactory.js" />
       <jump line="28" column="9" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="44" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
@@ -954,10 +931,39 @@
       <jump line="102" column="23" filename="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" />
       <jump line="70" column="42" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="20" column="27" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
+      <jump line="53" column="69" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="18" column="26" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="9" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="67" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="20" column="20" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="24" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="78" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="7" column="10" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="63" column="67" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="3" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="87" column="29" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="89" column="36" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="90" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="68" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="93" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="65" column="4" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="66" column="8" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="4" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="16" column="60" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="71" column="64" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="86" column="21" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
+      <jump line="69" column="21" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1149,62 +1155,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">X2JsYW5rIiA+</text>
+        <text>regions\[i\]</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShzbGlkZV9pbmZvcykpOwo=</text>
+      <register name="0" type="8">
+        <text>s[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTUzcHg7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmVnaW9uVHJlZVtyZWdpb25dID0gW11zdHJpbmd7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmVnaW9uVHJlZVtyZWdpb25dID0gW11zdHJpbmd7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzbGlkZV9pbmZvcy5zb3J0KChhLCBiKSA9PiBhLnRpbWVzdGFtcCA8IGIudGltZXN0YW1wKTsK</text>
+        <text encoding="base64">CQkJcmVnaW9uVHJlZVtyZWdpb25dID0gW11zdHJpbmd7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gcGVyc2lzdF90b193b3Jrc3BhY2U6Cg==</text>
+        <text encoding="base64">CQkJcmVnaW9uVHJlZVtyZWdpb25dID0gW11zdHJpbmd7fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gcnVuOgogICAgICAgIG5hbWU6IEJ1aWxkIGdhdHNieSBzdGF0aWMgc2l0ZS4KICAgICAgICBjb21tYW5kOiBub2RlIGxpYi9zY3JhcGluZ19wcmVzZW50YXRpb25zLmpzICYmIG5weCBnYXRzYnkgYnVpbGQKICAgIC0gcGVyc2lzdF90b193b3Jrc3BhY2U6Cg==</text>
+        <text encoding="base64">CQkJcmVnaW9uVHJlZVtyZWdpb25dID0gW11zdHJpbmd7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOiAvaG9tZS9jaXJjbGVjaS8ubG9jYWwvYmluL2F3cyBrbXMgZGVjcnlwdCAtLWNpcGhlcnRleHQtYmxvYiBmaWxlYjovL2xpYi9jb25maWcvYWNjZXNzS2V5cy5qc29uLmVuY3J5cHRlZCAtLW91dHB1dCB0ZXh0IC0tcXVlcnkgUGxhaW50ZXh0IHwgYmFzZTY0IC0tZGVjb2RlID4gbGliL2NvbmZpZy9hY2Nlc3NLZXlzLmpzb24K</text>
+        <text encoding="base64">CQkJcmVnaW9uVHJlZVtyZWdpb25dID0gW11zdHJpbmd7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBEZWNyeXB0IGFjY2Vzc0tleXMK</text>
+        <text encoding="base64">CQkJcmVnaW9uVHJlZVtyZWdpb25dID0gW11zdHJpbmd7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">X2JsYW5rIiA+</last-search>
+      <last-search>regions\[i\]</last-search>
       <last-offset />
-      <last-pattern encoding="base64">X2JsYW5rIiA+</last-pattern>
-      <last-replace encoding="base64">X2JsYW5rIj4=</last-replace>
-      <last-substitute encoding="base64">X2JsYW5rIiA+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-pattern>regions\[i\]</last-pattern>
+      <last-replace>region</last-replace>
+      <last-substitute>regions\[i\]</last-substitute>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>inject</entry>
-        <entry>injectGlobal</entry>
-        <entry>,</entry>
-        <entry>styles</entry>
-        <entry>Nav</entry>
-        <entry>,$</entry>
         <entry>'</entry>
         <entry>Link</entry>
         <entry>src</entry>
@@ -1219,15 +1219,14 @@
         <entry>FooterLogo</entry>
         <entry>sharp</entry>
         <entry encoding="base64">X2JsYW5rIiA+</entry>
+        <entry>$</entry>
+        <entry>,$</entry>
+        <entry>G</entry>
+        <entry>regions</entry>
+        <entry>regions[i]</entry>
+        <entry>regions\[i\]</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/ callback(/ await callback(/g</entry>
-        <entry>%s/ callback(/ return callback(/g</entry>
-        <entry>%s/SlideShare/SpeakerDeck/g</entry>
-        <entry>%s/;//g</entry>
-        <entry encoding="base64">JXMvJi87L2c=</entry>
-        <entry>%s/$/;/g</entry>
-        <entry>%s/;$//g</entry>
         <entry>Pw</entry>
         <entry>%s/$/&quot;,/g</entry>
         <entry encoding="base64">JzwsJz5zLyQvIiwvZw==</entry>
@@ -1239,7 +1238,14 @@
         <entry>Lw</entry>
         <entry>%s/link_blue/link_white/g</entry>
         <entry encoding="base64">JXMvX2JsYW5rIiA+L19ibGFuayI+L2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
+        <entry>%s/$/,/g</entry>
+        <entry encoding="base64">JzwsJz5zLyQvLC9n</entry>
+        <entry encoding="base64">JzwsJz5zLywkLyIsL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3JlZ2lvbnMvcmVnaW9uVHJlZS9n</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL3JlZ2lvbnNbaV0vcmVnaW9uL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3JlZ2lvbnNcW2lcXS9yZWdpb24vZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
