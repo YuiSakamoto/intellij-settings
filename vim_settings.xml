@@ -60,11 +60,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550329381277">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550330076536">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/App.ts" timestamp="1519747184050">
         <mark key="[" line="5" column="0" />
@@ -796,12 +796,11 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550329355548">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550330232255">
         <mark key="'" line="252" column="0" />
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="67" column="4" />
-        <mark key="." line="67" column="4" />
-        <mark key="^" line="67" column="13" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -957,7 +956,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByZWZlY3R1cmVzCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1149,7 +1148,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IHByZWZlY3R1cmVz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XCZkb21haW4u</text>
@@ -1158,31 +1157,31 @@
         <text>s[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByZWZlY3R1cmVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByZWZzLkxpc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
+        <text encoding="base64">CXByZWZzLkxpc3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CVJvbWFTaG9ydCgpIHN0cmluZwo=</text>
+        <text encoding="base64">CXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUthbmFTaG9ydCgpIHN0cmluZwo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUthbmppU2hvcnQoKSBzdHJpbmcK</text>
+        <text encoding="base64">CVJvbWFTaG9ydCgpIHN0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
