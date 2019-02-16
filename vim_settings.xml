@@ -9,12 +9,12 @@
         <mark key="." line="2" column="25" />
         <mark key="^" line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" timestamp="1550323796991">
+      <file name="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" timestamp="1550324316402">
         <mark key="'" line="52" column="4" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="4" column="0" />
+        <mark key="[" line="64" column="46" />
+        <mark key="]" line="64" column="46" />
+        <mark key="." line="64" column="46" />
+        <mark key="^" line="64" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corporate/recruit/newgrads/index.html" timestamp="1532492306256">
         <mark key="[" line="529" column="33" />
@@ -689,12 +689,12 @@
         <mark key="^" line="23" column="25" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/soleil-web/bin/scraping_doctors_and_hospitals.go" timestamp="1550322948788">
-        <mark key="'" line="64" column="4" />
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="64" column="23" />
-        <mark key="^" line="64" column="23" />
-        <mark key="." line="64" column="23" />
+      <file name="$USER_HOME$/Develop/soleil-web/bin/scraping_doctors_and_hospitals.go" timestamp="1550324532332">
+        <mark key="'" line="68" column="24" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="4" />
+        <mark key="^" line="64" column="45" />
+        <mark key="." line="282" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/layouts/index.js" timestamp="1539257000741">
         <mark key="[" line="5" column="16" />
@@ -889,7 +889,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
       <jump line="59" column="17" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
       <jump line="14" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
       <jump line="1" column="7" filename="$USER_HOME$/Develop/mercari.tech/src/pages/presentations.js" />
@@ -989,10 +988,11 @@
       <jump line="72" column="4" filename="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" />
       <jump line="210" column="0" filename="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" />
       <jump line="52" column="4" filename="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" />
+      <jump line="70" column="24" filename="$USER_HOME$/Develop/soleil-web/bin/scraping_doctors_and_hospitals.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>domain.Prefecture();</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1184,7 +1184,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>prefe</text>
+        <text>domain.Prefecture();</text>
       </register>
       <register name="/" type="4">
         <text>regions\[i\]</text>
@@ -1193,31 +1193,31 @@
         <text>s[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJwcmVmZWN0dXJlIgo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL21hZWhhcmluL3NvbGVpbC13ZWIvYXBpL2RvbWFpbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJkb21haW4iCg==</text>
+        <text encoding="base64">KSwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CSJnaXRodWIuY29tL21hZWhhcmluL3NvbGVpbC13ZWIvYXBpL2RvbWFpbiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8ga3l1c2h1IOOBr+S5neW3nuWcsOaWueOBruaDheWgseOCkuWumue+qeOBl+OBn+WApOOBp+OBmeOAggo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gc2hpa29rdSDjga/lm5vlm73lnLDmlrnjga7mg4XloLHjgpLlrprnvqnjgZfjgZ/lgKTjgafjgZnjgIIK</text>
+        <text encoding="base64">CSJwcmVmZWN0dXJlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY2h1Z29rdSDjga/kuK3lm73lnLDmlrnjga7mg4XloLHjgpLlrprnvqnjgZfjgZ/lgKTjgafjgZnjgIIK</text>
+        <text encoding="base64">CSJkb21haW4iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8ga2Fuc2FpIOOBr+mWouilv+WcsOaWueOBruaDheWgseOCkuWumue+qeOBl+OBn+WApOOBp+OBmeOAggo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL21hZWhhcmluL3NvbGVpbC13ZWIvYXBpL2RvbWFpbiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY2h1YnUg44Gv5Lit6YOo5Zyw5pa544Gu5oOF5aCx44KS5a6a576p44GX44Gf5YCk44Gn44GZ44CCCg==</text>
+        <text encoding="base64">Ly8ga3l1c2h1IOOBr+S5neW3nuWcsOaWueOBruaDheWgseOCkuWumue+qeOBl+OBn+WApOOBp+OBmeOAggo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
