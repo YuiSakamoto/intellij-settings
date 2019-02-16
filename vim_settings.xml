@@ -60,11 +60,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550330076536">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550331578851">
+        <mark key="'" line="5" column="23" />
         <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="5" column="28" />
-        <mark key="." line="5" column="28" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/App.ts" timestamp="1519747184050">
         <mark key="[" line="5" column="0" />
@@ -796,11 +797,12 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550330232255">
-        <mark key="'" line="252" column="0" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550331520667">
+        <mark key="'" line="266" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="1" />
+        <mark key="." line="56" column="1" />
+        <mark key="^" line="56" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -853,9 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="54" column="12" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="36" column="17" filename="$USER_HOME$/Develop/mercari.tech/src/components/layout.js" />
       <jump line="90" column="52" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="10" column="34" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="92" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
@@ -953,10 +952,13 @@
       <jump line="58" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
       <jump line="258" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
       <jump line="244" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
+      <jump line="56" column="1" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
+      <jump line="266" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
+      <jump line="5" column="23" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXByZWZlY3R1cmVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1148,7 +1150,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByZWZlY3R1cmVz</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XCZkb21haW4u</text>
@@ -1157,13 +1159,13 @@
         <text>s[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByZWZlY3R1cmVzCg==</text>
+        <text encoding="base64">CWRvbWFpbi5QcmVmZWN0dXJlc3t9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CXByZWZlY3R1cmVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1172,16 +1174,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByZWZzLkxpc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXAK</text>
+        <text encoding="base64">CXByZWZzLkxpc3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
+        <text encoding="base64">CXAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CVJvbWFTaG9ydCgpIHN0cmluZwo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
