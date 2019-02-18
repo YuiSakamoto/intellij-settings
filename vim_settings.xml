@@ -60,12 +60,12 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550472822234">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550482833422">
         <mark key="'" line="6" column="23" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="26" />
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/App.ts" timestamp="1519747184050">
         <mark key="[" line="5" column="0" />
@@ -958,7 +958,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1150,7 +1150,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XCZkb21haW4u</text>
