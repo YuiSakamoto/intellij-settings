@@ -60,12 +60,11 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550482833422">
-        <mark key="'" line="6" column="23" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550487336390">
+        <mark key="i" line="9" column="30" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/App.ts" timestamp="1519747184050">
         <mark key="[" line="5" column="0" />
@@ -779,6 +778,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" timestamp="1550485792397">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="16" column="61" />
@@ -797,12 +802,12 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550331520667">
-        <mark key="'" line="266" column="0" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="1" />
-        <mark key="." line="56" column="1" />
-        <mark key="^" line="56" column="1" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550487285796">
+        <mark key="'" line="212" column="9" />
+        <mark key="[" line="212" column="4" />
+        <mark key="]" line="212" column="9" />
+        <mark key="^" line="212" column="9" />
+        <mark key="." line="212" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -855,9 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="52" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="10" column="34" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="33" column="18" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="155" column="1" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="37" column="108" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
@@ -955,10 +957,13 @@
       <jump line="56" column="1" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
       <jump line="266" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
       <jump line="5" column="23" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
+      <jump line="169" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
+      <jump line="168" column="39" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
+      <jump line="212" column="9" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>u</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1150,58 +1155,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XCZkb21haW4u</text>
+        <text>https:\/\/www.jsaps.com\/profile\/category\/region\/</text>
       </register>
       <register name="0" type="8">
         <text>s[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWRvbWFpbi5QcmVmZWN0dXJlc3t9Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByZWZlY3R1cmVzCg==</text>
+        <text encoding="base64">b2tpbmF3YS8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">a2Fnb3NoaW1hLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a3VtYW1vdG8vCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlrYW5zYWksCgkJY2h1Z29rdSwKCQlzaGlrb2t1LAoJCWt5dXNodSwKCX0KfQoKa3VtYW1vdG8vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dG9rdXNoaW1hLwprb2NoaS8KZnVrdW9rYS8Kc2FnYS8KbmFnYXNha2kvCm9pdGEvCm1peWF6YWtpLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByZWZzLkxpc3QoKQo=</text>
+        <text encoding="base64">dG90dG9yaS8Kc2hpbWFuZS8Kb2theWFtYS8KaGlyb3NoaW1hLwp5YW1hZ3VjaGkvCmthZ2F3YS8KZWhpbWUvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXAK</text>
+        <text encoding="base64">ZnVrdWkvCnNoaWdhLwpreW90by8KaHlvZ28vCm5hcmEvCm9zYWthLwp3YWtheWFtYS8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKCJ0ZXN0IikK</text>
+        <text encoding="base64">aXNoaWthd2EvCm5hZ2Fuby8KeWFtYW5hc2hpLwpzaGl6dW9rYS8KZ2lmdS8KYWljaGkvCm1pZS8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XCZkb21haW4u</last-search>
+      <last-search>https:\/\/www.jsaps.com\/profile\/category\/region\/</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XCZkb21haW4u</last-pattern>
+      <last-pattern>https:\/\/www.jsaps.com\/profile\/category\/region\/</last-pattern>
       <last-replace />
-      <last-substitute encoding="base64">XCZkb21haW4u</last-substitute>
+      <last-substitute>https:\/\/www.jsaps.com\/profile\/category\/region\/</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>h1</entry>
-        <entry>hover</entry>
         <entry>HeaderTitle</entry>
         <entry>240</entry>
         <entry>width</entry>
@@ -1220,11 +1223,10 @@
         <entry encoding="base64">XCZyZWdpb24=</entry>
         <entry>Region</entry>
         <entry encoding="base64">XCZkb21haW4u</entry>
+        <entry>}</entry>
+        <entry>https:\/\/www.jsaps.com\/profile\/category\/region\/</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL14vIi9n</entry>
-        <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
-        <entry encoding="base64">JzwsJz5zLywkLzsvZw==</entry>
         <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
         <entry>q</entry>
         <entry>Lw</entry>
@@ -1241,6 +1243,9 @@
         <entry encoding="base64">JXMvXCZyZWdpb24vZG9tYWluLlJlZ2lvbi9n</entry>
         <entry>%s/Region/region/g</entry>
         <entry encoding="base64">JXMvXCZkb21haW4uLy9n</entry>
+        <entry>:w</entry>
+        <entry encoding="base64">JzwsJz5zL30vLCB1cmxfc3RyaW5nOiAiIn0vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC93d3cuanNhcHMuY29tXC9wcm9maWxlXC9jYXRlZ29yeVwvcmVnaW9uXC8vL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
