@@ -53,20 +53,18 @@
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/soleil-web/api/repository/cost_repository.go" timestamp="1550322896072" />
       <file name="$USER_HOME$/Develop/recun/review-templates/mp-api.md.ejs" timestamp="1533646475084">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550565062479">
-        <mark key="'" line="21" column="14" />
-        <mark key="i" line="51" column="0" />
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="54" column="35" />
-        <mark key="." line="54" column="35" />
-        <mark key="^" line="54" column="35" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550645913629">
+        <mark key="i" line="40" column="0" />
+        <mark key="[" line="45" column="41" />
+        <mark key="]" line="45" column="41" />
+        <mark key="." line="45" column="41" />
+        <mark key="^" line="46" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/App.ts" timestamp="1519747184050">
         <mark key="[" line="5" column="0" />
@@ -80,7 +78,6 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/soleil-web/api/repository/diary_repository.go" timestamp="1550323748845" />
       <file name="$USER_HOME$/Develop/recun-deploy/config-workable.yaml" timestamp="1534399815861">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="25" />
@@ -226,6 +223,7 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/src/github.com/PuerkitoBio/goquery/type.go" timestamp="1550645440312" />
       <file name="$USER_HOME$/Develop/mercari.tech/package-lock.json" timestamp="1544089228983">
         <mark key="'" line="6444" column="9" />
       </file>
@@ -862,7 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="108" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="45" column="36" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="138" column="17" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="10" column="4" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
@@ -962,10 +959,11 @@
       <jump line="212" column="9" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
       <jump line="26" column="13" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
       <jump line="20" column="14" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
+      <jump line="41" column="41" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>/</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1157,40 +1155,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>region_url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZG9jLkZpbmQoImRpdi5jb250YWluID4gdGFibGUudGFibGUtc3RyaXBlZCA+IHRib2R5ID4gdHIiKS5FYWNoKGZ1bmMoaSBpbnQsIHMgKmdvcXVlcnkuU2VsZWN0aW9uKSB7Cg==</text>
+        <text encoding="base64">CQkJCQlidWlsZGVyLldyaXRlU3RyaW5nKCIvcGFnZS8iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZm10LlByaW50bG4obG9vcFRpbWUsICLjg5rjg7zjgrgiKQo=</text>
+        <text encoding="base64">CQkJCQlidWlsZGVyLldyaXRlU3RyaW5nKCJwYWdlLyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCXcK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJfSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCWZtdC5QcmludGxuKHMuSGFzTm9kZXMoImEiKS5BdHRyKCJocmVmIikpCg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJfQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCWxvZy5GYXRhbChlcnIpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJaWYgZXJyICE9IG5pbCB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJZG9jLCBlcnIgOj0gZ29xdWVyeS5OZXdEb2N1bWVudEZyb21SZWFkZXIocmVzLkJvZHkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQl2YXIgZG9jdG9yTmFtZSBzdHJpbmcKCQkJCQl2YXIgbXNGbGFnIGJvb2wgLy8gbWVkaWNhbCBzcGVjaWFsaXN0ID0g6KqN5a6a5Yy7CgkJCQkJdmFyIGRvY3Rvck5hbWUgc3RyaW5nCg==</text>
+        <text encoding="base64">CQkJCWxvZy5GYXRhbGYoInN0YXR1cyBjb2RlIGVycm9yOiAlZCAlcyIsIHJlcy5TdGF0dXNDb2RlLCByZXMuU3RhdHVzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
