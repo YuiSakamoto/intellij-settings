@@ -797,12 +797,12 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550559627887">
-        <mark key="'" line="217" column="9" />
-        <mark key="[" line="62" column="17" />
-        <mark key="]" line="63" column="21" />
-        <mark key="^" line="63" column="21" />
-        <mark key="." line="63" column="21" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550739482516">
+        <mark key="'" line="218" column="9" />
+        <mark key="[" line="118" column="14" />
+        <mark key="]" line="119" column="14" />
+        <mark key="^" line="119" column="14" />
+        <mark key="." line="119" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
