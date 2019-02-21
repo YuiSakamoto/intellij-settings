@@ -773,11 +773,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" timestamp="1550559584749">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" timestamp="1550741267262">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
         <mark key="[" line="16" column="25" />
@@ -797,12 +797,12 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550739482516">
-        <mark key="'" line="218" column="9" />
-        <mark key="[" line="118" column="14" />
-        <mark key="]" line="119" column="14" />
-        <mark key="^" line="119" column="14" />
-        <mark key="." line="119" column="14" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550741251908">
+        <mark key="'" line="76" column="7" />
+        <mark key="[" line="165" column="103" />
+        <mark key="]" line="165" column="107" />
+        <mark key="^" line="165" column="107" />
+        <mark key="." line="165" column="107" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -855,8 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="16" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
-      <jump line="53" column="11" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
       <jump line="94" column="41" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="83" column="16" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="69" column="14" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
@@ -955,10 +953,12 @@
       <jump line="301" column="49" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" />
       <jump line="2" column="21" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" />
+      <jump line="76" column="7" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1153,34 +1153,34 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>master</text>
+        <text>url_string</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNyZWF0ZV90aW1lc3RhbXAgVElNRVNUQU1QIFdJVEhPVVQgVElNRSBaT05FIE5PVCBOVUxMIERFRkFVTFQgbm93KCksCiAgICB1cGRhdGVfdGltZXN0YW1wIFRJTUVTVEFNUCBXSVRIT1VUIFRJTUUgWk9ORSBOT1QgTlVMTCBERUZBVUxUIG5vdygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd7MSwyfScsCg==</text>
+        <text encoding="base64">CVJvbWEoKSBzdHJpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDEsCg==</text>
+        <text encoding="base64">CVVybFN0cmluZygpIHN0cmluZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">CUthbmEoKSBzdHJpbmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gZmF2ZXMudXNlcl9pZCBJUyAndXNlcnMuaWQnOwo=</text>
+        <text encoding="base64">CUthbmppKCkgc3RyaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gZG9jdG9ycy5kaWFyeV9pZCBJUyAnZGlhcmllcy5pZCc7Cg==</text>
+        <text encoding="base64">CUNvZGUoKSBpbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZSBQcmVmZWN0dXJlIGludGVyZmFjZSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1190,17 +1190,16 @@
       </register>
     </registers>
     <search>
-      <last-search>master</last-search>
+      <last-search>url_string</last-search>
       <last-offset />
-      <last-pattern>master</last-pattern>
-      <last-replace>regionUrl</last-replace>
-      <last-substitute>region_url</last-substitute>
+      <last-pattern>url_string</last-pattern>
+      <last-replace>urlString</last-replace>
+      <last-substitute>url_string</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>width</entry>
         <entry>link_blue</entry>
         <entry>Sub</entry>
         <entry>SubMenu</entry>
@@ -1220,9 +1219,9 @@
         <entry>https:\/\/www.jsaps.com\/profile\/category\/region\/</entry>
         <entry>region_url</entry>
         <entry>master</entry>
+        <entry>url_string</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>Lw</entry>
         <entry>%s/link_blue/link_white/g</entry>
         <entry encoding="base64">JXMvX2JsYW5rIiA+L19ibGFuayI+L2c=</entry>
@@ -1241,6 +1240,7 @@
         <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC93d3cuanNhcHMuY29tXC9wcm9maWxlXC9jYXRlZ29yeVwvcmVnaW9uXC8vL2c=</entry>
         <entry>W</entry>
         <entry>%s/region_url/regionUrl/g</entry>
+        <entry>%s/url_string/urlString/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
