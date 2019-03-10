@@ -59,7 +59,8 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1550657633998">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1552205059830">
+        <mark key="'" line="15" column="26" />
         <mark key="i" line="40" column="0" />
         <mark key="[" line="62" column="42" />
         <mark key="]" line="62" column="59" />
@@ -128,6 +129,12 @@
         <mark key="]" line="15" column="5" />
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/prefecture_repository.go" timestamp="1552208175793">
+        <mark key="[" line="7" column="83" />
+        <mark key="]" line="7" column="94" />
+        <mark key="^" line="7" column="94" />
+        <mark key="." line="7" column="94" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/App.tsx" timestamp="1519796684416">
         <mark key="[" line="4" column="30" />
@@ -413,12 +420,12 @@
         <mark key="^" line="22" column="16" />
         <mark key="." line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" timestamp="1550658102528">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" timestamp="1552206809878">
         <mark key="'" line="2" column="21" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="^" line="311" column="83" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="311" column="18" />
+        <mark key="]" line="311" column="24" />
+        <mark key="^" line="311" column="24" />
+        <mark key="." line="311" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/lib/presentations/speakerdeck.js" timestamp="1535619798997">
         <mark key="'" line="7" column="102" />
@@ -500,6 +507,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/progress_repository.go" timestamp="1552207740377" />
       <file name="$USER_HOME$/Develop/mercari.tech/src/const/colors.js" timestamp="1542343710119">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -772,12 +780,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" timestamp="1552203487771">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" timestamp="1552207851421">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="21" />
-        <mark key="." line="27" column="21" />
-        <mark key="^" line="27" column="21" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
         <mark key="[" line="16" column="25" />
@@ -797,12 +805,12 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1552203587437">
-        <mark key="'" line="64" column="7" />
-        <mark key="[" line="115" column="39" />
-        <mark key="]" line="115" column="39" />
-        <mark key="^" line="115" column="39" />
-        <mark key="." line="115" column="39" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1552207830874">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="111" column="29" />
+        <mark key="]" line="111" column="29" />
+        <mark key="^" line="111" column="29" />
+        <mark key="." line="111" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -855,10 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="41" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="83" column="16" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="69" column="14" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
-      <jump line="216" column="3" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="34" column="32" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="187" column="30" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
       <jump line="192" column="2" filename="$USER_HOME$/Develop/mercari.tech/src/components/header.js" />
@@ -955,10 +959,14 @@
       <jump line="2" column="21" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" />
       <jump line="76" column="7" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
       <jump line="16" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" />
+      <jump line="27" column="13" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
+      <jump line="15" column="26" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
+      <jump line="64" column="5" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
+      <jump line="89" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1150,10 +1158,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>url_string</text>
+        <text>prefecture</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNyZWF0ZV90aW1lc3RhbXAgVElNRVNUQU1QIFdJVEhPVVQgVElNRSBaT05FIE5PVCBOVUxMIERFRkFVTFQgbm93KCksCiAgICB1cGRhdGVfdGltZXN0YW1wIFRJTUVTVEFNUCBXSVRIT1VUIFRJTUUgWk9ORSBOT1QgTlVMTCBERUZBVUxUIG5vdygpCg==</text>
@@ -1165,43 +1173,41 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUxpc3QoKSBbXVByZWZlY3R1cmUK</text>
+        <text encoding="base64">CUxpc3QoKSBbXXByZWZlY3R1cmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBQcmVmZWN0dXJlcyBpbnRlcmZhY2Ugewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CVJvbWEoKSBzdHJpbmcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CVVybFN0cmluZygpIHN0cmluZwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">CVJvbWEoKSBzdHJpbmcK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CUthbmEoKSBzdHJpbmcK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CUthbmppKCkgc3RyaW5nCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dHlwZSBSZWdpb24gaW50ZXJmYWNlIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>url_string</last-search>
+      <last-search>prefecture</last-search>
       <last-offset />
-      <last-pattern>url_string</last-pattern>
-      <last-replace>urlString</last-replace>
-      <last-substitute>url_string</last-substitute>
+      <last-pattern>prefecture</last-pattern>
+      <last-replace>Prefecture</last-replace>
+      <last-substitute>prefecture</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>link_blue</entry>
-        <entry>Sub</entry>
         <entry>SubMenu</entry>
         <entry>FooterLogo</entry>
         <entry>sharp</entry>
@@ -1220,10 +1226,10 @@
         <entry>region_url</entry>
         <entry>master</entry>
         <entry>url_string</entry>
+        <entry>List</entry>
+        <entry>prefecture</entry>
       </history-search>
       <history-cmd>
-        <entry>Lw</entry>
-        <entry>%s/link_blue/link_white/g</entry>
         <entry encoding="base64">JXMvX2JsYW5rIiA+L19ibGFuayI+L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyQvIi9n</entry>
         <entry>%s/$/,/g</entry>
@@ -1238,9 +1244,11 @@
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL30vLCB1cmxfc3RyaW5nOiAiIn0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC93d3cuanNhcHMuY29tXC9wcm9maWxlXC9jYXRlZ29yeVwvcmVnaW9uXC8vL2c=</entry>
-        <entry>W</entry>
         <entry>%s/region_url/regionUrl/g</entry>
         <entry>%s/url_string/urlString/g</entry>
+        <entry>%s/prefecture/Prefecture/g</entry>
+        <entry encoding="base64">JzwsJz5zL3ByZWZlY3R1cmUvUHJlZmVjdHVyZS9n</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
