@@ -85,11 +85,11 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/doctor_repository.go" timestamp="1552216372589">
-        <mark key="[" line="44" column="31" />
-        <mark key="]" line="44" column="31" />
-        <mark key="^" line="44" column="31" />
-        <mark key="." line="44" column="31" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/doctor_repository.go" timestamp="1552217252059">
+        <mark key="[" line="56" column="15" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="56" column="17" />
+        <mark key="." line="56" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -989,7 +989,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>err</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1181,13 +1181,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>err</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWFycy5IYW5kbGVGdW5jKCIvZ2V0U3VnZ2VzdERvY3Rvck5hbWUve2NraW5pY0lkOlswLTldKyJ9LCBoKGNvbnRyb2xsZXIuZ2V0U3VnZ2VzdERvY3Rvck5hbWUpKS5NZXRob2RzKCJHRVQiKQo=</text>
+        <text encoding="base64">ZnVuYyAociAqUmVwb3NpdG9yeSkgZmluZERvY3RvcnNCeU5hbWVBbmRDbGluaWNJZCAocSBzcWx4LlF1ZXJ5ZXIsIG5hbWUgc3RyaW5nLCBjbGluaWNJZCBpbnQ2NCkgKCpkb21haW4uRG9jdG9yLCBlcnJvcikgewoJLy8gcmV0dXJuIGRvY3RvcnMsIGVycgp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUlzTWVkaWNhbFNwZWNpYWxpc3QgYm9vbAo=</text>
