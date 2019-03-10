@@ -223,7 +223,6 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/PuerkitoBio/goquery/type.go" timestamp="1550645440312" />
       <file name="$USER_HOME$/Develop/recun-notif/eot-github-webhook-skilltest.yaml" timestamp="1534749342435">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
@@ -773,11 +772,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" timestamp="1550741267262">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" timestamp="1552203487771">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
+        <mark key="^" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
         <mark key="[" line="16" column="25" />
@@ -797,12 +797,12 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1550741251908">
-        <mark key="'" line="76" column="7" />
-        <mark key="[" line="165" column="103" />
-        <mark key="]" line="165" column="107" />
-        <mark key="^" line="165" column="107" />
-        <mark key="." line="165" column="107" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1552203587437">
+        <mark key="'" line="64" column="7" />
+        <mark key="[" line="115" column="39" />
+        <mark key="]" line="115" column="39" />
+        <mark key="^" line="115" column="39" />
+        <mark key="." line="115" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
         <mark key="[" line="17" column="6" />
@@ -957,8 +957,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1150,7 +1150,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>url_string</text>
@@ -1165,25 +1165,25 @@
         <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CVJvbWEoKSBzdHJpbmcK</text>
+        <text encoding="base64">CUxpc3QoKSBbXVByZWZlY3R1cmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CVVybFN0cmluZygpIHN0cmluZwo=</text>
+        <text encoding="base64">dHlwZSBQcmVmZWN0dXJlcyBpbnRlcmZhY2Ugewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUthbmEoKSBzdHJpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUthbmppKCkgc3RyaW5nCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUNvZGUoKSBpbnQK</text>
+        <text encoding="base64">CVJvbWEoKSBzdHJpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dHlwZSBQcmVmZWN0dXJlIGludGVyZmFjZSB7Cg==</text>
+        <text encoding="base64">CVVybFN0cmluZygpIHN0cmluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUthbmEoKSBzdHJpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
