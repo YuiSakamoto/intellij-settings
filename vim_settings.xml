@@ -3,36 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/electronic_communication_policy.html.twig" timestamp="1511322886549">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-      </file>
       <file name="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" timestamp="1550324316402">
         <mark key="'" line="52" column="4" />
         <mark key="[" line="64" column="46" />
         <mark key="]" line="64" column="46" />
         <mark key="." line="64" column="46" />
         <mark key="^" line="64" column="45" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corporate/recruit/newgrads/index.html" timestamp="1532492306256">
-        <mark key="[" line="529" column="33" />
-        <mark key="]" line="529" column="73" />
-        <mark key="." line="529" column="73" />
-        <mark key="^" line="529" column="73" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/mp-android.md.ejs" timestamp="1533646469003">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/skill-test-templates/mercari/android-template/.circleci/config.yml" timestamp="1535017991106">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="16" column="13" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/package.json" timestamp="1536229354615">
         <mark key="'" line="66" column="14" />
@@ -41,67 +17,19 @@
         <mark key="^" line="78" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/.gitignore" timestamp="1532333631753">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/containers/List.tsx" timestamp="1519803483660">
-        <mark key="[" line="2" column="61" />
-        <mark key="]" line="2" column="61" />
-        <mark key="." line="2" column="61" />
-        <mark key="^" line="2" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/mp-api.md.ejs" timestamp="1533646475084">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1552212113179">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1552218903910">
         <mark key="'" line="19" column="0" />
         <mark key="i" line="79" column="0" />
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="53" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/scauto/src/components/App.ts" timestamp="1519747184050">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_test_201811/index.php" timestamp="1541574751758">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/config-workable.yaml" timestamp="1534399815861">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="2" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/doctor_repository.go" timestamp="1552217252059">
-        <mark key="[" line="56" column="15" />
-        <mark key="]" line="56" column="17" />
-        <mark key="^" line="56" column="17" />
-        <mark key="." line="56" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/s-ios.md.ejs" timestamp="1533646507796">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/doctor_repository.go" timestamp="1552218004868">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="21" />
+        <mark key="^" line="59" column="21" />
+        <mark key="." line="59" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/lib/presentations/slideshare.js" timestamp="1535623162509">
         <mark key="'" line="9" column="0" />
@@ -117,24 +45,12 @@
         <mark key="." line="64" column="38" />
         <mark key="^" line="64" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/transit_talentpool.php" timestamp="1532422812256">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="82" column="33" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/recun-notif/template.yml" timestamp="1534834876507">
         <mark key="'" line="22" column="301" />
         <mark key="[" line="22" column="42" />
         <mark key="]" line="22" column="286" />
         <mark key="^" line="22" column="286" />
         <mark key="." line="22" column="286" />
-      </file>
-      <file name="$USER_HOME$/Develop/m-career-wp-content-prd/wp-content/themes/mercari-recruit/functions/JobAPI.php" timestamp="1529998680114">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="15" column="5" />
-        <mark key="." line="15" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/prefecture_repository.go" timestamp="1552208616470">
         <mark key="'" line="9" column="0" />
@@ -144,24 +60,6 @@
         <mark key="." line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/cost_repository.go" timestamp="1552211266772" />
-      <file name="$USER_HOME$/Develop/scauto/src/components/App.tsx" timestamp="1519796684416">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="43" />
-        <mark key="." line="4" column="43" />
-        <mark key="^" line="4" column="43" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/README.md" timestamp="1532342850392">
-        <mark key="[" line="7" column="39" />
-        <mark key="]" line="7" column="39" />
-        <mark key="^" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/help_center/us/input_email.html.twig" timestamp="1510281352279">
-        <mark key="[" line="3" column="91" />
-        <mark key="]" line="3" column="91" />
-        <mark key="^" line="3" column="96" />
-        <mark key="." line="3" column="91" />
-      </file>
       <file name="$USER_HOME$/Develop/presentations/lib/scraping_presentations.js" timestamp="1536223341834">
         <mark key="'" line="64" column="26" />
         <mark key="[" line="70" column="0" />
@@ -169,13 +67,8 @@
         <mark key="^" line="68" column="36" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/s-frontend.md.ejs" timestamp="1533646502235">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/doctor.go" timestamp="1552213881660">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/diary_service.go" timestamp="1552218505721" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/doctor.go" timestamp="1552217590363">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
@@ -187,42 +80,7 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact_from_web_no_login.html.twig" timestamp="1509084823446">
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="58" column="33" />
-        <mark key="^" line="58" column="113" />
-        <mark key="." line="58" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate csv" timestamp="1531384548414">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/Candidate/WorkableTalentpool.php" timestamp="1532421362101">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Util/XAccessTokenMarkerInterface.php" timestamp="1508835361709">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/containers/App.tsx" timestamp="1519804469339">
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-      </file>
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/fav_repository.go" timestamp="1552218121741" />
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/clinic.go" timestamp="1552209823781">
         <mark key="'" line="2" column="7" />
         <mark key="[" line="10" column="0" />
@@ -236,36 +94,6 @@
         <mark key="]" line="102" column="23" />
         <mark key="^" line="102" column="23" />
         <mark key="." line="102" column="23" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/scripts/m-recun-bot/m-recun-workable-deploy.sh" timestamp="1534317726424">
-        <mark key="[" line="7" column="62" />
-        <mark key="]" line="7" column="70" />
-        <mark key="^" line="7" column="70" />
-        <mark key="." line="7" column="70" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/App.tsx" timestamp="1519786360116">
-        <mark key="[" line="17" column="36" />
-        <mark key="]" line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-notif/eot-github-webhook-skilltest.yaml" timestamp="1534749342435">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item/left_column.html.twig" timestamp="1507168467089">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/sp_common_menu.js" timestamp="1544610039223">
-        <mark key="[" line="12" column="60" />
-        <mark key="]" line="12" column="60" />
-        <mark key="^" line="26" column="66" />
-        <mark key="." line="12" column="60" />
       </file>
       <file name="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" timestamp="1533646427588">
         <mark key="'" line="100" column="2" />
@@ -281,18 +109,6 @@
         <mark key="." line="103" column="1" />
         <mark key="^" line="103" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/m-android.md.ejs" timestamp="1533646438242">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/start_verification.html.twig" timestamp="1509454858389">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-      </file>
       <file name="$USER_HOME$/Develop/recun-notif/event.json" timestamp="1542261510186">
         <mark key="'" line="134" column="22" />
         <mark key="[" line="266" column="23" />
@@ -300,97 +116,13 @@
         <mark key="^" line="266" column="35" />
         <mark key="." line="266" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/mp-ios.md.ejs" timestamp="1533646486212">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/doctor_service.go" timestamp="1552216286825">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="44" />
-        <mark key="^" line="22" column="44" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/README.md" timestamp="1519723625282">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="12" column="30" />
-        <mark key="." line="12" column="30" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/doctor_service.go" timestamp="1552218388820">
+        <mark key="[" line="35" column="13" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/controller/diary_controller.go" timestamp="1552213224604" />
-      <file name="$USER_HOME$/Develop/workable_transition/src/get_job_shortcode.php" timestamp="1532332842810">
-        <mark key="[" line="11" column="55" />
-        <mark key="]" line="11" column="63" />
-        <mark key="." line="11" column="63" />
-        <mark key="^" line="11" column="63" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/app.ts" timestamp="1519748612175">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/header.php" timestamp="1540452880182">
-        <mark key="[" line="39" column="17" />
-        <mark key="]" line="39" column="25" />
-        <mark key="." line="39" column="25" />
-        <mark key="^" line="39" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact.html.twig" timestamp="1510323784706">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="30" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="21" column="30" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/m-ios.md.ejs" timestamp="1533646462395">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/config.php" timestamp="1542603066647">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="62" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/Configure/Configure.php" timestamp="1531207834070">
-        <mark key="[" line="23" column="28" />
-        <mark key="]" line="23" column="34" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-notif/README.md" timestamp="1534918655310">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="80" />
-        <mark key="." line="10" column="80" />
-        <mark key="^" line="10" column="80" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/verified.html.twig" timestamp="1509455027767">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="22" column="27" />
-      </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/config/accessKeys.json" timestamp="1535965469888">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="1" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/index.pug" timestamp="1519748856853">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/docs/talentio candidate" timestamp="1531207261734">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="6" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-      </file>
       <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1542261990167">
         <mark key="'" line="140" column="14" />
         <mark key="[" line="88" column="23" />
@@ -405,24 +137,12 @@
         <mark key="^" line="75" column="12" />
         <mark key="." line="75" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/scauto/src/components/ScautoListRows.tsx" timestamp="1519798114779">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="30" />
-      </file>
       <file name="$USER_HOME$/Develop/soleil-web/api/domain/prefecture.go" timestamp="1550323116093">
         <mark key="'" line="15" column="4" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1534921562222">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" timestamp="1552209145016">
         <mark key="'" line="2" column="21" />
@@ -438,72 +158,12 @@
         <mark key="." line="14" column="76" />
         <mark key="^" line="14" column="76" />
       </file>
-      <file name="$USER_HOME$/Develop/presentations/README.md" timestamp="1536229982548">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari.tech/lib/scraping_presentations.js" timestamp="1544609625606">
         <mark key="'" line="14" column="23" />
         <mark key="[" line="86" column="63" />
         <mark key="]" line="86" column="63" />
         <mark key="^" line="86" column="63" />
         <mark key="." line="86" column="63" />
-      </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slide.js" timestamp="1535618728907">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/index.tsx" timestamp="1519794653093">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/global_nav/index.html.twig" timestamp="1508998210524">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="46" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="17" column="46" />
-      </file>
-      <file name="$USER_HOME$/Develop/presentations/docker-compose.yml" timestamp="1536229913190">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="13" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/.gitignore" timestamp="1536293779578">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/stages.php" timestamp="1531376260065">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/components/menu.json" timestamp="1543397190534">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/Configure.php" timestamp="1531204219056">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/candidate_keys_mapping.php" timestamp="1532420202261">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="28" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/progress_repository.go" timestamp="1552209999867" />
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/controller/user_controller.go" timestamp="1552213526166" />
@@ -514,30 +174,12 @@
         <mark key="^" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/presentations.txt" timestamp="1539252370551">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="22" column="73" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_test_201811/composer.json" timestamp="1541573468505">
-        <mark key="[" line="13" column="26" />
-        <mark key="]" line="13" column="26" />
-        <mark key="." line="13" column="26" />
-        <mark key="^" line="1" column="41" />
-      </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/clinic_repository.go" timestamp="1552216390668">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="42" column="31" />
-        <mark key="]" line="42" column="31" />
-        <mark key="." line="42" column="31" />
-        <mark key="^" line="42" column="31" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/.envrc.workable" timestamp="1539244471457">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="80" />
-        <mark key="." line="1" column="80" />
-        <mark key="^" line="1" column="80" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/clinic_repository.go" timestamp="1552218435075">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+        <mark key="^" line="51" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/webpack.prod.js" timestamp="1535097795633">
         <mark key="'" line="88" column="17" />
@@ -553,109 +195,13 @@
         <mark key="^" line="218" column="53" />
         <mark key="." line="218" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/sute.php" timestamp="1531289575907">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/package.json" timestamp="1542683324752">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Service/BreadCrumbService.php" timestamp="1508916267516">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="212" column="39" />
-      </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/diary_repository.go" timestamp="1552215663724" />
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/README.md" timestamp="1535694669938">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/app.tsx" timestamp="1519750093237">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="23" />
-      </file>
       <file name="$USER_HOME$/Develop/presentations/.gitignore" timestamp="1536228794630">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/privacy.html.twig" timestamp="1511324691512">
-        <mark key="[" line="101" column="32" />
-        <mark key="]" line="101" column="32" />
-        <mark key="." line="101" column="32" />
-        <mark key="^" line="101" column="32" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/README.md" timestamp="1535966873035">
-        <mark key="[" line="34" column="45" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
-        <mark key="^" line="34" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/template-parts/header.php" timestamp="1540456435822">
-        <mark key="[" line="90" column="37" />
-        <mark key="]" line="90" column="20" />
-        <mark key="." line="90" column="20" />
-        <mark key="^" line="90" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/recun-cluster-task-definition.json" timestamp="1534402349101">
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="60" />
-        <mark key="." line="25" column="60" />
-        <mark key="^" line="25" column="60" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/dmca.html.twig" timestamp="1511322917341">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="52" />
-        <mark key="." line="2" column="52" />
-        <mark key="^" line="2" column="52" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-notif/package.json" timestamp="1534905213341">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="113" />
-        <mark key="^" line="11" column="113" />
-        <mark key="." line="11" column="113" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/skill-test-templates/NOTE.md.ejs" timestamp="1535005903304">
-        <mark key="[" line="31" column="125" />
-        <mark key="]" line="31" column="125" />
-        <mark key="^" line="32" column="62" />
-        <mark key="." line="31" column="125" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/bin/update_jobs.php" timestamp="1536212924283">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/presentations/src/index.ejs" timestamp="1535097323889">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="6" />
-        <mark key="^" line="6" column="6" />
-        <mark key="." line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/layout.pug" timestamp="1519723263248">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="17" column="9" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/vendor/aura/sql/src/ExtendedPdo.php" timestamp="1515039460995">
-        <mark key="[" line="484" column="34" />
-        <mark key="]" line="484" column="34" />
-        <mark key="^" line="484" column="34" />
-        <mark key="." line="484" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" timestamp="1544610079736">
         <mark key="'" line="20" column="27" />
@@ -664,18 +210,6 @@
         <mark key="." line="67" column="58" />
         <mark key="^" line="67" column="58" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/.gitignore" timestamp="1534758461711">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="4" />
-        <mark key="^" line="2" column="4" />
-        <mark key="." line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Route.php" timestamp="1511176786122">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="25" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/soleil-web/bin/scraping_doctors_and_hospitals.go" timestamp="1550324532332">
         <mark key="'" line="68" column="24" />
         <mark key="[" line="282" column="0" />
@@ -683,23 +217,11 @@
         <mark key="^" line="64" column="45" />
         <mark key="." line="282" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/layouts/index.js" timestamp="1539257000741">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-      </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/main.go" timestamp="1552213280333">
         <mark key="[" line="131" column="42" />
         <mark key="]" line="131" column="42" />
         <mark key="^" line="131" column="43" />
         <mark key="." line="131" column="42" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_mercari_mini_us.php" timestamp="1508841713641">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="10" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun-notif/template.yaml" timestamp="1534746024145">
         <mark key="'" line="13" column="5" />
@@ -708,90 +230,12 @@
         <mark key="^" line="26" column="38" />
         <mark key="." line="27" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-notif/tests/unit/test_handler.js" timestamp="1534063342537">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="31" />
-        <mark key="." line="2" column="31" />
-        <mark key="^" line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/config/accessKeys.csv" timestamp="1535966804466">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/src/components/Footer.tsx" timestamp="1519795973907">
-        <mark key="[" line="10" column="28" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari.tech/src/data/menu.json" timestamp="1543460122141">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="16" column="29" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/.envrc" timestamp="1534312906566">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="80" />
-        <mark key="." line="1" column="80" />
-        <mark key="^" line="1" column="80" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/page-job.php" timestamp="1540456514194">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/composer.json" timestamp="1531210387168">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="44" />
-        <mark key="^" line="13" column="44" />
-        <mark key="." line="13" column="44" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/config/credentials.php" timestamp="1539141713876">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/Entity/HelpCenterCategoryRepository.php" timestamp="1515039606591">
-        <mark key="[" line="121" column="5" />
-        <mark key="]" line="121" column="3" />
-        <mark key="^" line="121" column="3" />
-        <mark key="." line="121" column="3" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/mp-frontend.md.ejs" timestamp="1533646480619">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/sp_menu.js" timestamp="1544610023082">
         <mark key="'" line="54" column="1" />
         <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="64" />
         <mark key="^" line="20" column="58" />
         <mark key="." line="17" column="64" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/prohibited_items.html.twig" timestamp="1511323445040">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="75" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_article-common.scss" timestamp="1509007125452">
-        <mark key="[" line="91" column="12" />
-        <mark key="]" line="91" column="14" />
-        <mark key="^" line="91" column="14" />
-        <mark key="." line="91" column="14" />
-      </file>
-      <file name="$USER_HOME$/Develop/scauto/.gitignore" timestamp="1519723361700">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/region.go" timestamp="1552207851421">
         <mark key="'" line="8" column="0" />
@@ -801,24 +245,6 @@
         <mark key="^" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/progress.go" timestamp="1552209295014" />
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_qa.php" timestamp="1508841739284">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="61" />
-        <mark key="." line="16" column="61" />
-        <mark key="^" line="16" column="61" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/config/url.toml" timestamp="1533638576711">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="1" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/getting_started/prohibited_conduct.html.twig" timestamp="1511165113273">
-        <mark key="[" line="40" column="86" />
-        <mark key="]" line="40" column="86" />
-        <mark key="." line="40" column="86" />
-        <mark key="^" line="40" column="87" />
-      </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/progress_service.go" timestamp="1552210892853" />
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/user_repository.go" timestamp="1552214912346" />
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1552207830874">
@@ -828,48 +254,12 @@
         <mark key="^" line="111" column="29" />
         <mark key="." line="111" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/clinic_service.go" timestamp="1552216260185">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="41" />
-        <mark key="." line="21" column="41" />
-        <mark key="^" line="21" column="41" />
-      </file>
-      <file name="$USER_HOME$/Develop/workable_transition/src/config/talentio_stage_id.php" timestamp="1531979048290">
-        <mark key="[" line="17" column="6" />
-        <mark key="]" line="17" column="6" />
-        <mark key="^" line="17" column="6" />
-        <mark key="." line="17" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari.tech.proto/src/pages/presentations.js" timestamp="1539330346003">
-        <mark key="[" line="44" column="1" />
-        <mark key="]" line="44" column="1" />
-        <mark key="^" line="44" column="1" />
-        <mark key="." line="44" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/review-templates/s-android.md.ejs" timestamp="1533646491876">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/index_verification.html.twig" timestamp="1509454928885">
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="59" />
-        <mark key="^" line="26" column="59" />
-        <mark key="." line="26" column="59" />
-      </file>
-      <file name="$USER_HOME$/Develop/presentations/lib/presentations/slides.js" timestamp="1535610723794">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/presentations/bin/scraping_presentations.js" timestamp="1535607504792">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/clinic_service.go" timestamp="1552218452137">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="55" />
+        <mark key="^" line="18" column="55" />
+        <mark key="." line="18" column="55" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/layouts/index.scss" timestamp="1539257720297">
         <mark key="'" line="60" column="21" />
@@ -878,17 +268,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/recun-deploy/recun-workable-cluster-task-definition.json" timestamp="1534325858090">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="39" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="9" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
-      <jump line="52" column="10" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
-      <jump line="107" column="6" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
       <jump line="49" column="47" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
       <jump line="72" column="5" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
       <jump line="77" column="6" filename="$USER_HOME$/Develop/mercari.tech/src/components/footer.js" />
@@ -986,10 +367,13 @@
       <jump line="95" column="40" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/doctor_service.go" />
       <jump line="51" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/doctor_service.go" />
       <jump line="15" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/clinic_service.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/clinic_service.go" />
+      <jump line="35" column="8" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/clinic_service.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/clinic_repository.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>err</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1181,7 +565,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>err</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Doctor</text>
@@ -1190,31 +574,31 @@
         <text encoding="base64">ZnVuYyAociAqUmVwb3NpdG9yeSkgZmluZERvY3RvcnNCeU5hbWVBbmRDbGluaWNJZCAocSBzcWx4LlF1ZXJ5ZXIsIG5hbWUgc3RyaW5nLCBjbGluaWNJZCBpbnQ2NCkgKCpkb21haW4uRG9jdG9yLCBlcnJvcikgewoJLy8gcmV0dXJuIGRvY3RvcnMsIGVycgp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUlzTWVkaWNhbFNwZWNpYWxpc3QgYm9vbAo=</text>
+        <text encoding="base64">CS8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS9kW10K</text>
+        <text encoding="base64">CS8vIHNlcnZpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8vcmV0dXJuIGlkLihpbnQ2NCksIGVycgo=</text>
+        <text encoding="base64">CS8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0pCg==</text>
+        <text encoding="base64">CXN0b3JhZ2UgOj0gcmVwb3NpdG9yeS5OZXdHQ1BTdG9yYWdlKGNsaWVudCwgcHVibGljQnVja2V0TmFtZSwgcHJpdmF0ZUJ1Y2tldE5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlyZXR1cm4gZG9jdG9ySWQsIG5pbAo=</text>
+        <text encoding="base64">CXByaXZhdGVCdWNrZXROYW1lIDo9ICJzb2xlaWwtcHJpdmF0ZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkqLwo=</text>
+        <text encoding="base64">CXB1YmxpY0J1Y2tldE5hbWUgOj0gInNvbGVpbC1wdWJsaWMiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWRlZmVyIGNsaWVudC5DbG9zZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1246,15 +630,13 @@
         <entry>List</entry>
         <entry>Prefecture</entry>
         <entry>prefecture</entry>
-        <entry>doctor</entry>
         <entry>hospital</entry>
         <entry>Progress</entry>
         <entry>progress</entry>
+        <entry>doctor</entry>
         <entry>Doctor</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3JlZ2lvbnNcW2lcXS9yZWdpb24vZw==</entry>
-        <entry encoding="base64">JXMvXCZyZWdpb24vZG9tYWluLlJlZ2lvbi9n</entry>
         <entry>%s/Region/region/g</entry>
         <entry encoding="base64">JXMvXCZkb21haW4uLy9n</entry>
         <entry>:w</entry>
@@ -1272,6 +654,8 @@
         <entry>%s/progress/doctor/g</entry>
         <entry>%s/Doctor/Clinic/g</entry>
         <entry>W</entry>
+        <entry encoding="base64">JzwsJz5zL2RvY3Rvci9jbGluaWMvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL0RvY3Rvci9DbGluaWMvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
