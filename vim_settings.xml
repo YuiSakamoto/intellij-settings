@@ -60,8 +60,6 @@
         <mark key="^" line="2" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1552302261040">
-        <mark key="'" line="65" column="30" />
-        <mark key="i" line="82" column="0" />
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -699,12 +697,7 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/main.go" timestamp="1552286962837">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="131" column="43" />
-        <mark key="." line="42" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/main.go" timestamp="1552286962837" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/config/config_mercari_mini_us.php" timestamp="1508841713641">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
