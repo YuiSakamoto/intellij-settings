@@ -17,12 +17,12 @@
         <mark key="^" line="78" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1552283905565">
-        <mark key="'" line="19" column="0" />
-        <mark key="i" line="79" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1552289648861">
+        <mark key="'" line="64" column="30" />
+        <mark key="i" line="81" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/doctor_repository.go" timestamp="1552284281777">
         <mark key="'" line="8" column="21" />
@@ -67,7 +67,7 @@
         <mark key="^" line="68" column="36" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/diary_service.go" timestamp="1552218505721" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/diary_service.go" timestamp="1552286076803" />
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/doctor.go" timestamp="1552217590363">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="0" />
@@ -81,12 +81,12 @@
         <mark key="." line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/fav_repository.go" timestamp="1552218121741" />
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/clinic.go" timestamp="1552209823781">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/clinic.go" timestamp="1552286518549">
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="56" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" timestamp="1544609526827">
         <mark key="'" line="102" column="23" />
@@ -116,14 +116,14 @@
         <mark key="^" line="266" column="35" />
         <mark key="." line="266" column="35" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/doctor_service.go" timestamp="1552284717464">
-        <mark key="'" line="37" column="18" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/doctor_service.go" timestamp="1552286880681">
+        <mark key="'" line="39" column="18" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/controller/diary_controller.go" timestamp="1552213224604" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/controller/diary_controller.go" timestamp="1552286546051" />
       <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1542261990167">
         <mark key="'" line="140" column="14" />
         <mark key="[" line="88" column="23" />
@@ -175,11 +175,11 @@
         <mark key="^" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/clinic_repository.go" timestamp="1552284261743">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/clinic_repository.go" timestamp="1552286491158">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="51" column="36" />
-        <mark key="." line="51" column="36" />
+        <mark key="[" line="42" column="74" />
+        <mark key="]" line="42" column="74" />
+        <mark key="." line="42" column="74" />
         <mark key="^" line="51" column="36" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/webpack.prod.js" timestamp="1535097795633">
@@ -218,7 +218,7 @@
         <mark key="^" line="64" column="45" />
         <mark key="." line="282" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/main.go" timestamp="1552283884942">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/main.go" timestamp="1552286962837">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="131" column="43" />
@@ -255,12 +255,12 @@
         <mark key="^" line="111" column="29" />
         <mark key="." line="111" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/clinic_service.go" timestamp="1552284702238">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="34" column="18" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/clinic_service.go" timestamp="1552286854201">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/layouts/index.scss" timestamp="1539257720297">
         <mark key="'" line="60" column="21" />
@@ -271,7 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="1" filename="$USER_HOME$/Develop/mercari.tech/README.md" />
       <jump line="34" column="8" filename="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" />
       <jump line="32" column="7" filename="$USER_HOME$/Develop/mercari.tech/.circleci/config.yml" />
       <jump line="506" column="38" filename="$USER_HOME$/Develop/mercari.tech/package-lock.json" />
@@ -371,10 +370,11 @@
       <jump line="8" column="21" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/doctor_repository.go" />
       <jump line="40" column="18" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/application/doctor_service.go" />
       <jump line="308" column="1" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" />
+      <jump line="63" column="30" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSJ0aW1lIgo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2ptb2lyb24vc3FseCIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -566,7 +566,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>hospitals</text>
@@ -575,31 +575,31 @@
         <text encoding="base64">CXJldHVybiBuaWwsIG5pbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJ0aW1lIgo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2ptb2lyb24vc3FseCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CXByZWYgImdpdGh1Yi5jb20vbWFlaGFyaW4vc29sZWlsLXdlYi9hcGkvZG9tYWluIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSJlcnJvcnMiCg==</text>
+        <text encoding="base64">CXByZWYgImdpdGh1Yi5jb20vbWFlaGFyaW4vc29sZWlsLXdlYi9hcGkvZG9tYWluIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnb29nbGUuZ29sYW5nLm9yZy9hcGkvb3B0aW9uIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSJ0aW1lIgo=</text>
+        <text encoding="base64">CSJjbG91ZC5nb29nbGUuY29tL2dvL3N0b3JhZ2UiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJmbXQiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL1B1ZXJraXRvQmlvL2dvcXVlcnkiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJlcnJvcnMiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL1B1ZXJraXRvQmlvL2dvcXVlcnkiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CWZtdC5QcmludGYoIiUjdiIsIGRiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
