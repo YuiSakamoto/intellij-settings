@@ -17,13 +17,12 @@
         <mark key="^" line="78" column="26" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1552292234714">
+      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" timestamp="1552294283904">
         <mark key="'" line="65" column="30" />
         <mark key="i" line="82" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="10" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/doctor_repository.go" timestamp="1552284281777">
         <mark key="'" line="8" column="21" />
@@ -375,7 +374,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL21hZWhhcmluL3NvbGVpbC13ZWIvYXBpL3JlcG9zaXRvcnkiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2ptb2lyb24vc3FseCIK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -567,7 +566,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>&quot;github.com/jmoiron/sqlx&quot;</text>
       </register>
       <register name="/" type="4">
         <text>hospitals</text>
@@ -576,31 +575,31 @@
         <text encoding="base64">CXJldHVybiBuaWwsIG5pbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL21hZWhhcmluL3NvbGVpbC13ZWIvYXBpL3JlcG9zaXRvcnkiCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSJjb250ZXh0IgoJImZtdCIK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CSJnaXRodWIuY29tL2ptb2lyb24vc3FseCIK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CSJzb2xlaWwtd2ViL3ZlbmRvciIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByZWYgImdpdGh1Yi5jb20vbWFlaGFyaW4vc29sZWlsLXdlYi9hcGkvZG9tYWluIgo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2ptb2lyb24vc3FseCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXByZWYgImdpdGh1Yi5jb20vbWFlaGFyaW4vc29sZWlsLXdlYi9hcGkvZG9tYWluIgo=</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL21hZWhhcmluL3NvbGVpbC13ZWIvYXBpL3JlcG9zaXRvcnkiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSJnb29nbGUuZ29sYW5nLm9yZy9hcGkvb3B0aW9uIgo=</text>
+        <text encoding="base64">CSJjb250ZXh0IgoJImZtdCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSJjbG91ZC5nb29nbGUuY29tL2dvL3N0b3JhZ2UiCg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2ptb2lyb24vc3FseCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL1B1ZXJraXRvQmlvL2dvcXVlcnkiCg==</text>
+        <text encoding="base64">CXByZWYgImdpdGh1Yi5jb20vbWFlaGFyaW4vc29sZWlsLXdlYi9hcGkvZG9tYWluIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL1B1ZXJraXRvQmlvL2dvcXVlcnkiCg==</text>
+        <text encoding="base64">CXByZWYgImdpdGh1Yi5jb20vbWFlaGFyaW4vc29sZWlsLXdlYi9hcGkvZG9tYWluIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -655,9 +654,9 @@
         <entry>%s/Progress/Doctor/g</entry>
         <entry>%s/progress/doctor/g</entry>
         <entry>%s/Doctor/Clinic/g</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2RvY3Rvci9jbGluaWMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RvY3Rvci9DbGluaWMvZw==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
