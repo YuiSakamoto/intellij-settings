@@ -212,11 +212,11 @@
         <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/fav_repository.go" timestamp="1552218121741" />
-      <file name="$USER_HOME$/Develop/recun/.gitmodules" timestamp="1552373501672">
-        <mark key="[" line="38" column="46" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="38" column="48" />
+      <file name="$USER_HOME$/Develop/recun/.gitmodules" timestamp="1552374185422">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
         <mark key="^" line="38" column="48" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
@@ -1026,8 +1026,8 @@
       <jump line="9" column="4" filename="$USER_HOME$/Develop/recun/review-templates/m-us-api.md.ejs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXVybCA9IGdpdEBnaXRodWIuY29tOm0tcmVjL21lcmNhcmktdXMtYXBpLXRlbXBsYXRlLmdpdAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1228,31 +1228,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29udm8uc2F5KCc6ZG9uZTogaW5pdGlhbGl6ZSBSZXBvc2l0b3J5JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CXVybCA9IGdpdEBnaXRodWIuY29tOm0tcmVjL21lcmNhcmktdXMtYXBpLXRlbXBsYXRlLmdpdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CXBhdGggPSBtZXJjYXJpLXVzLWFwaS10ZW1wbGF0ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAibWVyY2FyaS11cy1hcGktdGVtcGxhdGUiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29tcGFueSA9ICdtZXJjYXJpJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29tcGFueSA9ICdtZXJjYXJpdXMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAocG9zaXRpb25zWzBdID09ICdtdXMnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2ptb2lyb24vc3FseCIK</text>
+        <text encoding="base64">ICAgICAgY29tcGFueSA9ICdtZXJjYXJpJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSJzb2xlaWwtd2ViL3ZlbmRvciIK</text>
+        <text encoding="base64">ICAgICAgY29tcGFueSA9ICdtZXJjYXJpdXMnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1291,7 +1291,6 @@
         <entry>もしかして</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Region/region/g</entry>
         <entry encoding="base64">JXMvXCZkb21haW4uLy9n</entry>
         <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL30vLCB1cmxfc3RyaW5nOiAiIn0vZw==</entry>
@@ -1310,6 +1309,7 @@
         <entry encoding="base64">JzwsJz5zL2RvY3Rvci9jbGluaWMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RvY3Rvci9DbGluaWMvZw==</entry>
         <entry>W</entry>
+        <entry>wqa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
