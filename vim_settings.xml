@@ -405,6 +405,12 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/ToDo&amp;DailyReport/ToDo/20190315.md" timestamp="1552617007253">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
+      </file>
       <file name="$USER_HOME$/Develop/recun-notif/index.js" timestamp="1542261990167">
         <mark key="'" line="140" column="14" />
         <mark key="[" line="88" column="23" />
@@ -1019,8 +1025,8 @@
       <jump line="9" column="4" filename="$USER_HOME$/Develop/recun/review-templates/m-us-api.md.ejs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXVybCA9IGdpdEBnaXRodWIuY29tOm0tcmVjL21lcmNhcmktdXMtYXBpLXRlbXBsYXRlLmdpdAo=</text>
+      <register name="&quot;" type="4">
+        <text>は</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1212,7 +1218,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>は</text>
       </register>
       <register name="/" type="4">
         <text>もしかして</text>
@@ -1221,31 +1227,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29udm8uc2F5KCc6ZG9uZTogaW5pdGlhbGl6ZSBSZXBvc2l0b3J5JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXVybCA9IGdpdEBnaXRodWIuY29tOm0tcmVjL21lcmNhcmktdXMtYXBpLXRlbXBsYXRlLmdpdAo=</text>
+        <text encoding="base64">LSDln7fli5nlrqTlhoXjgaso44Gh44KH44Gj44Go44GX44Gf44KC44Gu44Gg44GR44GpKeeti+ODiOODrOODnuOCt+ODs+OBguOCi+OBruOBhOOBhOOBp+OBmeOBre+8geWtpueUn+aZguS7o+OBruS9k+OBq+aIu+OBl+OBn+OBhOOAguOAggo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXBhdGggPSBtZXJjYXJpLXVzLWFwaS10ZW1wbGF0ZQo=</text>
+        <text encoding="base64">LSBbIF0g77yI44Gn44GN44KM44Gw77yJRGV2RG9qb+OBrlBS6ICD44GI44KLCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W3N1Ym1vZHVsZSAibWVyY2FyaS11cy1hcGktdGVtcGxhdGUiXQo=</text>
+        <text encoding="base64">LSBbeF0g6Iux6Kqe5YuJ5by3IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">CXVybCA9IGdpdEBnaXRodWIuY29tOm0tcmVjL21lcmNhcmktdXMtYXBpLXRlbXBsYXRlLmdpdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CXBhdGggPSBtZXJjYXJpLXVzLWFwaS10ZW1wbGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W3N1Ym1vZHVsZSAibWVyY2FyaS11cy1hcGktdGVtcGxhdGUiXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29tcGFueSA9ICdtZXJjYXJpJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29tcGFueSA9ICdtZXJjYXJpdXMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
