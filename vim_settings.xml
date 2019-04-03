@@ -211,10 +211,9 @@
         <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/recun/.gitmodules" timestamp="1552374185422">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="38" column="48" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
@@ -574,6 +573,12 @@
         <mark key="]" line="84" column="2" />
         <mark key="^" line="84" column="2" />
         <mark key="." line="84" column="2" />
+      </file>
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1554281334824">
+        <mark key="[" line="28" column="68" />
+        <mark key="]" line="28" column="68" />
+        <mark key="." line="28" column="68" />
+        <mark key="^" line="28" column="59" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" timestamp="1542780314556">
         <mark key="'" line="68" column="10" />
@@ -1020,8 +1025,8 @@
       <jump line="103" column="32" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBzdG10KQo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1213,7 +1218,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>Print</text>
@@ -1222,31 +1227,31 @@
         <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBzdG10KQo=</text>
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIpCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBzdG10KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlmbXQuRnByaW50bG4oIiUjdiIsIGVycikK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIuRXJyb3IoKSkK</text>
+        <text encoding="base64">CQlmbXQuRnByaW50bG4oIiUjdiIsIGVycikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJOmlkCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIuRXJyb3IoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJaWQK</text>
+        <text encoding="base64">CQkJOmlkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBkb2N0b3IpCg==</text>
+        <text encoding="base64">CQkJaWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCByZWZsZWN0LlR5cGVPZihlcnIpKQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBkb2N0b3IpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBkKQo=</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCByZWZsZWN0LlR5cGVPZihlcnIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
