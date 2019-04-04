@@ -574,11 +574,11 @@
         <mark key="^" line="84" column="2" />
         <mark key="." line="84" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1554281334824">
-        <mark key="[" line="28" column="68" />
-        <mark key="]" line="28" column="68" />
-        <mark key="." line="28" column="68" />
-        <mark key="^" line="28" column="59" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1554364739571">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" timestamp="1542780314556">
         <mark key="'" line="68" column="10" />
@@ -1026,7 +1026,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>P</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1218,13 +1218,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>Print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAnRzRGQTZTWThQJzsgLy8gI3BqLXJlYy1za2lsbC10ZXN0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJycK</text>
