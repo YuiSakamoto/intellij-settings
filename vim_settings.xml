@@ -435,11 +435,11 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1534921562222">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="16" />
+      <file name="$USER_HOME$/Develop/recun/docker-compose.yml" timestamp="1554367366489">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/create-tables.sql" timestamp="1552285512811">
         <mark key="'" line="308" column="1" />
@@ -574,11 +574,12 @@
         <mark key="^" line="84" column="2" />
         <mark key="." line="84" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1554364739571">
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="19" column="12" />
-        <mark key="." line="19" column="12" />
-        <mark key="^" line="18" column="5" />
+      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1554366959317">
+        <mark key="'" line="364" column="6" />
+        <mark key="[" line="200" column="18" />
+        <mark key="]" line="200" column="19" />
+        <mark key="." line="200" column="19" />
+        <mark key="^" line="200" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" timestamp="1542780314556">
         <mark key="'" line="68" column="10" />
@@ -923,7 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="45" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="78" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
@@ -1023,10 +1023,11 @@
       <jump line="73" column="16" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
       <jump line="89" column="24" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
       <jump line="103" column="32" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
+      <jump line="364" column="6" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>P</text>
+        <text>g</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1218,13 +1219,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>Print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAnRzRGQTZTWThQJzsgLy8gI3BqLXJlYy1za2lsbC10ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2hhbm5lbDogJyN0ZWFtLWRldi1yZWNydWl0aW5nJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJycK</text>
