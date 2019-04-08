@@ -216,11 +216,6 @@
         <mark key="." line="4" column="23" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/.gitmodules" timestamp="1552374185422">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/exceed_trial_verification.html.twig" timestamp="1509454987285">
         <mark key="[" line="23" column="6" />
         <mark key="]" line="23" column="29" />
@@ -586,11 +581,7 @@
         <mark key="." line="84" column="2" />
       </file>
       <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1554372177872">
-        <mark key="'" line="361" column="4" />
-        <mark key="[" line="48" column="16" />
-        <mark key="]" line="48" column="28" />
-        <mark key="." line="48" column="28" />
-        <mark key="^" line="48" column="28" />
+        <mark key="'" line="374" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" timestamp="1542780314556">
         <mark key="'" line="68" column="10" />
