@@ -91,12 +91,12 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/terraform-gcp-projects/kouzoh-jp-project.tf" timestamp="1555644635934">
+      <file name="$USER_HOME$/Develop/terraform-gcp-projects/kouzoh-jp-project.tf" timestamp="1555645402023">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="97" column="1" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
@@ -1315,8 +1315,8 @@
         <entry encoding="base64">JzwsJz5zL2RvY3Rvci9jbGluaWMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL0RvY3Rvci9DbGluaWMvZw==</entry>
         <entry>wqa</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL1wiLycvZw==</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
