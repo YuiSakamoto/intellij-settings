@@ -91,6 +91,13 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/terraform-gcp-projects/kouzoh-jp-project.tf" timestamp="1555644635934">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-api.md.ejs" timestamp="1533646497027">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="20" />
@@ -421,7 +428,6 @@
         <mark key="^" line="75" column="12" />
         <mark key="." line="75" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/errors.go" timestamp="1554049835302" />
       <file name="$USER_HOME$/Develop/recun/package.json" timestamp="1554368695680">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="28" />
@@ -860,7 +866,6 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/repository/user_repository.go" timestamp="1554049573908" />
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1552207830874">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="111" column="29" />
@@ -926,7 +931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="7" column="10" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="63" column="67" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="3" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
@@ -1026,6 +1030,7 @@
       <jump line="364" column="6" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="368" column="20" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
       <jump line="371" column="4" filename="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Develop/terraform-gcp-projects/kouzoh-jp-project.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
