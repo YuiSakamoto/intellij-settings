@@ -486,7 +486,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559279242285">
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559360963745">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
@@ -687,11 +687,11 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" timestamp="1559271336220">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" timestamp="1559361309248">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/src/index.ejs" timestamp="1535097323889">
         <mark key="[" line="0" column="0" />
@@ -1046,7 +1046,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1238,7 +1238,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\&quot;</text>
@@ -1253,25 +1253,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRlYW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRlYW0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBzdG10KQo=</text>
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIpCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBzdG10KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmbXQuRnByaW50bG4oIiUjdiIsIGVycikK</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1328,8 +1328,8 @@
         <entry encoding="base64">JzwsJz5zL0RvY3Rvci9DbGluaWMvZw==</entry>
         <entry>wqa</entry>
         <entry encoding="base64">JzwsJz5zL1wiLycvZw==</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
