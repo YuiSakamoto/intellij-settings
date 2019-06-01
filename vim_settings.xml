@@ -267,6 +267,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/src/web/src/components/HelloWorld.vue" timestamp="1559366112931">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/Develop/recun-notif/eot-github-webhook-skilltest.yaml" timestamp="1534749342435">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="16" />
