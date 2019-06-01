@@ -304,11 +304,11 @@
         <mark key="." line="103" column="1" />
         <mark key="^" line="103" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/index.js" timestamp="1559373616814">
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="32" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/index.js" timestamp="1559382289198">
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+        <mark key="." line="10" column="36" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/m-android.md.ejs" timestamp="1533646438242">
         <mark key="[" line="2" column="15" />
@@ -316,16 +316,22 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/db.js" timestamp="1559382972253">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/start_verification.html.twig" timestamp="1509454858389">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/main.js" timestamp="1559378788582">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/main.js" timestamp="1559381492400">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun-notif/event.json" timestamp="1542261510186">
         <mark key="'" line="134" column="22" />
@@ -546,11 +552,11 @@
         <mark key="^" line="6" column="55" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/App.vue" timestamp="1559378811047">
-        <mark key="[" line="3" column="49" />
-        <mark key="]" line="3" column="49" />
-        <mark key="." line="3" column="49" />
-        <mark key="^" line="3" column="66" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/App.vue" timestamp="1559382263121">
+        <mark key="[" line="3" column="62" />
+        <mark key="]" line="3" column="70" />
+        <mark key="^" line="3" column="70" />
+        <mark key="." line="3" column="70" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/stages.php" timestamp="1531376260065">
         <mark key="[" line="2" column="3" />
@@ -675,11 +681,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559372531097">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559382518174">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="4" column="60" />
+        <mark key="^" line="4" column="60" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/privacy.html.twig" timestamp="1511324691512">
         <mark key="[" line="101" column="32" />
@@ -925,11 +931,11 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/components/HelloWorld.vue" timestamp="1559378322910">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/components/HelloWorld.vue" timestamp="1559382368752">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1552207830874">
         <mark key="'" line="89" column="0" />
@@ -1099,7 +1105,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1291,49 +1297,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>\&quot;</text>
+        <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Q09QWSBhcHAvd2ViIC4K</text>
+        <text encoding="base64">ICAgIDxoMj57eyBtZXNzYWdlIH19PC9oMj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaW5mbykK</text>
+        <text encoding="base64">ICAgIDxoMj57eyBtZXNzYWdlIH19PC9oMj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGluZm86IFN0cmluZywK</text>
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5kYXRhLm1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJob2dlIikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJhYWFhYWFhYWFhYSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxoMj57eyBpbmZvLm1lc3NhZ2UgfX08L2gyPgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8cD48L3A+Cg==</text>
+        <text encoding="base64">ICAgIGluZm86IG51bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
+        <text encoding="base64">ICAgIGluZm86IG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09QWSBhcHAvd2ViIC4K</text>
+        <text encoding="base64">ICAgIGF4aW9zLmdldCgnaHR0cDovL2xvY2FsaG9zdDo4MDgxL3Rlc3QnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>\&quot;</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>\&quot;</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1341,8 +1347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Region</entry>
-        <entry encoding="base64">XCZkb21haW4u</entry>
         <entry>}</entry>
         <entry>https:\/\/www.jsaps.com\/profile\/category\/region\/</entry>
         <entry>region_url</entry>
@@ -1361,6 +1365,8 @@
         <entry>もしかして</entry>
         <entry>Print</entry>
         <entry>\&quot;</entry>
+        <entry>;get</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL30vLCB1cmxfc3RyaW5nOiAiIn0vZw==</entry>
