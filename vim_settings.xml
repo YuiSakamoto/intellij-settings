@@ -317,6 +317,12 @@
         <mark key="^" line="266" column="35" />
         <mark key="." line="266" column="35" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/backend" timestamp="1559364746475">
+        <mark key="[" line="8" column="10" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/mp-ios.md.ejs" timestamp="1533646486212">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="20" />
@@ -486,11 +492,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559360963745">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559365854717">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="26" column="9" />
+        <mark key="." line="26" column="9" />
+        <mark key="^" line="26" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/index.tsx" timestamp="1519794653093">
         <mark key="[" line="8" column="30" />
@@ -639,6 +645,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559365340631">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/privacy.html.twig" timestamp="1511324691512">
         <mark key="[" line="101" column="32" />
         <mark key="]" line="101" column="32" />
@@ -687,11 +698,11 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" timestamp="1559361309248">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="5" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="9" column="5" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" timestamp="1559364139906">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/src/index.ejs" timestamp="1535097323889">
         <mark key="[" line="0" column="0" />
@@ -785,6 +796,12 @@
         <mark key="]" line="10" column="50" />
         <mark key="." line="10" column="50" />
         <mark key="^" line="10" column="50" />
+      </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/.gitignore" timestamp="1559365557380">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/data/menu.json" timestamp="1543460122141">
         <mark key="[" line="37" column="0" />
@@ -1046,7 +1063,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1238,40 +1255,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>\&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICc4MDgwOjgwODAnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2dWUgY3JlYXRlIC1kIC1tIG5wbSBkZXZkb2pvLWFwcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsICYmIFwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC0tc2F2ZSBub2RlbW9uIGV4cHJlc3MgYm9keS1wYXJzZXIgY29ycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsICYmIFwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRlYW0pOwo=</text>
+        <text encoding="base64">RlJPTSBub2RlOjExLjE1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC1nIEB2dWUvY2xpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBzdG10KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRmKCIlI3YiLCBlcnIpCg==</text>
+        <text encoding="base64">V09SS0RJUiAvYXBwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1310,7 +1327,6 @@
         <entry>\&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>:w</entry>
         <entry encoding="base64">JzwsJz5zL30vLCB1cmxfc3RyaW5nOiAiIn0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC93d3cuanNhcHMuY29tXC9wcm9maWxlXC9jYXRlZ29yeVwvcmVnaW9uXC8vL2c=</entry>
         <entry>%s/region_url/regionUrl/g</entry>
@@ -1328,8 +1344,9 @@
         <entry encoding="base64">JzwsJz5zL0RvY3Rvci9DbGluaWMvZw==</entry>
         <entry>wqa</entry>
         <entry encoding="base64">JzwsJz5zL1wiLycvZw==</entry>
-        <entry>w</entry>
+        <entry>&quot;W</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
