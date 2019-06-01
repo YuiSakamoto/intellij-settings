@@ -304,6 +304,12 @@
         <mark key="." line="103" column="1" />
         <mark key="^" line="103" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/index.js" timestamp="1559373616814">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/m-android.md.ejs" timestamp="1533646438242">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="17" />
@@ -498,11 +504,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559367888976">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="10" />
-        <mark key="." line="23" column="10" />
-        <mark key="^" line="23" column="10" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559372921477">
+        <mark key="'" line="11" column="18" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/index.tsx" timestamp="1519794653093">
         <mark key="[" line="8" column="30" />
@@ -527,6 +534,12 @@
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/package.json" timestamp="1559372707421">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="55" />
+        <mark key="^" line="6" column="55" />
+        <mark key="." line="6" column="55" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/stages.php" timestamp="1531376260065">
         <mark key="[" line="2" column="3" />
@@ -651,7 +664,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559368070927">
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559372531097">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
@@ -705,11 +718,10 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" timestamp="1559370609675">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" timestamp="1559372047821">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/presentations/src/index.ejs" timestamp="1535097323889">
         <mark key="[" line="0" column="0" />
@@ -902,6 +914,12 @@
         <mark key="." line="40" column="86" />
         <mark key="^" line="40" column="87" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/components/HelloWorld.vue" timestamp="1559373116192">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/api/domain/prefecture.go" timestamp="1552207830874">
         <mark key="'" line="89" column="0" />
         <mark key="[" line="111" column="29" />
@@ -967,7 +985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="87" column="29" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="89" column="36" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
@@ -1067,10 +1084,11 @@
       <jump line="18" column="0" filename="$USER_HOME$/Develop/terraform-gcp-projects/kouzoh-jp-project.tf" />
       <jump line="10" column="24" filename="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" />
       <jump line="6" column="47" filename="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" />
+      <jump line="11" column="18" filename="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Q09QWSBhcHAvd2ViIC4K</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1262,7 +1280,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>\&quot;</text>
@@ -1271,31 +1289,31 @@
         <text encoding="base64">Q09QWSBhcHAvd2ViIC4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q09QWSBhcHAvd2ViIC4K</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gXCJFcnJvcjogbm8gdGVzdCBzcGVjaWZpZWRcIiAmJiBleGl0IDEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBhcHAvd2ViIC4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIGRldmRvam8tc2VydmVyICYmIGNkIGRldmRvam8tc2VydmVyCg==</text>
+        <text encoding="base64">ICBybSAtcmYgZGV2ZG9qby13ZWIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UlVOIG1rZGlyCg==</text>
+        <text encoding="base64">ICBtdiAtZiBkZXZkb2pvLXdlYi8qIC4vICYmIFwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSBhcHAvd2ViIC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2dWUgY3JlYXRlIC1kIC1tIG5wbSBkZXZkb2pvLWFwcAo=</text>
+        <text encoding="base64">Ly8gY29yc+ODneODquOCt+ODvOOBq+aKteinpuOBmeOCi+OBn+OCgeOAgeOBneOBruWvvuetluOBqOOBl+OBpmNvcnPjgpLliKnnlKjjgZnjgosK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsICYmIFwK</text>
+        <text encoding="base64">Q09QWSBhcHAvd2ViIC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC0tc2F2ZSBub2RlbW9uIGV4cHJlc3MgYm9keS1wYXJzZXIgY29ycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsICYmIFwK</text>
+        <text encoding="base64">UlVOIG1rZGlyIGRldmRvam8tc2VydmVyICYmIGNkIGRldmRvam8tc2VydmVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
