@@ -53,6 +53,12 @@
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="52" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/README.md" timestamp="1559390876598">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/mp-api.md.ejs" timestamp="1533646475084">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="20" />
@@ -161,6 +167,12 @@
         <mark key="]" line="10" column="21" />
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="21" />
+      </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/config/config.json" timestamp="1559387126522">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/README.md" timestamp="1532342850392">
         <mark key="[" line="7" column="39" />
@@ -304,11 +316,10 @@
         <mark key="." line="103" column="1" />
         <mark key="^" line="103" column="1" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/index.js" timestamp="1559382289198">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="36" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="10" column="36" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/index.js" timestamp="1559392193392">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/m-android.md.ejs" timestamp="1533646438242">
         <mark key="[" line="2" column="15" />
@@ -316,11 +327,10 @@
         <mark key="." line="2" column="17" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/db.js" timestamp="1559382972253">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/db.js" timestamp="1559393653530">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/start_verification.html.twig" timestamp="1509454858389">
         <mark key="[" line="23" column="14" />
@@ -515,12 +525,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559377644795">
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559393594914">
         <mark key="'" line="11" column="18" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="21" column="13" />
-        <mark key="^" line="21" column="13" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/index.tsx" timestamp="1519794653093">
         <mark key="[" line="8" column="30" />
@@ -589,6 +598,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/db/init-database.sh" timestamp="1559391650538">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/const/colors.js" timestamp="1542343710119">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
@@ -634,9 +649,6 @@
         <mark key="^" line="84" column="2" />
         <mark key="." line="84" column="2" />
       </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/commands/skill-test.js" timestamp="1554372177872">
-        <mark key="'" line="372" column="4" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/components/sidebar.js" timestamp="1542780314556">
         <mark key="'" line="68" column="10" />
         <mark key="[" line="218" column="53" />
@@ -662,6 +674,12 @@
         <mark key="." line="194" column="0" />
         <mark key="^" line="212" column="39" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/db/my.cnf" timestamp="1559391972969">
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/README.md" timestamp="1535694669938">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="12" column="0" />
@@ -681,11 +699,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559382518174">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="60" />
-        <mark key="." line="4" column="60" />
-        <mark key="^" line="4" column="60" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559390937073">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/pages/en_US/privacy.html.twig" timestamp="1511324691512">
         <mark key="[" line="101" column="32" />
@@ -728,6 +746,12 @@
         <mark key="]" line="31" column="125" />
         <mark key="^" line="32" column="62" />
         <mark key="." line="31" column="125" />
+      </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/db/sql/001-create-database.sql" timestamp="1559390231600">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/themes/mercari-recruit/bin/update_jobs.php" timestamp="1536212924283">
         <mark key="[" line="2" column="20" />
@@ -893,6 +917,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="75" />
+      </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/database.json" timestamp="1559386698849">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/assets/sass/pages/help-center/_article-common.scss" timestamp="1509007125452">
         <mark key="[" line="91" column="12" />
@@ -1104,8 +1134,8 @@
       <jump line="11" column="18" filename="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coImhvZ2Vob2dlIik7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1297,7 +1327,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
@@ -1306,31 +1336,31 @@
         <text encoding="base64">ICAgIDxoMj57eyBtZXNzYWdlIH19PC9oMj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIG15c3FsID0gcmVxdWlyZSgnbXlzcWwnKQo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coImhvZ2Vob2dlIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxoMj57eyBtZXNzYWdlIH19PC9oMj4K</text>
+        <text encoding="base64">ICAgICAgVFo6ICdBc2lhL1Rva3lvJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
+        <text encoding="base64">ICAgICAgVFo6ICdBc2lhL1Rva3lvJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJhYWFhYWFhYWFhYSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICMgICIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGluZm86IG51bGwK</text>
+        <text encoding="base64">ICAgICMgICAgL2RvY2tlci1lbnRyeXBvaW50LWluaXRkYi5kL2luaXQtZGF0YWJhc2Uuc2gK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluZm86IG51bGwK</text>
+        <text encoding="base64">ICAgICMgICAgY2htb2QgMDc3NSAvZG9ja2VyLWVudHJ5cG9pbnQtaW5pdGRiLmQvaW5pdC1kYXRhYmFzZS5zaAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF4aW9zLmdldCgnaHR0cDovL2xvY2FsaG9zdDo4MDgxL3Rlc3QnKQo=</text>
+        <text encoding="base64">ICAgICMgICAgbXlzcWxkICYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1369,7 +1399,6 @@
         <entry>get</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL30vLCB1cmxfc3RyaW5nOiAiIn0vZw==</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC93d3cuanNhcHMuY29tXC9wcm9maWxlXC9jYXRlZ29yeVwvcmVnaW9uXC8vL2c=</entry>
         <entry>%s/region_url/regionUrl/g</entry>
         <entry>%s/url_string/urlString/g</entry>
@@ -1387,6 +1416,7 @@
         <entry>wqa</entry>
         <entry encoding="base64">JzwsJz5zL1wiLycvZw==</entry>
         <entry>&quot;W</entry>
+        <entry>qw</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>

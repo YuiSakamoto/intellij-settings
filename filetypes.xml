@@ -5,9 +5,11 @@
       <mapping pattern=".envrc.workable" type="PLAIN_TEXT" />
       <mapping pattern=".envrc.encrypted" type="PLAIN_TEXT" />
       <mapping pattern=".node_version" type="PLAIN_TEXT" />
+      <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern=".envrc-workable" type="PLAIN_TEXT" />
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
