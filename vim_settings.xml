@@ -39,11 +39,11 @@
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/README.md" timestamp="1559399857820">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="50" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/README.md" timestamp="1559476838489">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/mp-api.md.ejs" timestamp="1533646475084">
         <mark key="[" line="2" column="0" />
@@ -809,7 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="68" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="93" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="6" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
@@ -909,10 +908,11 @@
       <jump line="13" column="26" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" />
       <jump line="45" column="2" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/config/config.json" />
+      <jump line="33" column="2" filename="$USER_HOME$/Develop/devdojo19-pm-template/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlCg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1104,40 +1104,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text>updated`</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlCg==</text>
+        <text encoding="base64">YGBganNoZWxsbGFuZ3VhZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiIgo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
+        <text encoding="base64">ICAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBLRVkgYGJ1eWVyX2lkYCAoYGJ1eWVyX2lkYCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBLRVkgYHNlbGxlcl9pZGAgKGBzZWxsZXJfaWRgKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBgYnV5ZXJfaWRgIGludCgxMCkgdW5zaWduZWQgREVGQVVMVCBOVUxMLAo=</text>
+        <text encoding="base64">ICBLRVkgYGJ1eWVyX2lkYCAoYGJ1eWVyX2lkYCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgc2VsbGVyX2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">ICBLRVkgYHNlbGxlcl9pZGAgKGBzZWxsZXJfaWRgKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
