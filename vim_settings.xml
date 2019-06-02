@@ -324,6 +324,12 @@
         <mark key="." line="10" column="80" />
         <mark key="^" line="10" column="80" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/migrations/20190602104851-create-users.js" timestamp="1559472979538">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="28" column="28" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/verified.html.twig" timestamp="1509455027767">
         <mark key="[" line="22" column="24" />
         <mark key="]" line="22" column="27" />
@@ -575,11 +581,6 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" timestamp="1559372047821">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/presentations/src/index.ejs" timestamp="1535097323889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="6" />
@@ -598,13 +599,20 @@
         <mark key="^" line="484" column="34" />
         <mark key="." line="484" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/config/config.json" timestamp="1559469525628" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/config/config.json" timestamp="1559472734652">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/vendor/github.com/jmoiron/sqlx/sqlx.go" timestamp="1554054972686">
         <mark key="[" line="213" column="4" />
         <mark key="]" line="213" column="0" />
         <mark key="^" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/migrations/20190602103840-create-users.js" timestamp="1559471963332" />
       <file name="$USER_HOME$/Develop/recun-notif/.gitignore" timestamp="1534758461711">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="4" />
@@ -647,13 +655,13 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" timestamp="1559470771780">
+      <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" timestamp="1559472469732">
         <mark key="s" line="18" column="19" />
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="47" column="38" />
-        <mark key="." line="44" column="0" />
+        <mark key="'" line="45" column="2" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+        <mark key="." line="13" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/scauto/src/components/Footer.tsx" timestamp="1519795973907">
         <mark key="[" line="10" column="28" />
@@ -801,9 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
-      <jump line="89" column="36" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
-      <jump line="90" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="8" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="68" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="93" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
@@ -901,10 +906,13 @@
       <jump line="6" column="47" filename="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/web" />
       <jump line="11" column="18" filename="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" />
       <jump line="35" column="0" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" />
+      <jump line="13" column="26" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" />
+      <jump line="45" column="2" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/config/config.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1099,55 +1107,53 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>updated`</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBgaWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd051bGw6IGZhbHNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
+        <text encoding="base64">ICAiIgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBLRVkgYGJ1eWVyX2lkYCAoYGJ1eWVyX2lkYCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBLRVkgYHNlbGxlcl9pZGAgKGBzZWxsZXJfaWRgKSwK</text>
+        <text encoding="base64">ICBLRVkgYGJ1eWVyX2lkYCAoYGJ1eWVyX2lkYCksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBgYnV5ZXJfaWRgIGludCgxMCkgdW5zaWduZWQgREVGQVVMVCBOVUxMLAo=</text>
+        <text encoding="base64">ICBLRVkgYHNlbGxlcl9pZGAgKGBzZWxsZXJfaWRgKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBgc2VsbGVyX2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">ICBgYnV5ZXJfaWRgIGludCgxMCkgdW5zaWduZWQgREVGQVVMVCBOVUxMLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgcHJpY2VgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwsCg==</text>
+        <text encoding="base64">ICBgc2VsbGVyX2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>updated`</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>\&quot;</last-substitute>
+      <last-pattern>updated`</last-pattern>
+      <last-replace>updated_at`</last-replace>
+      <last-substitute>updated`</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>}</entry>
-        <entry>https:\/\/www.jsaps.com\/profile\/category\/region\/</entry>
         <entry>region_url</entry>
         <entry>master</entry>
         <entry>url_string</entry>
@@ -1166,10 +1172,10 @@
         <entry>\&quot;</entry>
         <entry>;get</entry>
         <entry>get</entry>
+        <entry>created`</entry>
+        <entry>updated`</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2h0dHBzOlwvXC93d3cuanNhcHMuY29tXC9wcm9maWxlXC9jYXRlZ29yeVwvcmVnaW9uXC8vL2c=</entry>
-        <entry>%s/region_url/regionUrl/g</entry>
         <entry>%s/url_string/urlString/g</entry>
         <entry>%s/prefecture/Prefecture/g</entry>
         <entry encoding="base64">JzwsJz5zL3ByZWZlY3R1cmUvUHJlZmVjdHVyZS9n</entry>
@@ -1186,6 +1192,8 @@
         <entry encoding="base64">JzwsJz5zL1wiLycvZw==</entry>
         <entry>&quot;W</entry>
         <entry>qw</entry>
+        <entry>%s/created`/created_at`/g</entry>
+        <entry>%s/updated`/updated_at`/g</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
