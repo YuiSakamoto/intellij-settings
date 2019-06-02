@@ -598,6 +598,7 @@
         <mark key="^" line="484" column="34" />
         <mark key="." line="484" column="34" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/config/config.json" timestamp="1559469525628" />
       <file name="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/vendor/github.com/jmoiron/sqlx/sqlx.go" timestamp="1554054972686">
         <mark key="[" line="213" column="4" />
         <mark key="]" line="213" column="0" />
@@ -646,7 +647,7 @@
         <mark key="^" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" timestamp="1559468347181">
+      <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" timestamp="1559469165399">
         <mark key="s" line="18" column="19" />
         <mark key="'" line="14" column="0" />
         <mark key="[" line="44" column="0" />
