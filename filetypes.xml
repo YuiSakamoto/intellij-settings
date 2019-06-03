@@ -4,6 +4,7 @@
       <mapping pattern="talentio candidate" type="PLAIN_TEXT" />
       <mapping pattern=".envrc.workable" type="PLAIN_TEXT" />
       <mapping pattern=".envrc.encrypted" type="PLAIN_TEXT" />
+      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern=".node_version" type="PLAIN_TEXT" />
       <mapping pattern="sql" type="PLAIN_TEXT" />
       <mapping pattern=".envrc-workable" type="PLAIN_TEXT" />
