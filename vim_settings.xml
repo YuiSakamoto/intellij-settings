@@ -39,11 +39,10 @@
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/README.md" timestamp="1559476838489">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/README.md" timestamp="1559535435210">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/mp-api.md.ejs" timestamp="1533646475084">
         <mark key="[" line="2" column="0" />
@@ -912,7 +911,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">LSBnaXQK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1104,7 +1103,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>Git</text>
       </register>
       <register name="/" type="4">
         <text>updated`</text>
@@ -1113,31 +1112,31 @@
         <text encoding="base64">YGBganNoZWxsbGFuZ3VhZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">LSBnaXQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LSBnaXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiIgo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
+        <text encoding="base64">ICAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBVTklRVUUgS0VZIGBlbWFpbGAgKGBlbWFpbGApLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBLRVkgYGJ1eWVyX2lkYCAoYGJ1eWVyX2lkYCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBLRVkgYHNlbGxlcl9pZGAgKGBzZWxsZXJfaWRgKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
