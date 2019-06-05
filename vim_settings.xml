@@ -219,6 +219,13 @@
         <mark key="^" line="26" column="66" />
         <mark key="." line="12" column="60" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/router.js" timestamp="1559734159797">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/index.js" timestamp="1559399789876">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="1" />
@@ -672,6 +679,12 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/components/HelloWorld.vue" timestamp="1559734202888">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="5" column="7" />
+        <mark key="^" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari.tech/src/data/menu.json" timestamp="1543460122141">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -689,6 +702,12 @@
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/main.js" timestamp="1559734085981">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="27" />
+        <mark key="^" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/workable_transition/composer.json" timestamp="1531210387168">
         <mark key="[" line="13" column="44" />
@@ -806,7 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="93" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="6" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="65" column="4" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
@@ -906,10 +924,11 @@
       <jump line="45" column="2" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/db/sql/002-create-initialtables.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/config/config.json" />
       <jump line="33" column="2" filename="$USER_HOME$/Develop/devdojo19-pm-template/README.md" />
+      <jump line="13" column="0" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>top</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1101,57 +1120,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
-        <text>updated`</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBganNoZWxsbGFuZ3VhZ2UK</text>
+        <text encoding="base64">ICB7IHBhdGg6ICcvJywgY29tcG9uZW50OiBIZWxsb1dvcmxkIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICB7IHBhdGg6ICcvaG9nZScsIGNvbXBvbmVudDogSG9nZSB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIGV0Ywo=</text>
+        <text encoding="base64">ICB7IHBhdGg6ICcvaGFnZScsIGNvbXBvbmVudDogSGFnZSB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YnJldyAibWFrZSIK</text>
+        <text encoding="base64">aW1wb3J0IEhvZ2UgZnJvbSAnLi9jb21wb25lbnRzL0hvZ2UudnVlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YnJldyAibWFrZSIK</text>
+        <text encoding="base64">aW1wb3J0IEhhZ2UgZnJvbSAnLi9jb21wb25lbnRzL0hhZ2UudnVlJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LSBnaXQK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBnaXQK</text>
+        <text encoding="base64">ICAgICAgICAtIGV0Ywo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">YnJldyAibWFrZSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnJldyAibWFrZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiIgo=</text>
+        <text encoding="base64">LSBnaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>updated`</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern>updated`</last-pattern>
-      <last-replace>updated_at`</last-replace>
-      <last-substitute>updated`</last-substitute>
+      <last-pattern>;</last-pattern>
+      <last-replace />
+      <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>region_url</entry>
         <entry>master</entry>
         <entry>url_string</entry>
         <entry>List</entry>
@@ -1171,9 +1189,9 @@
         <entry>get</entry>
         <entry>created`</entry>
         <entry>updated`</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/url_string/urlString/g</entry>
         <entry>%s/prefecture/Prefecture/g</entry>
         <entry encoding="base64">JzwsJz5zL3ByZWZlY3R1cmUvUHJlZmVjdHVyZS9n</entry>
         <entry>%s/Prefecture/Doctor/g</entry>
@@ -1191,6 +1209,7 @@
         <entry>qw</entry>
         <entry>%s/created`/created_at`/g</entry>
         <entry>%s/updated`/updated_at`/g</entry>
+        <entry>%s/;//g</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
