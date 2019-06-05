@@ -87,7 +87,6 @@
         <mark key="^" line="82" column="33" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/package.json" timestamp="1559398366681" />
       <file name="$USER_HOME$/Develop/m-career-wp-content-prd/wp-content/themes/mercari-recruit/functions/JobAPI.php" timestamp="1529998680114">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="15" column="5" />
@@ -219,12 +218,6 @@
         <mark key="]" line="12" column="60" />
         <mark key="^" line="26" column="66" />
         <mark key="." line="12" column="60" />
-      </file>
-      <file name="$USER_HOME$/Develop/recun/lib/mrec/github-client.js" timestamp="1554370786271">
-        <mark key="'" line="100" column="2" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/index.js" timestamp="1559399789876">
         <mark key="[" line="3" column="0" />
@@ -390,7 +383,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559393594914">
+      <file name="$USER_HOME$/Develop/devdojo19-pm-template/docker-compose.yml" timestamp="1559721997491">
         <mark key="'" line="11" column="18" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -617,7 +610,6 @@
         <mark key="^" line="213" column="0" />
         <mark key="." line="213" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/migrations/20190602103840-create-users.js" timestamp="1559471963332" />
       <file name="$USER_HOME$/Develop/recun-notif/.gitignore" timestamp="1534758461711">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="4" />
