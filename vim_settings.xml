@@ -207,6 +207,9 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/src/http/session/session.go" timestamp="1562648093482">
+        <mark key="'" line="25" column="30" />
+      </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/partial/item/left_column.html.twig" timestamp="1507168467089">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="4" />
@@ -366,7 +369,6 @@
         <mark key="." line="12" column="32" />
         <mark key="^" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/store/index.js" timestamp="1559790434554" />
       <file name="$USER_HOME$/Develop/recun/package.json" timestamp="1554368695680">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="28" />
@@ -841,7 +843,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="65" column="4" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="66" column="8" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
       <jump line="4" column="1" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
@@ -941,6 +942,7 @@
       <jump line="33" column="2" filename="$USER_HOME$/Develop/devdojo19-pm-template/README.md" />
       <jump line="13" column="0" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/router.js" />
       <jump line="37" column="11" filename="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/App.vue" />
+      <jump line="25" column="30" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/src/http/session/session.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
