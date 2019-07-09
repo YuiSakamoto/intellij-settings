@@ -222,6 +222,7 @@
         <mark key="^" line="26" column="66" />
         <mark key="." line="12" column="60" />
       </file>
+      <file name="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/src/utils/config/config.go" timestamp="1562666703277" />
       <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/router.js" timestamp="1559734159797">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="3" column="13" />
@@ -544,7 +545,10 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" timestamp="1562665149363" />
+      <file name="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" timestamp="1562666658209">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="57" column="13" />
+      </file>
       <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559390937073">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -851,8 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="21" filename="$USER_HOME$/Develop/soleil-web/bin/scraping-doctors-and-hospitals.go" />
-      <jump line="193" column="0" filename="$USER_HOME$/Develop/soleil-web/api/domain/prefecture.go" />
       <jump line="73" column="0" filename="$USER_HOME$/Develop/soleil-web/api/domain/prefecture.go" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/soleil-web/api/domain/prefecture.go" />
       <jump line="29" column="0" filename="$USER_HOME$/Develop/soleil-web/api/domain/region.go" />
@@ -951,6 +953,8 @@
       <jump line="23" column="7" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Gopkg.toml" />
       <jump line="61" column="28" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Gopkg.toml" />
       <jump line="68" column="30" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Gopkg.toml" />
+      <jump line="57" column="12" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" />
+      <jump line="2" column="0" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1149,7 +1153,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>AU</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8cm91dGVyLXZpZXc+Cg==</text>
@@ -1186,9 +1190,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>AU</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>AU</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1196,8 +1200,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Prefecture</entry>
-        <entry>prefecture</entry>
         <entry>hospital</entry>
         <entry>Progress</entry>
         <entry>progress</entry>
@@ -1216,6 +1218,8 @@
         <entry>internal</entry>
         <entry>cookie</entry>
         <entry>test</entry>
+        <entry>autho</entry>
+        <entry>AU</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prefecture/Prefecture/g</entry>
