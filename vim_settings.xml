@@ -545,9 +545,11 @@
         <mark key="." line="3" column="23" />
         <mark key="^" line="3" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" timestamp="1562666658209">
+      <file name="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" timestamp="1562667692013">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="57" column="13" />
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="55" column="32" />
+        <mark key="." line="55" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/devdojo19-pm-template/dockerfiles/server" timestamp="1559390937073">
         <mark key="[" line="5" column="0" />
@@ -957,8 +959,8 @@
       <jump line="2" column="0" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1150,7 +1152,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>AU</text>
