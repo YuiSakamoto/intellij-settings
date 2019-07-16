@@ -21,7 +21,6 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/config/config_production_jp.php" timestamp="1562744988503" />
       <file name="$USER_HOME$/Develop/recun/skill-test-templates/mercari/android-template/.circleci/config.yml" timestamp="1535017991106">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -130,6 +129,9 @@
         <mark key="^" line="3" column="96" />
         <mark key="." line="3" column="91" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/vendor/dietcube/dietcube/src/Dispatcher.php" timestamp="1563265396732">
+        <mark key="'" line="97" column="46" />
+      </file>
       <file name="$USER_HOME$/Develop/recun/review-templates/s-frontend.md.ejs" timestamp="1533646502235">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="20" />
@@ -148,6 +150,7 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/resource/custom_categories/ja_JP.php" timestamp="1563265683061" />
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/help_center/en_US/contact_from_web_no_login.html.twig" timestamp="1509084823446">
         <mark key="[" line="58" column="33" />
         <mark key="]" line="58" column="33" />
@@ -184,7 +187,6 @@
         <mark key="^" line="9" column="21" />
         <mark key="." line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/Service/GoogleReCaptchaService.php" timestamp="1562744017032" />
       <file name="$USER_HOME$/Develop/recun-deploy/scripts/m-recun-bot/m-recun-workable-deploy.sh" timestamp="1534317726424">
         <mark key="[" line="7" column="62" />
         <mark key="]" line="7" column="70" />
@@ -197,6 +199,7 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/Service/SearchService.php" timestamp="1563264734941" />
       <file name="$USER_HOME$/Develop/devdojo19-pm-template/src/web/src/components/HelloWorld.vue" timestamp="1559366112931">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="14" />
@@ -224,7 +227,6 @@
         <mark key="^" line="26" column="66" />
         <mark key="." line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/src/utils/config/config.go" timestamp="1562666703277" />
       <file name="$USER_HOME$/Develop/devdojo19-pm-yuitang/app/web/src/router.js" timestamp="1559734159797">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="3" column="13" />
@@ -261,12 +263,6 @@
         <mark key="]" line="23" column="29" />
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/Controller/SignUpController.php" timestamp="1562744041538" />
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/main.js" timestamp="1559381492400">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/server/src/models/index.js" timestamp="1559399778367">
         <mark key="[" line="8" column="0" />
@@ -342,6 +338,9 @@
         <mark key="]" line="28" column="28" />
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" timestamp="1563264819785">
+        <mark key="'" line="94" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/mercari-mini3/workspace/mercari-web-2-us/app/template/payment_method/verified.html.twig" timestamp="1509455027767">
         <mark key="[" line="22" column="24" />
@@ -442,11 +441,6 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/app/web/src/App.vue" timestamp="1559397858279">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/workable_transition/src/config/stages.php" timestamp="1531376260065">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="2" column="3" />
@@ -531,11 +525,6 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/devdojo19-pm-template/Brewfile" timestamp="1559541506998">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/mercari-corp-wp-theme/mercari-recruit/README.md" timestamp="1535694669938">
         <mark key="[" line="11" column="3" />
         <mark key="]" line="12" column="0" />
@@ -578,7 +567,6 @@
         <mark key="." line="90" column="20" />
         <mark key="^" line="90" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/src/http/http.go" timestamp="1562662496083" />
       <file name="$USER_HOME$/Develop/recun-deploy/recun-cluster-task-definition.json" timestamp="1534402349101">
         <mark key="[" line="25" column="53" />
         <mark key="]" line="25" column="60" />
@@ -852,16 +840,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/Develop/soleil-web/api/domain/prefecture.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/Develop/soleil-web/api/domain/prefecture.go" />
-      <jump line="29" column="0" filename="$USER_HOME$/Develop/soleil-web/api/domain/region.go" />
-      <jump line="5" column="4" filename="$USER_HOME$/Develop/soleil-web/api/domain/prefecture.go" />
-      <jump line="64" column="4" filename="$USER_HOME$/Develop/soleil-web/bin/scraping_doctors_and_hospitals.go" />
-      <jump line="234" column="0" filename="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" />
-      <jump line="72" column="4" filename="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" />
-      <jump line="210" column="0" filename="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" />
-      <jump line="52" column="4" filename="$USER_HOME$/Develop/soleil-web/api/cmd/scraping_doctors_and_hospitals.go" />
-      <jump line="70" column="24" filename="$USER_HOME$/Develop/soleil-web/bin/scraping_doctors_and_hospitals.go" />
       <jump line="64" column="32" filename="$USER_HOME$/Develop/github.com/maeharin/soleil-web/bin/scraping_doctors_and_hospitals.go" />
       <jump line="112" column="17" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
       <jump line="190" column="20" filename="$USER_HOME$/Develop/src/github.com/maeharin/soleil-web/cmd/scrape_doctors_and_hospitals.go" />
@@ -952,6 +930,16 @@
       <jump line="68" column="30" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Gopkg.toml" />
       <jump line="57" column="12" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/src/github.com/kouzoh/mercari-web-session-jp/Makefile" />
+      <jump line="280" column="21" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" />
+      <jump line="305" column="4" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" />
+      <jump line="345" column="56" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" />
+      <jump line="363" column="7" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" />
+      <jump line="364" column="67" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" />
+      <jump line="365" column="31" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" />
+      <jump line="376" column="30" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" />
+      <jump line="94" column="14" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/app/route/ja_JP.php" />
+      <jump line="55" column="17" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/vendor/dietcube/dietcube/src/Dispatcher.php" />
+      <jump line="97" column="46" filename="$USER_HOME$/Develop/mercari-mini-jp/workspace/mercari-web-2-jp/vendor/dietcube/dietcube/src/Dispatcher.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1150,7 +1138,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>AU</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICA8cm91dGVyLXZpZXc+Cg==</text>
@@ -1187,9 +1175,9 @@
       </register>
     </registers>
     <search>
-      <last-search>AU</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>AU</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -1197,8 +1185,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hospital</entry>
-        <entry>Progress</entry>
         <entry>progress</entry>
         <entry>doctor</entry>
         <entry>Doctor</entry>
@@ -1217,6 +1203,8 @@
         <entry>test</entry>
         <entry>autho</entry>
         <entry>AU</entry>
+        <entry>category</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>%s/prefecture/Prefecture/g</entry>
